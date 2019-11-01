@@ -6,6 +6,7 @@
   - [Tutorials](#tutorials)
   - [Videos](#videos)
   - [Inspiration](#inspiration)
+  - [Showcase (Source Code)](#showcase-source-code)
   - [Code Examples](#code-examples)
   - [Communities](#communities)
 
@@ -21,6 +22,10 @@
 Help us add more content here! send a pull request.
 
 ## Inspiration
+
+## Showcase (Source Code)
+
+Help us add more content here! send a pull request.
 
 ## Code Examples
 
