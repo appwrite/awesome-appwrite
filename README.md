@@ -1,3 +1,9 @@
+<h1 align="center">
+    <img width="900" src="logo.png" alt="logo"/>
+</h1>
+
+<hr/>
+
 # Awesome Appwrite
 
 * [Tutorials](#tutorials)
