@@ -3,9 +3,9 @@
 * [Tutorials](#tutorials)
 * [Videos](#videos)
 * [Showcase](#showcase)
+* [Code Examples](#code-examples)
 * [Communities](#communities)
 * [Inspiration](#inspiration)
-* [Code Examples] (#code_examples)
 
 ## Tutorials 
 
@@ -18,9 +18,9 @@
 
 ## Showcase
 
-## Communities 
-
 ## Code Examples
+
+## Communities 
 
 ## Inspiration
 
