@@ -1,8 +1,7 @@
-# Awesome Appwrite
+# Awesome Appwrite [![Awesome](images/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![alt text](logo.png?x=1 "Logo Title Text 1")
+![logo](images/logo.png "Logo")
 
-- [Awesome Appwrite](#awesome-appwrite)
   - [Tutorials](#tutorials)
   - [Videos](#videos)
   - [Inspiration](#inspiration)
