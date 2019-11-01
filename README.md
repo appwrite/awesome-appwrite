@@ -1,6 +1,6 @@
-![alt text](logo.png "Logo Title Text 1")
-
 # Awesome Appwrite
+
+![alt text](logo.png "Logo Title Text 1")
 
 - [Awesome Appwrite](#awesome-appwrite)
   - [Tutorials](#tutorials)
@@ -30,7 +30,7 @@ Help us add more content here! send a pull request.
 ## Code Examples
 
 * [Playground for Javascript](https://github.com/appwrite/playground-for-js)
-* [React + Appwrite TODO app](https://github.com/christyjacob4/react-todoist)
+* [React + Appwrite TODO App Demo](https://github.com/christyjacob4/react-todoist)
 
 ## Communities 
 
