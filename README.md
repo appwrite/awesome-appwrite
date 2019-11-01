@@ -1,6 +1,6 @@
 # Awesome Appwrite
 
-![alt text](logo.png "Logo Title Text 1")
+![alt text](logo.png?x=1 "Logo Title Text 1")
 
 - [Awesome Appwrite](#awesome-appwrite)
   - [Tutorials](#tutorials)
