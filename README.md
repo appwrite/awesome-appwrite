@@ -29,6 +29,9 @@ Help us add more content here! send a pull request.
 
 ## Code Examples
 
+* [Playground for Javascript](https://github.com/appwrite/playground-for-js)
+* [React + Appwrite TODO app](https://github.com/christyjacob4/react-todoist)
+
 ## Communities 
 
 * [Twitter](https://twitter.com/appwrite_io) (Official)
