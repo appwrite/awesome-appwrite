@@ -5,10 +5,10 @@
 - [Awesome Appwrite](#awesome-appwrite)
   - [Tutorials](#tutorials)
   - [Videos](#videos)
+  - [Inspiration](#inspiration)
   - [Showcase (Source Code)](#showcase-source-code)
   - [Code Examples](#code-examples)
   - [Communities](#communities)
-  - [Inspiration](#inspiration)
 
 ## Tutorials 
 
@@ -21,6 +21,8 @@
 
 Help us add more content here! send a pull request.
 
+## Inspiration
+
 ## Showcase (Source Code)
 
 * [careerpage.io](https://careerpage.io)
@@ -31,6 +33,12 @@ Help us add more content here! send a pull request.
 
 ## Communities 
 
-## Inspiration
+* [Twitter](https://twitter.com/appwrite_io) (Official)
+* [Facebook](https://www.facebook.com/appwrite.io/) (Official)
+* [Appwrite Developers on Facebook](https://www.facebook.com/groups/appwrite.developers/?source_id=227046654430085) (Official)
+* [Discord Server](https://discord.gg/GSeTUeA) (Official)
+* [Gitter](https://gitter.im/appwrite/community) (Official)
+
+
 
 
