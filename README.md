@@ -1,4 +1,4 @@
-<h1 align="center"><img width="900" src="logo.png"alt="logo"/></h1>
+![alt text](logo.png "Logo Title Text 1")
 
 # Awesome Appwrite
 
