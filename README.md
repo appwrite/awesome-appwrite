@@ -1,17 +1,14 @@
-<h1 align="center">
-    <img width="900" src="logo.png" alt="logo"/>
-</h1>
-
-<hr/>
+<h1 align="center"><img width="900" src="logo.png"alt="logo"/></h1>
 
 # Awesome Appwrite
 
-* [Tutorials](#tutorials)
-* [Videos](#videos)
-* [Showcase](#showcase-source-code)
-* [Code Examples](#code-examples)
-* [Communities](#communities)
-* [Inspiration](#inspiration)
+- [Awesome Appwrite](#awesome-appwrite)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+  - [Showcase (Source Code)](#showcase-source-code)
+  - [Code Examples](#code-examples)
+  - [Communities](#communities)
+  - [Inspiration](#inspiration)
 
 ## Tutorials 
 
