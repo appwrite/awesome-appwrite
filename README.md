@@ -5,6 +5,7 @@
 * [Showcase](#showcase)
 * [Communities](#communities)
 * [Inspiration](#inspiration)
+* [Code Examples] (#code_examples)
 
 ## Tutorials 
 
@@ -18,6 +19,8 @@
 ## Showcase
 
 ## Communities 
+
+## Code Examples
 
 ## Inspiration
 
