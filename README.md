@@ -2,7 +2,7 @@
 
 * [Tutorials](#tutorials)
 * [Videos](#videos)
-* [Showcase](#showcase-(Source-Code))
+* [Showcase](#showcase-source-code)
 * [Code Examples](#code-examples)
 * [Communities](#communities)
 * [Inspiration](#inspiration)
