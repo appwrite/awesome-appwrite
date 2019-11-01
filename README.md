@@ -8,6 +8,9 @@
 
 ## Tutorials 
 
+* [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
+* [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
+
 ## Videos
 
 ## Showcase
