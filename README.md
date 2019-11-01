@@ -6,7 +6,6 @@
   - [Tutorials](#tutorials)
   - [Videos](#videos)
   - [Inspiration](#inspiration)
-  - [Showcase (Source Code)](#showcase-source-code)
   - [Code Examples](#code-examples)
   - [Communities](#communities)
 
@@ -22,12 +21,6 @@
 Help us add more content here! send a pull request.
 
 ## Inspiration
-
-## Showcase (Source Code)
-
-* [careerpage.io](https://careerpage.io)
-* [TLV.AM](https://tlv.am)
-* [ashkelon.news](https://ashkelon.news)
 
 ## Code Examples
 
