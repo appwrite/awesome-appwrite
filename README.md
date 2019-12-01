@@ -29,6 +29,8 @@ Help us add more content here! send a pull request.
 * [We Created Appwrite to Make Software Development Less Painful](https://medium.com/@eldadfux/software-development-is-harder-than-ever-so-we-created-an-open-source-backend-to-make-it-less-533f3e3b1461?source=friends_link&sk=fe1c6ddf391ecc1af5e0dc3c20c881be)
 * [How We Integrated Our Docs and SDKs as First-Class Citizens of Our Coding Process](https://medium.com/appwrite-io/how-we-integrated-our-docs-and-sdks-as-first-class-citizens-of-our-coding-process-8e343def0e9?source=friends_link&sk=6f99e56da66d9ddd79867a8974389a24)
 * [How We Use Snyk to Protect Appwrite's Open-Source Projects from *Evil* Dependencies](https://medium.com/@eldadfux/this-is-how-we-use-snyk-to-protect-our-open-source-projects-from-evil-dependencies-6ee258ca5815?source=friends_link&sk=6b024f64a1ed3caae9d72bccdaeed647)
+* [Scheduled Tasks: The Good Way (or: Why You Should Stop Using Crontab)
+](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
 
 ## Showcase (Source Code)
 
