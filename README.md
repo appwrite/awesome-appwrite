@@ -19,6 +19,7 @@ Table of Contents:
 * [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
 * [Full List of Appwrite Environment Variables](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/environment-variables.md)
 * [Image Resizing and Cropping with Appwrite](https://medium.com/appwrite-io/how-to-use-appwrite-open-source-platform-as-your-image-cropping-optimisation-service-2c5efab4edcb?source=friends_link&sk=11c8c6d50c2c24d0084f20f98a90a0bd)
+* [Tips for running Appwrite in Production](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/running-in-production.md)
 
 ## Videos
 
