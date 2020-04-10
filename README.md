@@ -33,9 +33,11 @@ Help us add more content here! send a pull request.
 * [Scheduled Tasks: The Good Way (or: Why You Should Stop Using Crontab)
 ](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
 
-## Showcase (Source Code)
+## Showcase (Built with Appwrite)
 
-Help us add more content here! send a pull request.
+* **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. (Blog Post)[https://omniawrite.com/posts/update-1-0-0/]
+
+Share your apps here! send a pull request!
 
 ## Code Examples
 
