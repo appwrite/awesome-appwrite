@@ -32,6 +32,7 @@ Help us add more content here! send a pull request.
 * [How We Use Snyk to Protect Appwrite's Open-Source Projects from *Evil* Dependencies](https://medium.com/@eldadfux/this-is-how-we-use-snyk-to-protect-our-open-source-projects-from-evil-dependencies-6ee258ca5815?source=friends_link&sk=6b024f64a1ed3caae9d72bccdaeed647)
 * [Scheduled Tasks: The Good Way (or: Why You Should Stop Using Crontab)
 ](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
+* [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
 
 ## Showcase (Built with Appwrite)
 
@@ -51,7 +52,7 @@ Share your apps here! send a pull request!
 * [Facebook](https://www.facebook.com/appwrite.io/) (Official)
 * [Appwrite Developers on Facebook](https://www.facebook.com/groups/appwrite.developers/?source_id=227046654430085) (Official)
 * [Discord Server](https://discord.gg/GSeTUeA) (Official)
-* [Gitter](https://gitter.im/appwrite/community) (Official)
+* [Gitter](https://gitter.im/appwrite/community) (Legacy)
 
 
 
