@@ -37,7 +37,7 @@ Help us add more content here! send a pull request.
 
 ## Showcase (Built with Appwrite)
 
-* **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Blog Post](https://omniawrite.com/posts/update-1-0-0/)
+* **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite) [Blog Post](https://omniawrite.com/posts/update-1-0-0/)
 
 Share your apps here! send a pull request!
 
