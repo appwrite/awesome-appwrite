@@ -35,7 +35,7 @@ Help us add more content here! send a pull request.
 * [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
 * [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
 
-## Showcase (Built with Appwrite)
+## Showcase (Built with Appwrite 📣)
 
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0/)
 
@@ -45,6 +45,8 @@ Share your apps here! send a pull request!
 
 * [Playground for Javascript](https://github.com/appwrite/playground-for-js)
 * [React + Appwrite TODO App Demo](https://github.com/christyjacob4/react-todoist)
+* [Playground for Flutter (beta)](https://github.com/appwrite/playground-for-flutter)
+* [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
 
 ## Communities 
 
