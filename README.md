@@ -24,7 +24,7 @@ Table of Contents:
 
 ## Videos
 
-* [Introducing Appwrite for Flutter](https://www.youtube.com/watch?v=KNQzncq10CI) (online meetup with @eldadfux)
+* [Introducing Appwrite for Flutter](https://www.youtube.com/watch?v=KNQzncq10CI) (online meetup with [@eldadfux](https://github.com/eldadfux))
 
 ## Inspiration
 
