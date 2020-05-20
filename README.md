@@ -21,9 +21,10 @@ Table of Contents:
 * [Image Resizing and Cropping with Appwrite](https://medium.com/appwrite-io/how-to-use-appwrite-open-source-platform-as-your-image-cropping-optimisation-service-2c5efab4edcb?source=friends_link&sk=11c8c6d50c2c24d0084f20f98a90a0bd)
 * [Tips for running Appwrite in Production](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/running-in-production.md)
 * [Run Your Appwrite Backend Server With Any SMTP Provider for Max Email Deliverability](https://medium.com/@eldadfux/learn-how-to-run-your-appwrite-backend-server-with-any-smtp-provider-for-max-email-deliverability-c6ab2c3efec8?source=friends_link&sk=c4ad7bffb3952547cfb89137da581310)
+
 ## Videos
 
-Help us add more content here! send a pull request.
+* [Introducing Appwrite for Flutter (online meetup with @eldadfux)](https://www.youtube.com/watch?v=KNQzncq10CI)
 
 ## Inspiration
 
