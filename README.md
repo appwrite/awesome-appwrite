@@ -40,6 +40,8 @@ Table of Contents:
 
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0/)
 
+* **User Auth** - User auth is simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
+
 Share your apps here! send a pull request!
 
 ## Code Examples
