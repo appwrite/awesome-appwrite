@@ -24,6 +24,7 @@ Table of Contents:
 * [Run Your Appwrite Backend Server With Any SMTP Provider for Max Email Deliverability](https://medium.com/@eldadfux/learn-how-to-run-your-appwrite-backend-server-with-any-smtp-provider-for-max-email-deliverability-c6ab2c3efec8?source=friends_link&sk=c4ad7bffb3952547cfb89137da581310)
 * [Host Appwrite Backend with DigitalOcean Droplet](https://medium.com/@vaytrex/host-your-appwrite-backend-with-digitalocean-droplet-f3d248c60815)
 * [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
+* [Appwrite secure open-source backend server for Flutter example app](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
 
 ## Videos
 
@@ -53,6 +54,7 @@ Share your apps here! send a pull request!
 * [React + Appwrite TODO App Demo](https://github.com/christyjacob4/react-todoist)
 * [Playground for Flutter (beta)](https://github.com/appwrite/playground-for-flutter)
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
+* [Appnote: Example Flutter app with Appwrite as a backend](https://github.com/netfirms/appnote)
 
 ## Communities 
 
