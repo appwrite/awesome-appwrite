@@ -7,7 +7,7 @@ Table of Contents:
   - [Tutorials](#tutorials)
   - [Videos](#videos)
   - [Inspiration](#inspiration)
-  - [Showcase (Source Code)](#showcase-source-code)
+  - [Showcase (Source Code)](#showcase-built-with-appwrite-)
   - [Code Examples](#code-examples)
   - [Communities](#communities)
 
