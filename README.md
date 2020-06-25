@@ -64,6 +64,7 @@ Share your apps here! send a pull request!
 * [Playground for Flutter (beta)](https://github.com/appwrite/playground-for-flutter)
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
 * [Appnote: Example Flutter app with Appwrite as a backend](https://github.com/netfirms/appnote)
+* [Small Code to delete Appwrite dockers](https://gist.github.com/PedroCisnerosSantana/618a088f60a64f227363c6c10e80b366)
 
 ## Communities 
 
