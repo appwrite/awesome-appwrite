@@ -48,6 +48,7 @@ Table of Contents:
 ](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
 * [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
 * [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
+* [Appwrite Setup and Email / Password Authentication](https://justinnoel.dev/2020/06/27/appwrite-setup-and-email-password-authentication/)
 
 ## Showcase (Built with Appwrite 📣)
 
