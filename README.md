@@ -30,6 +30,7 @@ Table of Contents:
 
 * [Introducing Appwrite for Flutter](https://www.youtube.com/watch?v=KNQzncq10CI) (online meetup with [@eldadfux](https://github.com/eldadfux))
 * [AppWrite - Overview with installation (Windows)](https://youtu.be/cJonzmJkPlQ)
+* [AppWrite - Services](https://youtu.be/if8f_Bf-Hlw)
 
 ## Inspiration
 
