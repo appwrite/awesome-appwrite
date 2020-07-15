@@ -68,6 +68,7 @@ Share your apps here! send a pull request!
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
 * [Appnote: Example Flutter app with Appwrite as a backend](https://github.com/netfirms/appnote)
 * [Small Code to delete Appwrite dockers](https://gist.github.com/PedroCisnerosSantana/618a088f60a64f227363c6c10e80b366)
+* [A todo app with Flutter and Appwrite as a backend](https://github.com/Dev-Manny/Appwrite-Todo)
 
 ## Communities 
 
