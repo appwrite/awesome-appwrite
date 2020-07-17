@@ -36,6 +36,10 @@ Table of Contents:
 * [Appwrite + Flutter EP1: Setup Appwrite](https://www.youtube.com/watch?v=teUUt4ZqIvI)
 * [Appwrite + Flutter EP2: Wireframing](https://www.youtube.com/watch?v=RjE0tmyBdow)
 * [Appwrite + Flutter EP3: New Flutter project, UI designs](https://www.youtube.com/watch?v=HvcemJhSeE8)
+* [Appwrite + Flutter EP4: Let's Authenticate Users](https://www.youtube.com/watch?v=WcGQDmuwGMM)
+* [Appwrite + Flutter EP5: Proper State management & Routing and navigation setup](https://www.youtube.com/watch?v=kYpwnYY9Gf8)
+* [Appwrite + Flutter EP6: Routing, profile, logout](https://www.youtube.com/watch?v=4ZSX0VSg4bM)
+* [Appwrite + Flutter EP7: Querying and Listing Transactions](https://www.youtube.com/watch?v=X9vw4PGDbGc)
 
 ## Books
 
