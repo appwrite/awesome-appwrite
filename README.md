@@ -69,6 +69,7 @@ Share your apps here! send a pull request!
 * [Playground for Javascript](https://github.com/appwrite/playground-for-js)
 * [React + Appwrite TODO App Demo](https://github.com/christyjacob4/react-todoist)
 * [Playground for Flutter (beta)](https://github.com/appwrite/playground-for-flutter)
+* [Playground for Deno (beta)](https://github.com/appwrite/playground-for-deno)
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
 * [Appnote: Example Flutter app with Appwrite as a backend](https://github.com/netfirms/appnote)
 * [Small Code to delete Appwrite dockers](https://gist.github.com/PedroCisnerosSantana/618a088f60a64f227363c6c10e80b366)
