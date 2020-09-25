@@ -31,8 +31,8 @@ Table of Contents:
 ## Videos
 
 * [Introducing Appwrite for Flutter](https://www.youtube.com/watch?v=KNQzncq10CI) (online meetup with [@eldadfux](https://github.com/eldadfux))
-* [AppWrite - Overview with installation (Windows)](https://youtu.be/cJonzmJkPlQ)
-* [AppWrite - Services](https://youtu.be/if8f_Bf-Hlw)
+* [Appwrite - Overview with installation (Windows)](https://youtu.be/cJonzmJkPlQ)
+* [Appwrite - Services](https://youtu.be/if8f_Bf-Hlw)
 * [Overview and installation on Windows](https://youtu.be/cJonzmJkPlQ)
 * [Appwrite + Flutter EP00: Series Introduction](https://www.youtube.com/watch?v=eYXb_xbUjio)
 * [Appwrite + Flutter EP01: Setup Appwrite](https://www.youtube.com/watch?v=teUUt4ZqIvI)
@@ -72,11 +72,11 @@ Table of Contents:
 
 * **AppNote** - Flutter notes app using Appwrite as a backend for storing documents. [Source Code](https://github.com/netfirms/appnote), [Blog Post](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
 
-* **Flutter TODO App** A TODO app with Flutter and Appwrite as a backend.[Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
+* **Flutter TODO App** A TODO app with Flutter and Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
 
 Share your apps here! send a pull request!
 
-## Playgrounds
+## Playgrounds & Snippets
 
 * [Playground for Javascript](https://github.com/appwrite/playground-for-js)
 * [Playground for Flutter](https://github.com/appwrite/playground-for-flutter)
@@ -84,7 +84,7 @@ Share your apps here! send a pull request!
 * [Playground for Python](https://github.com/appwrite/playground-for-python)
 * [Playground for Node.js](https://github.com/appwrite/playground-for-node)
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
-* [Small Code to delete Appwrite dockers](https://gist.github.com/PedroCisnerosSantana/618a088f60a64f227363c6c10e80b366)
+* [Delete Appwrite Docker containers and volumes](https://gist.github.com/PedroCisnerosSantana/618a088f60a64f227363c6c10e80b366)
 
 ## Communities 
 
