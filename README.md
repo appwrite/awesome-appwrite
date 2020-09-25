@@ -42,6 +42,9 @@ Table of Contents:
 * [Appwrite + Flutter EP07: Querying and Listing Transactions](https://www.youtube.com/watch?v=X9vw4PGDbGc)
 * [Appwrite + Flutter EP08: Create, Read, Update, Delete Operations](https://www.youtube.com/watch?v=1HodtTldSdA)
 * [Appwrite + Flutter EP09: Searching, ordering and filtering documents](https://www.youtube.com/watch?v=bcG7G-1QBOk)
+* [Appwrite + Flutter EP10: Deploying Appwrite Server in VPS + Tips for Appwrite in Production](https://www.youtube.com/watch?v=WzHdvLItrEc)
+* [Appwrite + Flutter EP11: User preferences and Locale API](https://www.youtube.com/watch?v=qKkgXy3H7Mw)
+* [Appwrite + Flutter EP12: Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
 
 ## Books
 
