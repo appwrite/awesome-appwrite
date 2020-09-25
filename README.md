@@ -25,6 +25,8 @@ Table of Contents:
 * [Host Appwrite Backend with DigitalOcean Droplet](https://medium.com/@vaytrex/host-your-appwrite-backend-with-digitalocean-droplet-f3d248c60815)
 * [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 * [Appwrite secure open-source backend server for Flutter example app](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
+* [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
+
 
 ## Videos
 
@@ -57,7 +59,6 @@ Table of Contents:
 * [How We Use Snyk to Protect Appwrite's Open-Source Projects from *Evil* Dependencies](https://medium.com/@eldadfux/this-is-how-we-use-snyk-to-protect-our-open-source-projects-from-evil-dependencies-6ee258ca5815?source=friends_link&sk=6b024f64a1ed3caae9d72bccdaeed647)
 * [Scheduled Tasks: The Good Way (or: Why You Should Stop Using Crontab)
 ](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
-* [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
 * [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
 * [Appwrite Setup and Email / Password Authentication](https://justinnoel.dev/2020/06/27/appwrite-setup-and-email-password-authentication/)
 
@@ -67,28 +68,29 @@ Table of Contents:
 
 * **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 
+* **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/react-todoist)
+
+* **AppNote** - Flutter notes app using Appwrite as a backend for storing documents. [Source Code](https://github.com/netfirms/appnote), [Blog Post](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
+
+* **Flutter TODO App** A TODO app with Flutter and Appwrite as a backend.[Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
+
 Share your apps here! send a pull request!
 
-## Code Examples
+## Playgrounds
 
 * [Playground for Javascript](https://github.com/appwrite/playground-for-js)
-* [React + Appwrite TODO App Demo](https://github.com/christyjacob4/react-todoist)
-* [Playground for Flutter (beta)](https://github.com/appwrite/playground-for-flutter)
-* [Playground for Deno (beta)](https://github.com/appwrite/playground-for-deno)
+* [Playground for Flutter](https://github.com/appwrite/playground-for-flutter)
+* [Playground for Deno](https://github.com/appwrite/playground-for-deno)
+* [Playground for Python](https://github.com/appwrite/playground-for-python)
+* [Playground for Node.js](https://github.com/appwrite/playground-for-node)
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
-* [Appnote: Example Flutter app with Appwrite as a backend](https://github.com/netfirms/appnote)
 * [Small Code to delete Appwrite dockers](https://gist.github.com/PedroCisnerosSantana/618a088f60a64f227363c6c10e80b366)
-* [A todo app with Flutter and Appwrite as a backend](https://github.com/Dev-Manny/Appwrite-Todo)
 
 ## Communities 
 
-* [Appwrite Blog](https://medium.com/appwrite-io) (Official)
-* [Twitter](https://twitter.com/appwrite_io) (Official)
-* [Facebook](https://www.facebook.com/appwrite.io/) (Official)
-* [Appwrite Developers on Facebook](https://www.facebook.com/groups/appwrite.developers/?source_id=227046654430085) (Official)
-* [Discord Server](https://discord.gg/GSeTUeA) (Official)
-* [Gitter](https://gitter.im/appwrite/community) (Legacy)
-
-
-
-
+* [Appwrite Blog](https://medium.com/appwrite-io) (Official, global)
+* * [Discord Server](https://discord.gg/GSeTUeA) (Official, global)
+* [Twitter](https://twitter.com/appwrite_io) (Official, global)
+* [Facebook](https://www.facebook.com/appwrite.io/) (Official, global)
+* [Appwrite Developers on Facebook](https://www.facebook.com/groups/appwrite.developers/?source_id=227046654430085) (Official, global)
+* [Gitter](https://gitter.im/appwrite/community) (Legacy, global)
