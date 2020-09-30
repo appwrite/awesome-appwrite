@@ -72,7 +72,9 @@ Table of Contents:
 
 * **AppNote** - Flutter notes app using Appwrite as a backend for storing documents. [Source Code](https://github.com/netfirms/appnote), [Blog Post](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
 
-* **Flutter TODO App** A TODO app with Flutter and Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
+* **Flutter TODO App** - A TODO app with Flutter and Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
+
+* **Login Page using Appwrite + Svelte** - A login/register page to showcase Appwrite's JS API with Svelte. [Source Code](https://github.com/PineappleIOnic/appwrite-svelte)
 
 Share your apps here! send a pull request!
 
