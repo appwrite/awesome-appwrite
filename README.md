@@ -1,4 +1,4 @@
-# Awesome Appwrite [![Awesome](images/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Appwrite Next Level of awsomeness!!!!!![![Awesome](images/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![logo](images/logo.png "Logo")
 
