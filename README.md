@@ -51,6 +51,7 @@ Table of Contents:
 ## Books
 
 * [Appwrite Up and Running by Alejandro Garcia](https://leanpub.com/appwrite-up-and-running/)
+* [Appwrite Up and Running](https://leanpub.com/appwrite-up-and-running)
 
 ## Inspiration
 
