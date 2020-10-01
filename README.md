@@ -54,9 +54,9 @@ Table of Contents:
 
 ## Inspiration
 
-* [We Created Appwrite to Make Software Development Less Painful](https://medium.com/@eldadfux/software-development-is-harder-than-ever-so-we-created-an-open-source-backend-to-make-it-less-533f3e3b1461?source=friends_link&sk=fe1c6ddf391ecc1af5e0dc3c20c881be)
-* [How We Integrated Our Docs and SDKs as First-Class Citizens of Our Coding Process](https://medium.com/appwrite-io/how-we-integrated-our-docs-and-sdks-as-first-class-citizens-of-our-coding-process-8e343def0e9?source=friends_link&sk=6f99e56da66d9ddd79867a8974389a24)
-* [How We Use Snyk to Protect Appwrite's Open-Source Projects from *Evil* Dependencies](https://medium.com/@eldadfux/this-is-how-we-use-snyk-to-protect-our-open-source-projects-from-evil-dependencies-6ee258ca5815?source=friends_link&sk=6b024f64a1ed3caae9d72bccdaeed647)
+* [We created Appwrite to make Software Development Less Painful](https://medium.com/@eldadfux/software-development-is-harder-than-ever-so-we-created-an-open-source-backend-to-make-it-less-533f3e3b1461?source=friends_link&sk=fe1c6ddf391ecc1af5e0dc3c20c881be)
+* [How we integrated our Docs and SDKs as First-Class Citizens of our coding process](https://medium.com/appwrite-io/how-we-integrated-our-docs-and-sdks-as-first-class-citizens-of-our-coding-process-8e343def0e9?source=friends_link&sk=6f99e56da66d9ddd79867a8974389a24)
+* [How we wse Snyk to protect Appwrite's Open-Source Projects from *Evil* Dependencies](https://medium.com/@eldadfux/this-is-how-we-use-snyk-to-protect-our-open-source-projects-from-evil-dependencies-6ee258ca5815?source=friends_link&sk=6b024f64a1ed3caae9d72bccdaeed647)
 * [Scheduled Tasks: The Good Way (or: Why You Should Stop Using Crontab)
 ](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
 * [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
@@ -66,13 +66,13 @@ Table of Contents:
 
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
 
-* **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
+* **User Auth** - User auth is a simple user authentication tool for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/react-todoist)
 
-* **AppNote** - Flutter notes app using Appwrite as a backend for storing documents. [Source Code](https://github.com/netfirms/appnote), [Blog Post](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
+* **AppNote** - Flutter notes app uses Appwrite as a backend for storing documents. [Source Code](https://github.com/netfirms/appnote), [Blog Post](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
 
-* **Flutter TODO App** A TODO app with Flutter and Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
+* **Flutter TODO App**  TODO app developed using Flutter with Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
 
 Share your apps here! send a pull request!
 
