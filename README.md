@@ -2,13 +2,14 @@
 
 ![logo](images/logo.png "Logo")
 
-Table of Contents:
+## Table of Contents:
 
   - [Tutorials](#tutorials)
   - [Videos](#videos)
+  - [Books](#books)
   - [Inspiration](#inspiration)
   - [Showcase (Source Code)](#showcase-built-with-appwrite-)
-  - [Code Examples](#code-examples)
+  - [Playgrounds and Snippets](#playgrounds-and-snippets)
   - [Communities](#communities)
 
 ## Tutorials 
@@ -76,7 +77,7 @@ Table of Contents:
 
 Share your apps here! send a pull request!
 
-## Playgrounds & Snippets
+## Playgrounds and Snippets
 
 * [Playground for Javascript](https://github.com/appwrite/playground-for-js)
 * [Playground for Flutter](https://github.com/appwrite/playground-for-flutter)
