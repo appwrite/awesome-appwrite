@@ -2,7 +2,7 @@
 
 ![logo](images/logo.png "Logo")
 
-Table of Contents:
+# Table of Contents:
 
   - [Tutorials](#tutorials)
   - [Videos](#videos)
