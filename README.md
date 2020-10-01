@@ -1,4 +1,5 @@
 # Awesome Appwrite [![Awesome](images/badge.svg)](https://github.com/sindresorhus/awesome)
+> Carefully curated list of awesome Appwrite resources.
 
 ![logo](images/logo.png "Logo")
 
