@@ -75,6 +75,8 @@
 
 * **Flutter TODO App** A TODO app with Flutter and Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
 
+* **Flutter Appwrite Login Template** A starter template to get you up and running with Appwrite E-mail Authentication. [Source Code](https://github.com/alistairholmes/flutter-appwrite-login)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
