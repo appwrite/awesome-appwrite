@@ -74,7 +74,7 @@ Table of Contents:
 
 * **Flutter TODO App** A TODO app with Flutter and Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
 
-Share your apps here! send a pull request!
+Share your apps here! Send a pull request!
 
 ## Playgrounds & Snippets
 
