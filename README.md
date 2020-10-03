@@ -80,7 +80,7 @@
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
-
+* [Appwrite-Playground-for-Android-with-Retrofit](https://github.com/subhav13/Appwrite-Playground-for-Android-with-Retrofit)
 * [Playground for Javascript](https://github.com/appwrite/playground-for-js)
 * [Playground for Flutter](https://github.com/appwrite/playground-for-flutter)
 * [Playground for Deno](https://github.com/appwrite/playground-for-deno)
