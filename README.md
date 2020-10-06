@@ -39,7 +39,7 @@ Table of Contents:
 * [Appwrite + Flutter EP02: Wireframing](https://www.youtube.com/watch?v=RjE0tmyBdow)
 * [Appwrite + Flutter EP03: New Flutter project, UI designs](https://www.youtube.com/watch?v=HvcemJhSeE8)
 * [Appwrite + Flutter EP04: Let's Authenticate Users](https://www.youtube.com/watch?v=WcGQDmuwGMM)
-* [Appwrite + Flutter EP4.1: Quick fix for Permission Error](https://www.youtube.com/watch?v=EBevk7dfTjY&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk)
+* [Appwrite + Flutter EP4.1: Quick fix for Permission Error](https://www.youtube.com/watch?v=EBevk7dfTjY)
 * [Appwrite + Flutter EP05: Proper State management & Routing and navigation setup](https://www.youtube.com/watch?v=kYpwnYY9Gf8)
 * [Appwrite + Flutter EP06: Routing, profile, logout](https://www.youtube.com/watch?v=4ZSX0VSg4bM)
 * [Appwrite + Flutter EP07: Querying and Listing Transactions](https://www.youtube.com/watch?v=X9vw4PGDbGc)
