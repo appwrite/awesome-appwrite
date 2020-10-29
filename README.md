@@ -33,6 +33,7 @@
 
 ## Videos
 
+* [Appwrite - Secure, Open-Source Backend Server - #techWebinarNepal](https://www.youtube.com/watch?v=OPkHCyq7nlw)
 * [Introducing Appwrite for Flutter](https://www.youtube.com/watch?v=KNQzncq10CI) (online meetup with [@eldadfux](https://github.com/eldadfux))
 * [Appwrite - Overview with installation (Windows)](https://youtu.be/cJonzmJkPlQ)
 * [Appwrite - Services](https://youtu.be/if8f_Bf-Hlw)
@@ -81,6 +82,8 @@
 * **Login Page using Appwrite + Svelte** - A login/register page to showcase Appwrite's JS API with Svelte. [Source Code](https://github.com/PineappleIOnic/appwrite-svelte)
 
 * **Flutter Appwrite Login Template** A starter template to get you up and running with Appwrite E-mail Authentication. [Source Code](https://github.com/alistairholmes/flutter-appwrite-login)
+
+* **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 Share your apps here! send a pull request!
 
