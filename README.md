@@ -83,6 +83,8 @@
 
 * **Flutter Appwrite Login Template** A starter template to get you up and running with Appwrite E-mail Authentication. [Source Code](https://github.com/alistairholmes/flutter-appwrite-login)
 
+* **Flutter Appwrite Social App** A Social App playground for testing the features of Appwrite. [Source Code](https://github.com/alistairholmes/flutter-appwrite-social-app)
+
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 Share your apps here! send a pull request!
