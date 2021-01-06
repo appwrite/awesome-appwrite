@@ -91,12 +91,12 @@ Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
 
-* [Playground for Android with Retrofit](https://github.com/subhav13/Appwrite-Playground-for-Android-with-Retrofit)
-* [Playground for Javascript](https://github.com/appwrite/playground-for-js)
+* [Playground for Web](https://github.com/appwrite/playground-for-web)
 * [Playground for Flutter](https://github.com/appwrite/playground-for-flutter)
 * [Playground for Deno](https://github.com/appwrite/playground-for-deno)
 * [Playground for Python](https://github.com/appwrite/playground-for-python)
 * [Playground for Node.js](https://github.com/appwrite/playground-for-node)
+* [Playground for Android with Retrofit](https://github.com/subhav13/Appwrite-Playground-for-Android-with-Retrofit)
 * [Playground for Android](https://github.com/appwrite/playground-for-android)
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
 * [Delete Appwrite Docker containers and volumes](https://gist.github.com/PedroCisnerosSantana/618a088f60a64f227363c6c10e80b366)
