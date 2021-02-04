@@ -106,6 +106,7 @@ Share your apps here! send a pull request!
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-js)
 * [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) (beta)
 * [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php)
+* [Appwrite Svelte SDK](https://github.com/appwrite/sdk-for-svelte)
 * [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node)
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) (beta)
 * [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) (beta)
