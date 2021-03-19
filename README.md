@@ -29,7 +29,13 @@
 * [Appwrite secure open-source backend server for Flutter example app](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
 * [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
 * [How setup Appwrite for Android with Retrofit ( Direct HTTP Request )](https://medium.com/@developersm13/how-to-setup-appwrite-io-for-android-with-retrofit-e6271d770cad)
-
+* [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j)
+* [Sending a Custom Welcome Email Using Appwrite Functions and Mailgun](https://dev.to/appwrite/sending-a-custom-welcome-email-using-appwrite-functions-and-mailgun-225a)
+* [Learn How to Create and Run Appwrite Functions With Dart](https://dev.to/appwrite/learn-how-to-create-and-run-appwrite-functions-with-dart-5668)
+* [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc)
+* [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68)
+* [Learn How to Disable ClamAV in Your Appwrite Stack and Reduce Memory Usage](https://dev.to/appwrite/learn-how-to-disable-clamav-in-your-appwrite-stack-and-reduce-memory-usage-2e37)
+* [Appwrite Releases a Native Svelte SDK for Its Open-Source BaaS](https://dev.to/appwrite/appwrite-releases-a-native-svelte-sdk-for-its-open-source-baas-5g0g)
 
 ## Videos
 
