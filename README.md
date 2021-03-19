@@ -58,6 +58,8 @@
 * [Appwrite + Flutter EP10: Deploying Appwrite Server in VPS + Tips for Appwrite in Production](https://www.youtube.com/watch?v=WzHdvLItrEc)
 * [Appwrite + Flutter EP11: User preferences and Locale API](https://www.youtube.com/watch?v=qKkgXy3H7Mw)
 * [Appwrite + Flutter EP12: Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
+* [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=16&t=14s)
+* [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=17&t=142s)
 
 ## Books
 
