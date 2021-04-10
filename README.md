@@ -100,6 +100,8 @@
 
 * **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
 
+* **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
+
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
 
 
