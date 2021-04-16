@@ -59,6 +59,7 @@
 * [Appwrite + Flutter EP10: Deploying Appwrite Server in VPS + Tips for Appwrite in Production](https://www.youtube.com/watch?v=WzHdvLItrEc)
 * [Appwrite + Flutter EP11: User preferences and Locale API](https://www.youtube.com/watch?v=qKkgXy3H7Mw)
 * [Appwrite + Flutter EP12: Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
+* [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
 * [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=16&t=14s)
 * [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=17&t=142s)
 
@@ -88,6 +89,8 @@
 
 * **Login Page using Appwrite + Svelte** - A login/register page to showcase Appwrite's JS API with Svelte. [Source Code](https://github.com/PineappleIOnic/appwrite-svelte)
 
+* **Flutter Appwrite Quiz App** A simple Quiz App built with Flutter and Appwrite [Source Code](https://github.com/appwrite/quiz-with-flutter)
+
 * **Flutter Appwrite Login Template** A starter template to get you up and running with Appwrite E-mail Authentication. [Source Code](https://github.com/alistairholmes/flutter-appwrite-login)
 
 * **Flutter Appwrite Social App** A Social App playground for testing the features of Appwrite. [Source Code](https://github.com/alistairholmes/flutter-appwrite-social-app)
@@ -99,6 +102,8 @@
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) [Demo](https://appwrite-todo-with-react.vercel.app/)
 
 * **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
+
+* **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
 
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
 
