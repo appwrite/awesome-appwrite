@@ -13,8 +13,9 @@
   - [SDK](#SDK)
   - [Communities](#communities)
 
-## 30 Days of Appwrite
-Projects built during 30 Days Of Appwrite. 
+## 30 Days of Appwrite ✨
+Showcase for projects built during 30 Days Of Appwrite!! 
+Submit your projects and win some Awesome Appwrite Swag 🤩 
 <!-- Raise a PR and add a link to your project under this section. -->
 * [Title of your Project](http://link_to_your_project)
 
