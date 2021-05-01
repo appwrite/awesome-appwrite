@@ -70,6 +70,10 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
 * [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=16&t=14s)
 * [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=17&t=142s)
+* [Flutter + Appwrite Starter Application Template (Part 1)](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
+* [Flutter + Appwrite Starter Application Template (Part 2)](https://www.youtube.com/watch?v=W_PH5tHbhhM)
+* [Flutter+Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
+* [Flutter + Appwrite Starter Application Template](https://www.youtube.com/watch?v=UZw4VVpt_ZI)
 
 ## Books
 
