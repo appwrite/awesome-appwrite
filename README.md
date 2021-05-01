@@ -119,6 +119,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
 
+* **VSCode Extension** - View your Appwrite Project without ever leaving [VSCode](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite). Built by @alexweininger 
+
 
 Share your apps here! send a pull request!
 
