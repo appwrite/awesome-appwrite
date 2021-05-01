@@ -14,6 +14,8 @@
   - [Communities](#communities)
 
 ## 30 Days of Appwrite ✨
+* [Day 1 - Pilot](https://dev.to/appwrite/30daysofappwrite-4hh)
+
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
 <!-- Raise a PR and add a link to your project under this section. -->
