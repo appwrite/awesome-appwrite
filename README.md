@@ -11,6 +11,7 @@
   - [Showcase (Source Code)](#showcase-built-with-appwrite-)
   - [Playgrounds and Snippets](#playgrounds-and-snippets)
   - [SDK](#SDK)
+  - [Tools](#Tools)
   - [Communities](#communities)
 
 ## 30 Days of Appwrite ✨
@@ -122,8 +123,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
 
-* **VSCode Extension** - View your Appwrite Project without ever leaving [VSCode](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite). Built by @alexweininger 
-
 
 Share your apps here! send a pull request!
 
@@ -149,6 +148,10 @@ Share your apps here! send a pull request!
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) (beta)
 * [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) (beta)
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) (beta)
+
+## Tools
+* [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
+* [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) interact with your Appwrite server side APIs from your terminal.
 
 ## Communities 
 
