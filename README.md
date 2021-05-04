@@ -17,6 +17,7 @@
 * [Day 1 - Pilot](https://dev.to/appwrite/30daysofappwrite-4hh)
 * [Day 2 - Installation](https://dev.to/appwrite/installing-appwrite-366o)
 * [Day 3 - Appwrite’s building blocks](https://dev.to/appwrite/30daysofappwrite-appwrite-s-building-blocks-1936)
+* [Day 4 - Appwrite Dashboard](https://dev.to/appwrite/30daysofappwrite-appwrite-dashboard-15cc)
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
