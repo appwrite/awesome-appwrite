@@ -24,6 +24,7 @@
 * [Day 7 - Server Side SDKs](https://dev.to/appwrite/30daysofappwrite-server-side-sdks-24di)
 * [Day 8 - Accounts & Users API](https://dev.to/appwrite/30daysofappwrite-accounts-users-api-4592)
 * [Day 9 - Login and Signup](https://dev.to/appwrite/30daysofappwrite-login-and-signup-2957)
+* [Day 10 - OAuth Providers](https://dev.to/appwrite/30daysofappwrite-oauth-providers-3jf6)
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
