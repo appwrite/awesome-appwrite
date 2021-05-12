@@ -26,6 +26,7 @@
 * [Day 9 - Login and Signup](https://dev.to/appwrite/30daysofappwrite-login-and-signup-2957)
 * [Day 10 - OAuth Providers](https://dev.to/appwrite/30daysofappwrite-oauth-providers-3jf6)
 * [Day 11 - Getting Started with SMTP](https://dev.to/appwrite/30daysofappwrite-getting-started-with-smtp-1e2e)
+* [Day 12 - Email Verification and Forgot Password](https://dev.to/appwrite/30daysofappwrite-email-verification-and-forgot-password-420o)
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
