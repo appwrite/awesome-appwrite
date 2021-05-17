@@ -31,6 +31,7 @@
 * [Day 14 - Using Team Invites](https://dev.to/appwrite/30daysofappwrite-using-team-invites-gk1)
 * [Day 15 - Appwrite Database](https://dev.to/appwrite/30daysofappwrite-appwrite-database-22an)
 * [Day 16 - Database Design 🧐](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
+* [Day 17 - Create User Profiles](https://dev.to/appwrite/30daysofappwrite-create-user-profiles-1c3m)
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
