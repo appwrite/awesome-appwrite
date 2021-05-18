@@ -32,6 +32,7 @@
 * [Day 15 - Appwrite Database](https://dev.to/appwrite/30daysofappwrite-appwrite-database-22an)
 * [Day 16 - Database Design 🧐](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
 * [Day 17 - Create User Profiles](https://dev.to/appwrite/30daysofappwrite-create-user-profiles-1c3m)
+* [Day 18 - Create Blog Posts](https://dev.to/appwrite/30daysofappwrite-create-blog-posts-31fi)
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
