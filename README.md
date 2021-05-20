@@ -34,6 +34,7 @@
 * [Day 17 - Create User Profiles](https://dev.to/appwrite/30daysofappwrite-create-user-profiles-1c3m)
 * [Day 18 - Create Blog Posts](https://dev.to/appwrite/30daysofappwrite-create-blog-posts-31fi)
 * [Day 19 - Appwrite Storage API](https://dev.to/appwrite/30daysofappwrite-appwrite-storage-api-hgm)
+* [Day 20 - File Uploads and Downloads](https://dev.to/appwrite/30daysofappwrite-file-uploads-and-downloads-1dld)
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
