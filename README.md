@@ -37,6 +37,7 @@
 * [Day 20 - File Uploads and Downloads](https://dev.to/appwrite/30daysofappwrite-file-uploads-and-downloads-1dld)
 * [Day 21 - Appwrite Avatars API](https://dev.to/appwrite/30daysofappwrite-appwrite-avatars-api-epi)
 * [Day 22 - Appwrite CLI](https://dev.to/appwrite/30daysofappwrite-appwrite-cli-2mde)
+* [Day 23 - Appwrite Cloud Functions](https://dev.to/appwrite/30daysofappwrite-appwrite-cloud-functions-1pf2)
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
