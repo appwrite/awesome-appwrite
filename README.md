@@ -38,6 +38,7 @@
 * [Day 21 - Appwrite Avatars API](https://dev.to/appwrite/30daysofappwrite-appwrite-avatars-api-epi)
 * [Day 22 - Appwrite CLI](https://dev.to/appwrite/30daysofappwrite-appwrite-cli-2mde)
 * [Day 23 - Appwrite Cloud Functions](https://dev.to/appwrite/30daysofappwrite-appwrite-cloud-functions-1pf2)
+* [Day 24 - Our First Cloud Function](https://dev.to/appwrite/30daysofappwrite-our-first-cloud-function-59k6)
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
