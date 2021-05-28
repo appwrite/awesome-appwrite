@@ -42,6 +42,7 @@
 * [Day 25 - Cloud Function with CRON](https://dev.to/appwrite/30daysofappwrite-cloud-function-with-cron-258c)
 * [Day 26 - JWT Support in Appwrite](https://dev.to/appwrite/30daysofappwrite-jwt-l08)
 * [Day 27 - Appwrite for Production](https://dev.to/appwrite/30daysofappwrite-appwrite-for-production-56hi)
+* [Day 28 - Docker Swarm Integration](https://dev.to/appwrite/30daysofappwrite-docker-swarm-integration-2io9)
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
