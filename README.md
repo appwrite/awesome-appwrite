@@ -43,6 +43,11 @@
 * [Day 26 - JWT Support in Appwrite](https://dev.to/appwrite/30daysofappwrite-jwt-l08)
 * [Day 27 - Appwrite for Production](https://dev.to/appwrite/30daysofappwrite-appwrite-for-production-56hi)
 * [Day 28 - Docker Swarm Integration](https://dev.to/appwrite/30daysofappwrite-docker-swarm-integration-2io9)
+* [Day 29 - Grafana Integration](https://dev.to/appwrite/grafana-integration-50p9)
+
+
+
+
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
