@@ -53,6 +53,8 @@ Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.i
 Submit your projects and win some Awesome Appwrite Swag 🤩 
 <!-- Raise a PR and add a link to your project under this section. -->
 * [Title of your Project](http://link_to_your_project)
+* [react-native-appwrite-oauth](https://github.com/DiegoBM/react-native-appwrite-oauth)
+* [appwrite-todo-with-react-native](https://github.com/DiegoBM/appwrite-todo-with-react-native)
 
 ## Tutorials 
 
