@@ -54,6 +54,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 <!-- Raise a PR and add a link to your project under this section. -->
 * [Title of your Project](http://link_to_your_project)
 
+* [Dart Online Compiler](https://github.com/aadarshadhakalg/BLoC-Appwrite)
+
 ## Tutorials 
 
 * [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
