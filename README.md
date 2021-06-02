@@ -85,7 +85,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * [Appwrite - Secure, Open-Source Backend Server - #techWebinarNepal](https://www.youtube.com/watch?v=OPkHCyq7nlw)
 * [Introducing Appwrite for Flutter](https://www.youtube.com/watch?v=KNQzncq10CI) (online meetup with [@eldadfux](https://github.com/eldadfux))
-* [Appwrite - Overview with installation (Windows)](https://youtu.be/cJonzmJkPlQ)
 * [Appwrite - Services](https://youtu.be/if8f_Bf-Hlw)
 * [Overview and installation on Windows](https://youtu.be/cJonzmJkPlQ)
 * [Appwrite + Flutter EP00: Series Introduction](https://www.youtube.com/watch?v=eYXb_xbUjio)
