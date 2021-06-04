@@ -54,6 +54,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 <!-- Raise a PR and add a link to your project under this section. -->
 
 * [Dart Online Compiler](https://github.com/aadarshadhakalg/BLoC-Appwrite)
+* [Ruitoque´s Food](https://ruitoquefood.com/)
+* [Todo With Flutter](https://github.com/SirusCodes/todo_appwrite)
 
 ## Tutorials 
 
@@ -123,6 +125,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 ](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
 * [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
 * [Appwrite Setup and Email / Password Authentication](https://justinnoel.dev/2020/06/27/appwrite-setup-and-email-password-authentication/)
+* [Building Blocks for a Simplicity Driven Engineering Culture](https://medium.com/geekculture/building-blocks-for-a-simplicity-driven-engineering-culture-6725f07381c2)
 
 ## Showcase (Built with Appwrite 📣)
 
@@ -182,6 +185,7 @@ Share your apps here! send a pull request!
 ## Tools
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
 * [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) interact with your Appwrite server side APIs from your terminal.
+* [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit)
 
 ## Communities 
 
