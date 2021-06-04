@@ -52,10 +52,11 @@
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
 <!-- Raise a PR and add a link to your project under this section. -->
-
 * [Dart Online Compiler](https://github.com/aadarshadhakalg/BLoC-Appwrite)
 * [Ruitoque´s Food](https://ruitoquefood.com/)
 * [Todo With Flutter](https://github.com/SirusCodes/todo_appwrite)
+* [React Native Appwrite OAuth](https://github.com/DiegoBM/react-native-appwrite-oauth)
+* [Appwrite Todo With React Native](https://github.com/DiegoBM/appwrite-todo-with-react-native)
 
 ## Tutorials 
 
