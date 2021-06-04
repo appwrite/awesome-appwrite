@@ -54,7 +54,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 <!-- Raise a PR and add a link to your project under this section. -->
 * [Title of your Project](http://link_to_your_project)
 * [React Native Appwrite OAuth](https://github.com/DiegoBM/react-native-appwrite-oauth)
-* [appwrite-todo-with-react-native](https://github.com/DiegoBM/appwrite-todo-with-react-native)
+* [Appwrite Todo With React Native](https://github.com/DiegoBM/appwrite-todo-with-react-native)
 
 ## Tutorials 
 
