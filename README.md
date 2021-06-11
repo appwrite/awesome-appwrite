@@ -158,6 +158,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
 
+* **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
