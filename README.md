@@ -160,6 +160,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
+* **FoodMagic ✨** - An Augmented Reailty Food Delivery app built using Flutter and Appwrite ❤️. [Source Code](https://github.com/Sameerkash/FoodMagic)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
