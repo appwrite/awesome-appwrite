@@ -57,6 +57,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Todo With Flutter](https://github.com/SirusCodes/todo_appwrite)
 * [React Native Appwrite OAuth](https://github.com/DiegoBM/react-native-appwrite-oauth)
 * [Appwrite Todo With React Native](https://github.com/DiegoBM/appwrite-todo-with-react-native)
+* [FoodMagic](https://github.com/Sameerkash/FoodMagic)
+
 
 ## Tutorials 
 
@@ -160,7 +162,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
-* **FoodMagic ✨** - An Augmented Reailty Food Delivery app built using Flutter and Appwrite ❤️. [Source Code](https://github.com/Sameerkash/FoodMagic)
 
 Share your apps here! send a pull request!
 
