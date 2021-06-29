@@ -162,6 +162,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
+* **Flutter Appwrite Auth System** - A Auth System is a Mobile App using Flutter with Appwrite. [Source Code](https://github.com/devkishor8007/Auth_System_Appwrite)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
