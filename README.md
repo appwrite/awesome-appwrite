@@ -58,6 +58,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [React Native Appwrite OAuth](https://github.com/DiegoBM/react-native-appwrite-oauth)
 * [Appwrite Todo With React Native](https://github.com/DiegoBM/appwrite-todo-with-react-native)
 * [Toodo - Appwrite with Ionic)](https://github.com/Hrdtr/toodo-app)
+* [FoodMagic](https://github.com/Sameerkash/FoodMagic)
 
 ## Tutorials 
 
