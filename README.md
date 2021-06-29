@@ -58,6 +58,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [React Native Appwrite OAuth](https://github.com/DiegoBM/react-native-appwrite-oauth)
 * [Appwrite Todo With React Native](https://github.com/DiegoBM/appwrite-todo-with-react-native)
 * [FoodMagic](https://github.com/Sameerkash/FoodMagic)
+* [Flutter Appwrite Auth System](https://github.com/devkishor8007/Auth_System_Appwrite) 
 
 
 ## Tutorials 
@@ -162,7 +163,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
-* **Flutter Appwrite Auth System** - A Auth System is a Mobile App using Flutter with Appwrite. [Source Code](https://github.com/devkishor8007/Auth_System_Appwrite)
 
 Share your apps here! send a pull request!
 
