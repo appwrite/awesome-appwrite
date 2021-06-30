@@ -60,6 +60,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Toodo - Appwrite with Ionic](https://github.com/Hrdtr/toodo-app)
 * [FoodMagic](https://github.com/Sameerkash/FoodMagic)
 * [KnowYourFood](https://github.com/LeBraveLittleToaster/KnowYourFood)
+* [Live Stream: Leaderboard API for GitHub using AppWrite Backend](https://youtu.be/ll2ZV79fFqQ)
 
 ## Tutorials 
 
