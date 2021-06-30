@@ -131,6 +131,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Building Blocks for a Simplicity Driven Engineering Culture](https://medium.com/geekculture/building-blocks-for-a-simplicity-driven-engineering-culture-6725f07381c2)
 
 ## Showcase (Built with Appwrite 📣)
+* **Budgetist** - Budgetist is a simple book-keeping application that allows to keep track of you and your family income and expenses.[Source Code](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
 
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
 
