@@ -57,10 +57,11 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Todo With Flutter](https://github.com/SirusCodes/todo_appwrite)
 * [React Native Appwrite OAuth](https://github.com/DiegoBM/react-native-appwrite-oauth)
 * [Appwrite Todo With React Native](https://github.com/DiegoBM/appwrite-todo-with-react-native)
+* [Toodo - Appwrite with Ionic](https://github.com/Hrdtr/toodo-app)
 * [FoodMagic](https://github.com/Sameerkash/FoodMagic)
 * [Flutter Appwrite Auth System](https://github.com/devkishor8007/Auth_System_Appwrite)
 * [Flutter Appwrite Todo](https://github.com/devkishor8007/todo-with-flutter/tree/todo_appwrite/flutter_appwrite)
-
+* [KnowYourFood](https://github.com/LeBraveLittleToaster/KnowYourFood)
 
 ## Tutorials 
 
