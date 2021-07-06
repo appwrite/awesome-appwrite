@@ -60,6 +60,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Toodo - Appwrite with Ionic](https://github.com/Hrdtr/toodo-app)
 * [FoodMagic](https://github.com/Sameerkash/FoodMagic)
 * [KnowYourFood](https://github.com/LeBraveLittleToaster/KnowYourFood)
+* [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
+
 
 ## Tutorials 
 
