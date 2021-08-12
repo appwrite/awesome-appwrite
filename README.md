@@ -167,6 +167,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
+* **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/generalxhd/Gradely2)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
