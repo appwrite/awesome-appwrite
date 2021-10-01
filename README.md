@@ -169,6 +169,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/generalxhd/Gradely2)
 
+* **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
