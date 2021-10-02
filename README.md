@@ -193,6 +193,7 @@ Share your apps here! send a pull request!
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) (beta)
 * [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) (beta)
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) (beta)
+* [Appwrite Appcelerator Titanium SDK](https://github.com/m1ga/ti.appwrite)
 
 ## Tools
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
