@@ -153,6 +153,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Flutter Appwrite Social App** A Social App playground for testing the features of Appwrite. [Source Code](https://github.com/alistairholmes/flutter-appwrite-social-app)
 
+* **Flutter Appwrite Expense Tracker** A simple Expense Tracker App built with Flutter and Appwrite. [Source Code](https://github.com/pinkeshdarji/appwrite), [Blog Post](https://blog.logrocket.com/appwrite-flutter-tutorial-with-examples/)
+
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
