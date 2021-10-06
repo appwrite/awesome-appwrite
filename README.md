@@ -169,7 +169,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/generalxhd/Gradely2)
 
-* **Quiz App (ReactJS and Appwrite)** - A demo web application built using React and integrated with Appwrite.[Source Code](https://github.com/shreyventure/quiz_app_write) *
+* **Quiz App (ReactJS and Appwrite)** - A demo web application built using React and integrated with Appwrite. [Source Code](https://github.com/shreyventure/quiz_app_write)
 
 Share your apps here! send a pull request!
 
