@@ -120,6 +120,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Flutter + Appwrite Starter Application Template (Part 3)](https://youtu.be/UZw4VVpt_ZI)
 * [Flutter + Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
 * [#30DaysofAppwrite​ Video Series](https://www.youtube.com/playlist?list=PLUiueC0kTFqITusEntt8bjhm20hv30Fsa)
+* [Appwrite with Web.​ Video Series](https://www.youtube.com/playlist?list=PLUr_dKgYaKJbxDEf_SchTwukxb0FlHOFf)
+* 
 ## Books
 
 * [Appwrite Up and Running by Alejandro Garcia](https://leanpub.com/appwrite-up-and-running/)
