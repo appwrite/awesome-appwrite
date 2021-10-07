@@ -91,6 +91,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How setup Appwrite for Android with Retrofit ( Direct HTTP Request )](https://medium.com/@developersm13/how-to-setup-appwrite-io-for-android-with-retrofit-e6271d770cad)
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
+* [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
 
 ## Videos
 
