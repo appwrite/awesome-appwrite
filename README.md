@@ -134,6 +134,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
 * [Appwrite Setup and Email / Password Authentication](https://justinnoel.dev/2020/06/27/appwrite-setup-and-email-password-authentication/)
 * [Building Blocks for a Simplicity Driven Engineering Culture](https://medium.com/geekculture/building-blocks-for-a-simplicity-driven-engineering-culture-6725f07381c2)
+* [Hacktoberfest (for Noobies) Guide](https://medium.com/@macallreevessmith/hacktoberfest-for-noobies-guide-f5e70b25c2e1)
 
 ## Showcase (Built with Appwrite 📣)
 
