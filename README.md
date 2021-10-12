@@ -42,11 +42,28 @@
 * [Day 25 - Cloud Function with CRON](https://dev.to/appwrite/30daysofappwrite-cloud-function-with-cron-258c)
 * [Day 26 - JWT Support in Appwrite](https://dev.to/appwrite/30daysofappwrite-jwt-l08)
 * [Day 27 - Appwrite for Production](https://dev.to/appwrite/30daysofappwrite-appwrite-for-production-56hi)
+* [Day 28 - Docker Swarm Integration](https://dev.to/appwrite/30daysofappwrite-docker-swarm-integration-2io9)
+* [Day 29 - Grafana Integration](https://dev.to/appwrite/grafana-integration-50p9)
+
+
+
+
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
 <!-- Raise a PR and add a link to your project under this section. -->
-* [Title of your Project](http://link_to_your_project)
+* [Dart Online Compiler](https://github.com/aadarshadhakalg/BLoC-Appwrite)
+* [Ruitoque´s Food](https://ruitoquefood.com/)
+* [Todo With Flutter](https://github.com/SirusCodes/todo_appwrite)
+* [React Native Appwrite OAuth](https://github.com/DiegoBM/react-native-appwrite-oauth)
+* [Appwrite Todo With React Native](https://github.com/DiegoBM/appwrite-todo-with-react-native)
+* [Toodo - Appwrite with Ionic](https://github.com/Hrdtr/toodo-app)
+* [FoodMagic](https://github.com/Sameerkash/FoodMagic)
+* [Flutter Appwrite Auth System](https://github.com/devkishor8007/Auth_System_Appwrite)
+* [Flutter Appwrite Todo](https://github.com/devkishor8007/todo-with-flutter/tree/todo_appwrite/flutter_appwrite)
+* [KnowYourFood](https://github.com/LeBraveLittleToaster/KnowYourFood)
+* [Live Stream: Leaderboard API for GitHub using AppWrite Backend](https://youtu.be/ll2ZV79fFqQ)
+* [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
 
 ## Tutorials 
 
@@ -63,9 +80,9 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite Releases a Native Svelte SDK for Its Open-Source BaaS](https://dev.to/appwrite/appwrite-releases-a-native-svelte-sdk-for-its-open-source-baas-5g0g) (Official)
 * [Appwrite Introduction](https://medium.com/@eldadfux/introducing-appwrite-an-open-source-backend-server-for-mobile-web-developers-4be70731575d?source=friends_link&sk=b6a2be384aafd1fa5b1b6ff12906082c)
 * [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
-* [Full List of Appwrite Environment Variables](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/environment-variables.md)
+* [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
 * [Image Resizing and Cropping with Appwrite](https://medium.com/appwrite-io/how-to-use-appwrite-open-source-platform-as-your-image-cropping-optimisation-service-2c5efab4edcb?source=friends_link&sk=11c8c6d50c2c24d0084f20f98a90a0bd)
-* [Tips for running Appwrite in Production](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/running-in-production.md)
+* [Tips for running Appwrite in Production](https://appwrite.io/docs/production)
 * [Run Your Appwrite Backend Server With Any SMTP Provider for Max Email Deliverability](https://medium.com/@eldadfux/learn-how-to-run-your-appwrite-backend-server-with-any-smtp-provider-for-max-email-deliverability-c6ab2c3efec8?source=friends_link&sk=c4ad7bffb3952547cfb89137da581310)
 * [Host Appwrite Backend with DigitalOcean Droplet](https://medium.com/@vaytrex/host-your-appwrite-backend-with-digitalocean-droplet-f3d248c60815)
 * [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
@@ -73,13 +90,16 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
 * [How setup Appwrite for Android with Retrofit ( Direct HTTP Request )](https://medium.com/@developersm13/how-to-setup-appwrite-io-for-android-with-retrofit-e6271d770cad)
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
+
 *  [Tutorial on how to use an SMTP provider to manage Appwrite end servers to enhance email delivery](https://knowlegdeninja.blogspot.com/2021/10/tutorial-on-how-to-use-smtp-provider-to.html)
+* [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
+* [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
+
 
 ## Videos
 
 * [Appwrite - Secure, Open-Source Backend Server - #techWebinarNepal](https://www.youtube.com/watch?v=OPkHCyq7nlw)
 * [Introducing Appwrite for Flutter](https://www.youtube.com/watch?v=KNQzncq10CI) (online meetup with [@eldadfux](https://github.com/eldadfux))
-* [Appwrite - Overview with installation (Windows)](https://youtu.be/cJonzmJkPlQ)
 * [Appwrite - Services](https://youtu.be/if8f_Bf-Hlw)
 * [Overview and installation on Windows](https://youtu.be/cJonzmJkPlQ)
 * [Appwrite + Flutter EP00: Series Introduction](https://www.youtube.com/watch?v=eYXb_xbUjio)
@@ -102,8 +122,11 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Flutter + Appwrite Starter Application Template (Part 1)](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
 * [Flutter + Appwrite Starter Application Template (Part 2)](https://www.youtube.com/watch?v=W_PH5tHbhhM)
 * [Flutter + Appwrite Starter Application Template (Part 3)](https://youtu.be/UZw4VVpt_ZI)
+* [Flutter + Appwrite Starter Application Template (Part 4)](https://www.youtube.com/watch?v=h3D40BQ4a2E&list=PLUiueC0kTFqLub-jXD3MK4Dy7tjUIQkIh&index=3)
 * [Flutter + Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
 * [#30DaysofAppwrite​ Video Series](https://www.youtube.com/playlist?list=PLUiueC0kTFqITusEntt8bjhm20hv30Fsa)
+* [Using Appwrite with Flutter: A tutorial with examples](https://blog.logrocket.com/appwrite-flutter-tutorial-with-examples/) [Source Code](https://github.com/pinkeshdarji/appwrite)
+
 ## Books
 
 * [Appwrite Up and Running by Alejandro Garcia](https://leanpub.com/appwrite-up-and-running/)
@@ -117,6 +140,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 ](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
 * [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
 * [Appwrite Setup and Email / Password Authentication](https://justinnoel.dev/2020/06/27/appwrite-setup-and-email-password-authentication/)
+* [Building Blocks for a Simplicity Driven Engineering Culture](https://medium.com/geekculture/building-blocks-for-a-simplicity-driven-engineering-culture-6725f07381c2)
+* [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
 
 ## Showcase (Built with Appwrite 📣)
 
@@ -142,11 +167,19 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) [Demo](https://appwrite-todo-with-react.vercel.app/)
 
+* **Appwrite + NextJs Todo** A simple login app built with Appwrite and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-todo-with-nextjs)
+
 * **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
 
 * **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
 
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
+
+* **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
+
+* **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/generalxhd/Gradely2)
+
+* Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
 Share your apps here! send a pull request!
 
@@ -172,10 +205,13 @@ Share your apps here! send a pull request!
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) (beta)
 * [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) (beta)
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) (beta)
+* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) (beta)
 
 ## Tools
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
 * [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) interact with your Appwrite server side APIs from your terminal.
+* [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit)
+* [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) explore different aspects of an Appwrite project from the front end
 
 ## Communities 
 
@@ -185,3 +221,4 @@ Share your apps here! send a pull request!
 * [Facebook](https://www.facebook.com/appwrite.io/) (Official, global)
 * [Appwrite Developers on Facebook](https://www.facebook.com/groups/appwrite.developers/?source_id=227046654430085) (Official, global)
 * [Gitter](https://gitter.im/appwrite/community) (Legacy, global)
+* [Dev Community](https://dev.to/appwrite)
