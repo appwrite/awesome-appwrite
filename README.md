@@ -208,6 +208,7 @@ Share your apps here! send a pull request!
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
 * [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) interact with your Appwrite server side APIs from your terminal.
 * [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit)
+* [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) explore different aspects of an Appwrite project from the front end
 
 ## Communities 
 
