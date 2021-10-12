@@ -80,9 +80,9 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite Releases a Native Svelte SDK for Its Open-Source BaaS](https://dev.to/appwrite/appwrite-releases-a-native-svelte-sdk-for-its-open-source-baas-5g0g) (Official)
 * [Appwrite Introduction](https://medium.com/@eldadfux/introducing-appwrite-an-open-source-backend-server-for-mobile-web-developers-4be70731575d?source=friends_link&sk=b6a2be384aafd1fa5b1b6ff12906082c)
 * [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
-* [Full List of Appwrite Environment Variables](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/environment-variables.md)
+* [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
 * [Image Resizing and Cropping with Appwrite](https://medium.com/appwrite-io/how-to-use-appwrite-open-source-platform-as-your-image-cropping-optimisation-service-2c5efab4edcb?source=friends_link&sk=11c8c6d50c2c24d0084f20f98a90a0bd)
-* [Tips for running Appwrite in Production](https://github.com/appwrite/appwrite/blob/master/docs/tutorials/running-in-production.md)
+* [Tips for running Appwrite in Production](https://appwrite.io/docs/production)
 * [Run Your Appwrite Backend Server With Any SMTP Provider for Max Email Deliverability](https://medium.com/@eldadfux/learn-how-to-run-your-appwrite-backend-server-with-any-smtp-provider-for-max-email-deliverability-c6ab2c3efec8?source=friends_link&sk=c4ad7bffb3952547cfb89137da581310)
 * [Host Appwrite Backend with DigitalOcean Droplet](https://medium.com/@vaytrex/host-your-appwrite-backend-with-digitalocean-droplet-f3d248c60815)
 * [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
@@ -91,7 +91,9 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How setup Appwrite for Android with Retrofit ( Direct HTTP Request )](https://medium.com/@developersm13/how-to-setup-appwrite-io-for-android-with-retrofit-e6271d770cad)
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
+
 * [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
+
 
 ## Videos
 
@@ -119,8 +121,11 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Flutter + Appwrite Starter Application Template (Part 1)](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
 * [Flutter + Appwrite Starter Application Template (Part 2)](https://www.youtube.com/watch?v=W_PH5tHbhhM)
 * [Flutter + Appwrite Starter Application Template (Part 3)](https://youtu.be/UZw4VVpt_ZI)
+* [Flutter + Appwrite Starter Application Template (Part 4)](https://www.youtube.com/watch?v=h3D40BQ4a2E&list=PLUiueC0kTFqLub-jXD3MK4Dy7tjUIQkIh&index=3)
 * [Flutter + Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
 * [#30DaysofAppwrite​ Video Series](https://www.youtube.com/playlist?list=PLUiueC0kTFqITusEntt8bjhm20hv30Fsa)
+* [Using Appwrite with Flutter: A tutorial with examples](https://blog.logrocket.com/appwrite-flutter-tutorial-with-examples/) [Source Code](https://github.com/pinkeshdarji/appwrite)
+
 ## Books
 
 * [Appwrite Up and Running by Alejandro Garcia](https://leanpub.com/appwrite-up-and-running/)
@@ -135,6 +140,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
 * [Appwrite Setup and Email / Password Authentication](https://justinnoel.dev/2020/06/27/appwrite-setup-and-email-password-authentication/)
 * [Building Blocks for a Simplicity Driven Engineering Culture](https://medium.com/geekculture/building-blocks-for-a-simplicity-driven-engineering-culture-6725f07381c2)
+* [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
 
 ## Showcase (Built with Appwrite 📣)
 
@@ -160,6 +166,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) [Demo](https://appwrite-todo-with-react.vercel.app/)
 
+* **Appwrite + NextJs Todo** A simple login app built with Appwrite and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-todo-with-nextjs)
+
 * **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
 
 * **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
@@ -169,6 +177,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
 * **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/generalxhd/Gradely2)
+
+* Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
 Share your apps here! send a pull request!
 
@@ -194,6 +204,7 @@ Share your apps here! send a pull request!
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) (beta)
 * [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) (beta)
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) (beta)
+* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) (beta)
 
 ## Tools
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
@@ -208,3 +219,4 @@ Share your apps here! send a pull request!
 * [Facebook](https://www.facebook.com/appwrite.io/) (Official, global)
 * [Appwrite Developers on Facebook](https://www.facebook.com/groups/appwrite.developers/?source_id=227046654430085) (Official, global)
 * [Gitter](https://gitter.im/appwrite/community) (Legacy, global)
+* [Dev Community](https://dev.to/appwrite)
