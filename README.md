@@ -94,7 +94,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
 * [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
 
-
 ## Videos
 
 * [Appwrite - Secure, Open-Source Backend Server - #techWebinarNepal](https://www.youtube.com/watch?v=OPkHCyq7nlw)
