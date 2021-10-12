@@ -92,6 +92,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
 * [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
+* [How to setup Appwrite in Windows?](https://dev.to/goheljay/why-i-used-appwrite-how-to-setup-appwrite-in-windows-o2l)
 
 ## Videos
 
