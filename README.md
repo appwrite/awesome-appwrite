@@ -46,9 +46,6 @@
 * [Day 29 - Grafana Integration](https://dev.to/appwrite/grafana-integration-50p9)
 
 
-
-
-
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
 Submit your projects and win some Awesome Appwrite Swag 🤩 
 <!-- Raise a PR and add a link to your project under this section. -->
@@ -92,6 +89,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
 * [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
+* [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
 
 ## Videos
 
@@ -218,4 +216,4 @@ Share your apps here! send a pull request!
 * [Facebook](https://www.facebook.com/appwrite.io/) (Official, global)
 * [Appwrite Developers on Facebook](https://www.facebook.com/groups/appwrite.developers/?source_id=227046654430085) (Official, global)
 * [Gitter](https://gitter.im/appwrite/community) (Legacy, global)
-* [Dev Community](https://dev.to/appwrite)
+* [DEV Community](https://dev.to/appwrite)
