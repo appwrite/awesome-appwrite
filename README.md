@@ -191,7 +191,6 @@ Share your apps here! send a pull request!
 * [Playground for Android](https://github.com/appwrite/playground-for-android)
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
 * [Delete Appwrite Docker containers and volumes](https://gist.github.com/PedroCisnerosSantana/618a088f60a64f227363c6c10e80b366)
-* [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
 
 ## SDK
 
