@@ -123,6 +123,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Flutter + Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
 * [#30DaysofAppwrite​ Video Series](https://www.youtube.com/playlist?list=PLUiueC0kTFqITusEntt8bjhm20hv30Fsa)
 * [Using Appwrite with Flutter: A tutorial with examples](https://blog.logrocket.com/appwrite-flutter-tutorial-with-examples/) [Source Code](https://github.com/pinkeshdarji/appwrite)
+* [Using good-first-issues to contribute to Appwrite](https://youtu.be/k3l_rurKOXg)
 
 ## Books
 
