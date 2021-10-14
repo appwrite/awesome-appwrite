@@ -195,6 +195,7 @@ Share your apps here! send a pull request!
 ## SDK
 
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-js)
+* [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android)
 * [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) (beta)
 * [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php)
 * [Appwrite Svelte SDK](https://github.com/appwrite/sdk-for-svelte)
@@ -203,6 +204,9 @@ Share your apps here! send a pull request!
 * [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) (beta)
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) (beta)
 * [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) (beta)
+* [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart)
+* [Appwrite Go SDK](https://github.com/appwrite/sdk-for-go)
+* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet)
 
 ## Tools
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
