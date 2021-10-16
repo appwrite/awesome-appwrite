@@ -140,6 +140,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Building Blocks for a Simplicity Driven Engineering Culture](https://medium.com/geekculture/building-blocks-for-a-simplicity-driven-engineering-culture-6725f07381c2)
 * [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
 
+* [Why AppWrite is the best tool for your next project](https://medium.com/@mangalarush/a-blog-about-how-great-appwrite-is-d2b69d95e0d0)
+
 ## Showcase (Built with Appwrite 📣)
 
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
