@@ -139,6 +139,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite Setup and Email / Password Authentication](https://justinnoel.dev/2020/06/27/appwrite-setup-and-email-password-authentication/)
 * [Building Blocks for a Simplicity Driven Engineering Culture](https://medium.com/geekculture/building-blocks-for-a-simplicity-driven-engineering-culture-6725f07381c2)
 * [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
+* [My Hacktoberfest journey with Appwrite](https://dev.to/jhrcook/my-hacktoberfest-journey-of-with-appwrite-1k52)
 
 ## Showcase (Built with Appwrite 📣)
 
