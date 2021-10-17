@@ -92,7 +92,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite: All you need to know](https://krishguptadev.hashnode.dev/appwrite-all-you-need-to-know)
 * [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
-
+* [Setup Appwrite on Linode](https://imknight.com/setup-appwrite-on-linode/)
+* 
 ## Videos
 
 * [Appwrite - Secure, Open-Source Backend Server - #techWebinarNepal](https://www.youtube.com/watch?v=OPkHCyq7nlw)
