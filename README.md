@@ -178,6 +178,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
+* **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite) 
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
