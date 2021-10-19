@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F02E65;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'Calibri';}
+	.st3{font-size:63px;}
+</style>
+<g>
+	<circle class="st0" cx="63" cy="60" r="49.5"/>
+	<path class="st0" d="M63,11c27,0,49,22,49,49s-22,49-49,49S14,87,14,60S36,11,63,11 M63,10c-27.6,0-50,22.4-50,50s22.4,50,50,50
+		s50-22.4,50-50S90.6,10,63,10L63,10z"/>
+</g>
+<g>
+	<circle class="st0" cx="63" cy="60" r="41.5"/>
+	<path class="st1" d="M63,21c21.5,0,39,17.5,39,39S84.5,99,63,99S24,81.5,24,60S41.5,21,63,21 M63,16c-24.3,0-44,19.7-44,44
+		s19.7,44,44,44s44-19.7,44-44S87.3,16,63,16L63,16z"/>
+</g>
+<text transform="matrix(1 0 0 1 47.3159 80.7397)" class="st1 st2 st3">$</text>
+</svg>
