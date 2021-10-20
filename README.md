@@ -89,6 +89,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
 *  [Tutorial on how to use an SMTP provider to manage Appwrite end servers to enhance email delivery](https://knowlegdeninja.blogspot.com/2021/10/tutorial-on-how-to-use-smtp-provider-to.html)
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
+* [Using database api (Contenido en español) ](https://medium.com/@devildeveloper/implementando-un-backend-en-menos-de-cinco-minutos-con-appwrite-7c6d6262cc87)
 * [AppWrite Services](https://koulurunandakishorereddy.tech/appwrite-services)
 * [Leveraging Power of Appwrite to Build Scheduling Applications](https://medium.com/@ujjwal26599/leveraging-power-of-appwrite-to-build-scheduling-applications-40615fa7e7f7)
 * [Newsletter Form Application with Appwrite and React](https://thebeginner86.medium.com/newsletter-form-application-with-appwrite-and-react-2791bd38a457)
@@ -102,6 +103,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How to setup Appwrite on Ubuntu](https://dev.to/noviicee/how-to-setup-appwrite-on-ubuntu-3j67)
 * [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
 * [Set up the backend for your first app in the no-code way using Appwrite!](https://medium.com/@vidushig2020/set-up-the-backend-for-your-first-app-in-the-no-code-way-6052b348d045)
+
 
 ## Videos
 
@@ -186,6 +188,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
 * **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/generalxhd/Gradely2)
+* **GoRest** A demo app to showcase integrating appwrite apis with golang. Using database endpoints and examples [Source Code](https://github.com/maliaga-pantoja/golang-appwrite-demo)
 
 * **Quiz App (ReactJS and Appwrite)** - A demo web application built using React and integrated with Appwrite. [Source Code](https://github.com/shreyventure/quiz_app_write)
 
