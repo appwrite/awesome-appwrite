@@ -202,6 +202,7 @@ Share your apps here! send a pull request!
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) (beta)
 * [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) (beta)
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) (beta)
+* [Appwrite Appcelerator Titanium SDK](https://github.com/m1ga/ti.appwrite)
 * [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) (beta)
 * [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple)
