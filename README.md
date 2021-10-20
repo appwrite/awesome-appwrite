@@ -128,6 +128,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Flutter + Appwrite Starter Application Template (Part 4)](https://www.youtube.com/watch?v=h3D40BQ4a2E&list=PLUiueC0kTFqLub-jXD3MK4Dy7tjUIQkIh&index=3)
 * [Flutter + Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
 * [#30DaysofAppwrite​ Video Series](https://www.youtube.com/playlist?list=PLUiueC0kTFqITusEntt8bjhm20hv30Fsa)
+* [Appwrite with Web.​ Video Series](https://www.youtube.com/playlist?list=PLUr_dKgYaKJbxDEf_SchTwukxb0FlHOFf)
 * [Using Appwrite with Flutter: A tutorial with examples](https://blog.logrocket.com/appwrite-flutter-tutorial-with-examples/) [Source Code](https://github.com/pinkeshdarji/appwrite)
 
 ## Books
