@@ -99,6 +99,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Introduction To Appwrite: The Open-Source Firebase Alternative That Is Easy to Self-Host 🚀](https://muthuannamalai.tech/introduction-to-appwrite-the-open-source-firebase-alternative-that-is-easy-to-self-host)
 * [What is Appwrite and How to use it Efficiently](https://dev.to/noviicee/what-is-appwrite-and-how-to-use-it-efficiently-3o1m)
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
+* [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
 * [Set up the backend for your first app in the no-code way using Appwrite!](https://medium.com/@vidushig2020/set-up-the-backend-for-your-first-app-in-the-no-code-way-6052b348d045)
 
 ## Videos
