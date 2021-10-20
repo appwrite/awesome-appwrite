@@ -225,6 +225,7 @@ Share your apps here! send a pull request!
 * [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) interact with your Appwrite server side APIs from your terminal.
 * [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit)
 * [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) explore different aspects of an Appwrite project from the front end
+* [Appwrite Starter](https://www.npmjs.com/package/create-appwrite) start building faster with this initializer for web frameworks
 
 ## Communities 
 
