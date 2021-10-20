@@ -62,7 +62,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
 
 ## Tutorials 
-
 * [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
 * [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
@@ -89,6 +88,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
 *  [Tutorial on how to use an SMTP provider to manage Appwrite end servers to enhance email delivery](https://knowlegdeninja.blogspot.com/2021/10/tutorial-on-how-to-use-smtp-provider-to.html)
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
+* [What is Appwrite and what are its key feature?](https://knowlegdeninja.blogspot.com/2021/10/what-is-appwrite-and-what-are-its-key.html)(blog)
 * [Using database api (Contenido en español) ](https://medium.com/@devildeveloper/implementando-un-backend-en-menos-de-cinco-minutos-con-appwrite-7c6d6262cc87)
 * [AppWrite Services](https://koulurunandakishorereddy.tech/appwrite-services)
 * [Leveraging Power of Appwrite to Build Scheduling Applications](https://medium.com/@ujjwal26599/leveraging-power-of-appwrite-to-build-scheduling-applications-40615fa7e7f7)
@@ -103,6 +103,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How to setup Appwrite on Ubuntu](https://dev.to/noviicee/how-to-setup-appwrite-on-ubuntu-3j67)
 * [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
 * [Set up the backend for your first app in the no-code way using Appwrite!](https://medium.com/@vidushig2020/set-up-the-backend-for-your-first-app-in-the-no-code-way-6052b348d045)
+
 
 
 ## Videos
