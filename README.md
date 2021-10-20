@@ -94,10 +94,12 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Newsletter Form Application with Appwrite and React](https://thebeginner86.medium.com/newsletter-form-application-with-appwrite-and-react-2791bd38a457)
 * [Appwrite: All you need to know](https://krishguptadev.hashnode.dev/appwrite-all-you-need-to-know)
 * [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
+* [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
 * [Introduction To Appwrite: The Open-Source Firebase Alternative That Is Easy to Self-Host 🚀](https://muthuannamalai.tech/introduction-to-appwrite-the-open-source-firebase-alternative-that-is-easy-to-self-host)
 * [What is Appwrite and How to use it Efficiently](https://dev.to/noviicee/what-is-appwrite-and-how-to-use-it-efficiently-3o1m)
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
 * [Set up the backend for your first app in the no-code way using Appwrite!](https://medium.com/@vidushig2020/set-up-the-backend-for-your-first-app-in-the-no-code-way-6052b348d045)
+
 
 ## Videos
 
