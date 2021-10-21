@@ -92,6 +92,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite: All you need to know](https://krishguptadev.hashnode.dev/appwrite-all-you-need-to-know)
 * [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
+* [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-1)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-1-536l)
+
 
 ## Videos
 
