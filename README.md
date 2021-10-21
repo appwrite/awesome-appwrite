@@ -261,6 +261,7 @@ Share your apps here! send a pull request!
 * [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit)
 * [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) explore different aspects of an Appwrite project from the front end
 * [Deploy Appwrite function](https://github.com/marketplace/actions/deploy-appwrite-function) a GitHub action to deploy your function to Appwrite
+* [Appwrite Starter](https://www.npmjs.com/package/create-appwrite) start building faster with this initializer for web frameworks
 
 ## Communities 
 
