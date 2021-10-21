@@ -65,6 +65,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
 * [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
+* [Getting Started for Android](https://appwrite.io/docs/getting-started-for-android) (Official)
 * [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
 * [Sending a Custom Welcome Email Using Appwrite Functions and Mailgun](https://dev.to/appwrite/sending-a-custom-welcome-email-using-appwrite-functions-and-mailgun-225a) (Official)
 * [Create an Appwrite File Backup Function Using the Dropbox API](https://dev.to/appwrite/create-an-appwrite-file-backup-function-using-the-dropbox-api-2pfo) (Official)
