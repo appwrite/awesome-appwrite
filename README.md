@@ -66,6 +66,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
 * [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
+* [Getting Started for Android](https://appwrite.io/docs/getting-started-for-android) (Official)
 * [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
 * [Sending a Custom Welcome Email Using Appwrite Functions and Mailgun](https://dev.to/appwrite/sending-a-custom-welcome-email-using-appwrite-functions-and-mailgun-225a) (Official)
 * [Create an Appwrite File Backup Function Using the Dropbox API](https://dev.to/appwrite/create-an-appwrite-file-backup-function-using-the-dropbox-api-2pfo) (Official)
@@ -97,6 +98,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Newsletter Form Application with Appwrite and React](https://thebeginner86.medium.com/newsletter-form-application-with-appwrite-and-react-2791bd38a457)
 * [Appwrite: All you need to know](https://krishguptadev.hashnode.dev/appwrite-all-you-need-to-know)
 * [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
+* [How to setup Appwrite in Windows?](https://dev.to/goheljay/why-i-used-appwrite-how-to-setup-appwrite-in-windows-o2l)
 * [Deploy Appwrite to AWS using Terraform and Ansible](https://dev.to/rizkyrajitha/deploy-appwrite-to-aws-using-terraform-and-ansible-4af)
 * [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
 * [Introduction To Appwrite: The Open-Source Firebase Alternative That Is Easy to Self-Host 🚀](https://muthuannamalai.tech/introduction-to-appwrite-the-open-source-firebase-alternative-that-is-easy-to-self-host)
@@ -105,6 +107,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How to setup Appwrite on Ubuntu](https://dev.to/noviicee/how-to-setup-appwrite-on-ubuntu-3j67)
 * [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
 * [Set up the backend for your first app in the no-code way using Appwrite!](https://medium.com/@vidushig2020/set-up-the-backend-for-your-first-app-in-the-no-code-way-6052b348d045)
+
 
 
 
@@ -157,6 +160,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite and Open-Source](https://dev.to/sanketmathur/appwrite-and-open-source-5e7)
 * [Hacktoberfest (for Noobies) Guide](https://medium.com/@macallreevessmith/hacktoberfest-for-noobies-guide-f5e70b25c2e1)
 * [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
+* [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
 
 
 ## Showcase (Built with Appwrite 📣)
@@ -164,6 +168,10 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 - **Shuttery** - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. [Source Code](https://github.com/muKaustav/Appwrite-DemoApp-Hacktoberfest-2021)
 
 - **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
+
+* **OAuth Provider Tester** - A Simple Appwrite OAuth Tester App built to make new oauth provider testing easy. [Source Code](https://github.com/AmreshSinha/OAuth-Tester-Appwrite)
+
+* **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 
 - **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 
@@ -202,6 +210,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
+* **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
@@ -219,6 +229,7 @@ Share your apps here! send a pull request!
 ## SDK
 
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-js)
+* [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android)
 * [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) (beta)
 * [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php)
 * [Appwrite Svelte SDK](https://github.com/appwrite/sdk-for-svelte)
@@ -228,6 +239,9 @@ Share your apps here! send a pull request!
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) (beta)
 * [Appwrite Appcelerator Titanium SDK](https://github.com/m1ga/ti.appwrite)
 * [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) (beta)
+* [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart)
+* [Appwrite Go SDK](https://github.com/appwrite/sdk-for-go)
+* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet)
 * [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple)
 
