@@ -206,6 +206,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
+* **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
 
 Share your apps here! send a pull request!
 
