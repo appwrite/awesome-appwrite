@@ -208,6 +208,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
+* **Appwrite + Angular - Simple Blog** - A simple blog example using Angular as the frontend and Appwrite as the backend! [Source Code](https://github.com/NeonSpork/appwrite-blog-example)
+
 * **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite) 
 
 * **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
