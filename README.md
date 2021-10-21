@@ -159,6 +159,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite and Open-Source](https://dev.to/sanketmathur/appwrite-and-open-source-5e7)
 * [Hacktoberfest (for Noobies) Guide](https://medium.com/@macallreevessmith/hacktoberfest-for-noobies-guide-f5e70b25c2e1)
 * [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
+* [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
 
 ## Showcase (Built with Appwrite 📣)
 
