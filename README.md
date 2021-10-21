@@ -160,6 +160,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite and Open-Source](https://dev.to/sanketmathur/appwrite-and-open-source-5e7)
 * [Hacktoberfest (for Noobies) Guide](https://medium.com/@macallreevessmith/hacktoberfest-for-noobies-guide-f5e70b25c2e1)
 * [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
+* [My Hacktoberfest journey with Appwrite](https://dev.to/jhrcook/my-hacktoberfest-journey-of-with-appwrite-1k52)
 * [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
 
 ## Showcase (Built with Appwrite 📣)
@@ -206,6 +207,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * **Quiz App (ReactJS and Appwrite)** - A demo web application built using React and integrated with Appwrite. [Source Code](https://github.com/shreyventure/quiz_app_write)
 
 * Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
+
+* **Database interactions with the Python SDK demo** - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. [Source Code](https://github.com/jhrcook/coffee-counter-appwrite-demo)
 
 * **Appwrite + Angular - Simple Blog** - A simple blog example using Angular as the frontend and Appwrite as the backend! [Source Code](https://github.com/NeonSpork/appwrite-blog-example)
 
