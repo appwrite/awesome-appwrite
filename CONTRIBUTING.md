@@ -78,7 +78,9 @@ Pull requests are great, but there are many other areas where you can help Appwr
 
 ### Blogging & Speaking
 
-Blogging, speaking about, or creating tutorials about one of Appwrite’s many features. Mention [@appwrite_io](https://twitter.com/appwrite_io) on Twitter and/or email team [at] appwrite [dot] io so we can give pointers and tips and help you spread the word by promoting your content on the different Appwrite communication channels. Please add your blog posts and videos of talks to our [Awesome Appwrite](https://github.com/appwrite/awesome-appwrite) repo on GitHub.
+Blogging, speaking about, or creating tutorials about one of Appwrite’s many features. Mention [@appwrite_io](https://twitter.com/appwrite_io) on Twitter and/or [email the team](mailto:team@appwrite.io) so we can give pointers and tips and help you spread the word by promoting your content on the different Appwrite communication channels. Please add your blog posts and videos of talks to our [Awesome Appwrite](https://github.com/appwrite/awesome-appwrite) repo on GitHub. [Read me about how to do that in this issue](https://github.com/appwrite/appwrite/issues/1774).
+
+If you write a blog post or speak about Appwrite, you will have ownership of the content you publish. We own the Intellectual Property of the assets you are writing about, you own the Intellectual Property to your written form.
 
 ### Presenting at Meetups
 
