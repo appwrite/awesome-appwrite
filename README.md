@@ -228,6 +228,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
 
+* **Infinite Scrolling with React + Appwrite** - A simple project to demonstrate infinite scroll paging. [Source Code](https://github.com/SakshiUppoor/infinite-scroll-demo) 
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
