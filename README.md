@@ -13,6 +13,7 @@
   - [SDK](#SDK)
   - [Tools](#Tools)
   - [Communities](#communities)
+
 ## 30 Days of Appwrite ✨
 * [Day 1 - Pilot](https://dev.to/appwrite/30daysofappwrite-4hh)
 * [Day 2 - Installation](https://dev.to/appwrite/installing-appwrite-366o)
@@ -113,10 +114,10 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrites Avatars service](https://dev.to/ashish4arora/appwrites-avatars-service-4gae)
 * [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
 * [Node.JS in Appwrite](https://dev.to/finnkr/nodejs-in-appwrite-21kk)
-* [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-1)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-1-536l)
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-2)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-2-4fgd)
 * [Introduction to Appwrite Cloud Functions with Android and Kotlin](https://hardiksachan.hashnode.dev/introduction-to-appwrite-cloud-functions-with-android-and-kotlin)
+* [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
 
 ## Videos
 
