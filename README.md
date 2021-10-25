@@ -112,7 +112,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Set up the backend for your first app in the no-code way using Appwrite!](https://medium.com/@vidushig2020/set-up-the-backend-for-your-first-app-in-the-no-code-way-6052b348d045)
 * [Node.JS in Appwrite](https://dev.to/finnkr/nodejs-in-appwrite-21kk)
 * [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
-* [Using Deno in Appwrite](https://dev.to/asiancat54x/deno-appwrite-5271)
 
 ## Videos
 
