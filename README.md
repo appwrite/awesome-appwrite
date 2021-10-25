@@ -13,7 +13,6 @@
   - [SDK](#SDK)
   - [Tools](#Tools)
   - [Communities](#communities)
-  
 ## 30 Days of Appwrite ✨
 * [Day 1 - Pilot](https://dev.to/appwrite/30daysofappwrite-4hh)
 * [Day 2 - Installation](https://dev.to/appwrite/installing-appwrite-366o)
