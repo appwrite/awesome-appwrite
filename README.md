@@ -62,7 +62,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
 
 ## Tutorials 
-* [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
+* [Getting Started for Web](https://dev.to/sapora/appwrite-for-web-2j27) (Official)
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
 * [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
 * [Getting Started for Android](https://appwrite.io/docs/getting-started-for-android) (Official)
