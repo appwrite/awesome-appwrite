@@ -62,7 +62,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
 
 ## Tutorials 
-* [Getting Started for Web](https://dev.to/sapora/appwrite-for-web-2j27) (Official)
+* [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
 * [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
 * [Getting Started for Android](https://appwrite.io/docs/getting-started-for-android) (Official)
@@ -117,6 +117,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-1)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-1-536l)
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-2)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-2-4fgd)
 * [Introduction to Appwrite Cloud Functions with Android and Kotlin](https://hardiksachan.hashnode.dev/introduction-to-appwrite-cloud-functions-with-android-and-kotlin)
+* [Getting Started with Appwrite for Web](https://dev.to/sapora/appwrite-for-web-2j27)
 
 ## Videos
 
