@@ -241,7 +241,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + ExpressJS** - A simple API made using Appwrite and ExpressJS. [Source Code](https://github.com/PyroCandy/pokemon-api-appwrite) [Blog Post](https://medium.com/@rushilshekhar1_/making-a-simple-api-using-appwrite-a7ceb096bf8f)
 
-
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
