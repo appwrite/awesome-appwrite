@@ -104,6 +104,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Introduction To Appwrite: The Open-Source Firebase Alternative That Is Easy to Self-Host 🚀](https://muthuannamalai.tech/introduction-to-appwrite-the-open-source-firebase-alternative-that-is-easy-to-self-host)
 * [What is Appwrite and How to use it Efficiently](https://dev.to/noviicee/what-is-appwrite-and-how-to-use-it-efficiently-3o1m)
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
+* [What's new in Appwrite 0.7](https://ajith75.hashnode.dev/whats-new-in-appwrite-07)
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
 * [Cropping and Optimizing images with Appwrite](https://medium.com/@anand26shweta/cropping-and-optimizing-images-with-appwrite-1e3662c37eaa)
 * [Cloud Functions with Dart and Appwrite](https://dev.to/nehanshj/cloud-functions-with-dart-and-appwrite-2nob)
@@ -114,9 +115,12 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrites Avatars service](https://dev.to/ashish4arora/appwrites-avatars-service-4gae)
 * [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
 * [Node.JS in Appwrite](https://dev.to/finnkr/nodejs-in-appwrite-21kk)
+* [Deno in Appwrite](https://dev.to/asiancat54x/deno-appwrite-5271/)
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-1)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-1-536l)
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-2)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-2-4fgd)
 * [Introduction to Appwrite Cloud Functions with Android and Kotlin](https://hardiksachan.hashnode.dev/introduction-to-appwrite-cloud-functions-with-android-and-kotlin)
+* [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
+* [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
 
 ## Videos
 
@@ -227,6 +231,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite) 
 
 * **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
+
+* **Appwrite + ExpressJS** - A simple API made using Appwrite and ExpressJS. [Source Code](https://github.com/PyroCandy/pokemon-api-appwrite) [Blog Post](https://medium.com/@rushilshekhar1_/making-a-simple-api-using-appwrite-a7ceb096bf8f)
 
 Share your apps here! send a pull request!
 
