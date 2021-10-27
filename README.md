@@ -104,6 +104,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Introduction To Appwrite: The Open-Source Firebase Alternative That Is Easy to Self-Host 🚀](https://muthuannamalai.tech/introduction-to-appwrite-the-open-source-firebase-alternative-that-is-easy-to-self-host)
 * [What is Appwrite and How to use it Efficiently](https://dev.to/noviicee/what-is-appwrite-and-how-to-use-it-efficiently-3o1m)
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
+* [What's new in Appwrite 0.7](https://ajith75.hashnode.dev/whats-new-in-appwrite-07)
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
 * [Cropping and Optimizing images with Appwrite](https://medium.com/@anand26shweta/cropping-and-optimizing-images-with-appwrite-1e3662c37eaa)
 * [Cloud Functions with Dart and Appwrite](https://dev.to/nehanshj/cloud-functions-with-dart-and-appwrite-2nob)
@@ -114,10 +115,13 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrites Avatars service](https://dev.to/ashish4arora/appwrites-avatars-service-4gae)
 * [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
 * [Node.JS in Appwrite](https://dev.to/finnkr/nodejs-in-appwrite-21kk)
+* [Deno in Appwrite](https://dev.to/asiancat54x/deno-appwrite-5271/)
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-1)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-1-536l)
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-2)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-2-4fgd)
 * [Introduction to Appwrite Cloud Functions with Android and Kotlin](https://hardiksachan.hashnode.dev/introduction-to-appwrite-cloud-functions-with-android-and-kotlin)
 * [Import sample data to Appwrite through Integromat](https://imknight.com/import-data-to-appwrite-through-integromat/)
+* [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
+* [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
 
 ## Videos
 
@@ -174,6 +178,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 ## Showcase (Built with Appwrite 📣)
 
+- **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
+
 - **Shuttery** - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. [Source Code](https://github.com/muKaustav/Appwrite-DemoApp-Hacktoberfest-2021)
 
 - **Taskwrite** -Taskwrite is a demo web app built with React JS and Appwrite backend for Hacktoberfest 2021, that demonstrates how to create a To-Do list, that lets users add, edit, and delete tasks. It demonstrates the use of Google OAuth and Database Management. [Source Code](https://github.com/muKaustav/Taskwrite-Appwrite-Hacktoberfest-2021)
@@ -229,6 +235,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
 
+* **Appwrite + ExpressJS** - A simple API made using Appwrite and ExpressJS. [Source Code](https://github.com/PyroCandy/pokemon-api-appwrite) [Blog Post](https://medium.com/@rushilshekhar1_/making-a-simple-api-using-appwrite-a7ceb096bf8f)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
@@ -261,6 +269,7 @@ Share your apps here! send a pull request!
 * [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet)
 * [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple)
+* [Unoffical Appwrite Minecraft SDK](https://github.com/nCodesDotEU/Appwrite-Minecraft-Database)
 
 ## Tools
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
