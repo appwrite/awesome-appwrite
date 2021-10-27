@@ -128,6 +128,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Import sample data to Appwrite through Integromat](https://imknight.com/import-data-to-appwrite-through-integromat/)
 * [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
+* [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
 
 
 ## Videos
