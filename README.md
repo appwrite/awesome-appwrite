@@ -120,6 +120,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-2)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-2-4fgd)
 * [Introduction to Appwrite Cloud Functions with Android and Kotlin](https://hardiksachan.hashnode.dev/introduction-to-appwrite-cloud-functions-with-android-and-kotlin)
 * [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
+* [Appwrites Account Service](https://dev.to/finnkr/appwrites-account-service-2hhd)
+* [All you need to know about APPWRITE Team service](https://dev.to/devgossips/all-you-need-to-know-about-appwrite-team-service-client-side-1g1b) 
 * [Send Messages With Telegram Using Appwrite Functions](https://rizkyrajitha.hashnode.dev/send-messages-with-telegram-using-appwrite-functions)
 * [Avatar API support in Appwrite](https://dev.to/pretty19/avatar-api-support-in-appwrite-fc1)
 * [Appwrite - macOS Installation and Debugging Guide](https://dev.to/kritikash18/appwrite-macos-installation-and-debugging-guide-28fm)
@@ -129,6 +131,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
 * [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
+* [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 
 
 ## Videos
