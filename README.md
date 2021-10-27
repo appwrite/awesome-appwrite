@@ -177,6 +177,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 ## Showcase (Built with Appwrite 📣)
 
+- **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
+
 - **Shuttery** - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. [Source Code](https://github.com/muKaustav/Appwrite-DemoApp-Hacktoberfest-2021)
 
 - **Taskwrite** -Taskwrite is a demo web app built with React JS and Appwrite backend for Hacktoberfest 2021, that demonstrates how to create a To-Do list, that lets users add, edit, and delete tasks. It demonstrates the use of Google OAuth and Database Management. [Source Code](https://github.com/muKaustav/Taskwrite-Appwrite-Hacktoberfest-2021)
