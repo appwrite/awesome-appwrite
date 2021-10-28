@@ -130,8 +130,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
+* [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
 * [App System Health to monitor the apps](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
-
 
 ## Videos
 
