@@ -131,6 +131,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 * [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
+* [Appwrite + React = 🔥](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
 * [App System Health to monitor the apps](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
 
 ## Videos
@@ -187,6 +188,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
 * [My Hacktoberfest journey with Appwrite](https://dev.to/jhrcook/my-hacktoberfest-journey-of-with-appwrite-1k52)
 * [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
+* [Hacktoberfest 2021 with AppWrite](https://dev.to/pretty19/hacktoberfest-2021-with-appwrite-3978)
 
 ## Showcase (Built with Appwrite 📣)
 
@@ -224,6 +226,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + NextJs Todo** A simple login app built with Appwrite and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-todo-with-nextjs)
 
+* **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/)
+
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
 * **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
@@ -254,6 +258,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * **Infinite Scrolling with React + Appwrite** - A simple project to demonstrate infinite scroll paging. [Source Code](https://github.com/SakshiUppoor/infinite-scroll-demo) 
 
 * **Appwrite + ExpressJS** - A simple API made using Appwrite and ExpressJS. [Source Code](https://github.com/PyroCandy/pokemon-api-appwrite) [Blog Post](https://medium.com/@rushilshekhar1_/making-a-simple-api-using-appwrite-a7ceb096bf8f)
+
+* **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
 
 Share your apps here! send a pull request!
 
