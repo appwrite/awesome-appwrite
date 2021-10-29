@@ -132,6 +132,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 * [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
 * [Appwrites' Storage Services](https://dev.to/kaid00/appwrite-storage-service-39pc)
+* [Appwrite + React = 🔥](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
 
 ## Videos
 
@@ -187,6 +188,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
 * [My Hacktoberfest journey with Appwrite](https://dev.to/jhrcook/my-hacktoberfest-journey-of-with-appwrite-1k52)
 * [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
+* [Hacktoberfest 2021 with AppWrite](https://dev.to/pretty19/hacktoberfest-2021-with-appwrite-3978)
 
 ## Showcase (Built with Appwrite 📣)
 
