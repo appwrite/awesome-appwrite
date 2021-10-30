@@ -132,6 +132,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 * [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
 * [Appwrite + React = 🔥](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
+* [Getting Started with Appwrite in NestJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
 
 ## Videos
 
