@@ -222,6 +222,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
 
+* **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
