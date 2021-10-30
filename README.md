@@ -60,6 +60,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Flutter Appwrite Todo](https://github.com/devkishor8007/todo-with-flutter/tree/todo_appwrite/flutter_appwrite)
 * [KnowYourFood](https://github.com/LeBraveLittleToaster/KnowYourFood)
 * [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
+* [Introduction To “Appwrite” : Secure Open-Source Backend Server for Web, Mobile & Flutter Developers](https://medium.com/@shreynahar3/introduction-to-appwrite-secure-open-source-backend-server-for-web-mobile-flutter-developers-5dbfb351630d)
 
 ## Tutorials 
 * [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
