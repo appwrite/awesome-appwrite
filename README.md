@@ -260,6 +260,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
 
+* **API using APPWRITE** - An API built upon the services offered via Appwrite. [Source Code](https://github.com/DeathRaven1051/Appwrite_API)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
