@@ -260,6 +260,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
 
+* **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
