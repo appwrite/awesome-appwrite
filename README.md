@@ -133,6 +133,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
 * [Appwrite + React = 🔥](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
+* [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/)
 
 ## Videos
 
@@ -294,6 +295,7 @@ Share your apps here! send a pull request!
 * [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple)
 * [Unoffical Appwrite Minecraft SDK](https://github.com/nCodesDotEU/Appwrite-Minecraft-Database)
+* [Unofficial Appwrite Godot Engine SDK](https://github.com/GodotNuts/appwrite-sdk)
 
 ## Tools
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
