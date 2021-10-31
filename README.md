@@ -132,6 +132,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 * [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
 * [Appwrite + React = 🔥](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
+* [Building A URL Shortener using Appwrite and Express](https://dev.to/dro1/building-a-url-shortener-using-appwrite-and-express-128i)
 * [Introduction to AppWrite (in Portuguese)](https://medium.com/@fernandayukarikawasaki/uma-introdu%C3%A7%C3%A3o-ao-appwrite-ad90a127d7fa)
 * [Appwrites database service](https://mbosnjak.hashnode.dev/appwrites-database-service)
 * [Build a Web app using Next.js and Appwrite](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
