@@ -282,6 +282,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
 
+* **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
