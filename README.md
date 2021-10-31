@@ -131,7 +131,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
-* [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
+* [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)https://drishtip.hashnode.dev/introduction-to-appwrites-avatar-api
 * [Building a Web App with ReactJS and Appwrite](https://dev.to/drishtipeshwani/building-a-web-app-with-reactjs-and-appwrite-4cno)
 * [Appwrites' Storage Services](https://dev.to/kaid00/appwrite-storage-service-39pc)
 * [Appwrite + React = 🔥](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
@@ -143,7 +143,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/)
 * [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
 * [Using Appwrite Locale Service in your Next Project](https://dev.to/drishtipeshwani/using-appwrite-locale-service-in-your-next-project-3pcm)
-
+* [Introduction to Appwrite's Avatar API](https://drishtip.hashnode.dev/introduction-to-appwrites-avatar-api)
 ## Videos
 
 * [Appwrite - Secure, Open-Source Backend Server - #techWebinarNepal](https://www.youtube.com/watch?v=OPkHCyq7nlw)
