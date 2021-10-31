@@ -136,6 +136,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Build a Web app using Next.js and Appwrite](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/)
+* Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
 
 ## Videos
 
