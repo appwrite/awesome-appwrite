@@ -131,6 +131,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 * [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
+* [Dart in Appwrite](https://dev.to/oshi36/dart-in-appwrite-47e)
 
 ## Videos
 
