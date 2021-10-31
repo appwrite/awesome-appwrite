@@ -260,6 +260,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
 
+* **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth and a Blog on what I learned [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1) & [Blog Post](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
