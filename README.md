@@ -262,6 +262,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
 
+* **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
