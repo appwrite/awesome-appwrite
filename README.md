@@ -91,7 +91,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
 * [Appwrite: All you need to know](https://krishguptadev.hashnode.dev/appwrite-all-you-need-to-know)
 * [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
-* [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
+* [What is Appwrite and how to contribute for Hacktoberfest]https://ajith75.hashnode.dev/appwrite-011-with-swift-and-apple-support
 
 ## Videos
 
