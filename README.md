@@ -188,7 +188,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [My Hacktoberfest journey with Appwrite](https://dev.to/jhrcook/my-hacktoberfest-journey-of-with-appwrite-1k52)
 * [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
 * [Hacktoberfest 2021 with AppWrite](https://dev.to/pretty19/hacktoberfest-2021-with-appwrite-3978)
-* [Hackovberfest- What I learned by creating a appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
+* [Hacktoberfest- What I learned by creating a appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
 
 ## Showcase (Built with Appwrite 📣)
 
