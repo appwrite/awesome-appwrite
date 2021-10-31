@@ -195,6 +195,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [My Hacktoberfest journey with Appwrite](https://dev.to/jhrcook/my-hacktoberfest-journey-of-with-appwrite-1k52)
 * [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
 * [Hacktoberfest 2021 with AppWrite](https://dev.to/pretty19/hacktoberfest-2021-with-appwrite-3978)
+* [Hacktoberfest- What I learned by creating a Appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
 
 ## Showcase (Built with Appwrite 📣)
 
@@ -266,6 +267,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * **Appwrite + ExpressJS** - A simple API made using Appwrite and ExpressJS. [Source Code](https://github.com/PyroCandy/pokemon-api-appwrite) [Blog Post](https://medium.com/@rushilshekhar1_/making-a-simple-api-using-appwrite-a7ceb096bf8f)
 
 * **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
+
+* **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth  [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1) 
 
 * **Pastebin Clone built with Appwrite** -  A simple pastebin clone built in React with Appwrite using Google OAuth for Authentication [Source Code](https://github.com/dro-1/appwrite-pastebin-clone)
 
