@@ -265,6 +265,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
 
+* **Pastebin Clone built with Appwrite** -  A simple pastebin clone built in React with Appwrite using Google OAuth for Authentication [Source Code](https://github.com/dro-1/appwrite-pastebin-clone)
+
 * **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
 
 * **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
