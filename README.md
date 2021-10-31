@@ -132,6 +132,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 * [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
 * [Appwrite + React = 🔥](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
+* [Build a Web app using Next.js and Appwrite](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/)
 
@@ -227,7 +228,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + NextJs Todo** A simple login app built with Appwrite and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-todo-with-nextjs)
 
-* **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/)
+* **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/) [Tutorial](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
 
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
