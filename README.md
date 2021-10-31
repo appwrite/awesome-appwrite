@@ -142,6 +142,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/)
 * [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
+* [What is Appwrite and why it's a must try for every developer?](https://anjalirohira.hashnode.dev/what-is-appwrite-and-why-its-a-must-try-for-every-developer)
 
 ## Videos
 
