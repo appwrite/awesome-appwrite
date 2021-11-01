@@ -142,6 +142,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/)
 * [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
+* [Integrate Appwrite Storage API with React](https://dev.to/harisarang/integrate-appwrite-storage-api-with-react-5dg3)
 * [Appwrite with Dart!](https://dev.to/timothy22000/appwrite-with-dart-3knc)
 
 ## Videos
@@ -238,7 +239,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + NextJs Todo** A simple login app built with Appwrite and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-todo-with-nextjs)
 
-* **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/)
+* **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/) [Tutorial](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
 
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
