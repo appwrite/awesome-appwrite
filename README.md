@@ -238,7 +238,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + NextJs Todo** A simple login app built with Appwrite and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-todo-with-nextjs)
 
-* **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/) [Tutorial](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
+* **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/)
 
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
