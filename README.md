@@ -230,6 +230,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
 
+* **Appwrite System Health** - A simple demo app to implement express nodejs and app health monitor. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)
+  
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
