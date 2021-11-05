@@ -243,6 +243,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
+* **Appwrite + NextJs  Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
+
 * **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
 
 * **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
