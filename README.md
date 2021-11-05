@@ -268,7 +268,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite) 
 
 * **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
-  
+
 * **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener)
 
 * **Infinite Scrolling with React + Appwrite** - A simple project to demonstrate infinite scroll paging. [Source Code](https://github.com/SakshiUppoor/infinite-scroll-demo) 
