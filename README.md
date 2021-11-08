@@ -144,7 +144,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
 * [Integrate Appwrite Storage API with React](https://dev.to/harisarang/integrate-appwrite-storage-api-with-react-5dg3)
 * [Appwrite + Zapier = Magic](https://dev.to/ruthlessruler/appwrite-zapier-magic-12gk)
-* [App System Health to monitor the apps](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
 
 ## Videos
 
@@ -287,7 +286,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
 
-* **Appwrite System Health** - A simple demo app to implement express nodejs and app health monitor. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)
+* **Appwrite System Health** - A simple demo app to build an express nodejs rest api to monitor health on appwrite app. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)  [Blog Post](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
   
 Share your apps here! send a pull request!
 
