@@ -331,6 +331,7 @@ Share your apps here! send a pull request!
 * [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) explore different aspects of an Appwrite project from the front end
 * [Deploy Appwrite function](https://github.com/marketplace/actions/deploy-appwrite-function) a GitHub action to deploy your function to Appwrite
 * [Appwrite Starter](https://www.npmjs.com/package/create-appwrite) start building faster with this initializer for web frameworks
+* [Appwrite React Admin Data Provider](https://www.npmjs.com/package/ra-appwrite) Data and Auth Providers to integrate [React Admin](https://marmelab.com/react-admin/) with Appwrite
 
 ## Communities 
 
