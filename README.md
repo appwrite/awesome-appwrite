@@ -142,6 +142,9 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/)
 * [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
+* [Integrate Appwrite Storage API with React](https://dev.to/harisarang/integrate-appwrite-storage-api-with-react-5dg3)
+* [Appwrite + Zapier = Magic](https://dev.to/ruthlessruler/appwrite-zapier-magic-12gk)
+* [How To Generate and Store Map Previews in Ruby with Appwrite](https://dev.to/oliverpham/how-to-generate-and-store-map-previews-in-ruby-with-appwrite-43ha)
 
 ## Videos
 
@@ -241,6 +244,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
+* **Appwrite + NextJs  Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
+
 * **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
 
 * **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
@@ -281,6 +286,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
 
 * **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
+
+* **Chatwrite** -- A simple, no-login chat app made with Appwrite and React. [Source Code](https://github.com/DarthFloopy/Chatwrite)
 
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
 
