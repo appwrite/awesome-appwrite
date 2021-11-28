@@ -289,6 +289,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Chatwrite** -- A simple, no-login chat app made with Appwrite and React. [Source Code](https://github.com/DarthFloopy/Chatwrite)
 
+* **Appwrite System Health** - A simple demo app to build an express nodejs rest api to monitor health on appwrite app. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)  [Blog Post](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
+
 Share your apps here! send a pull request!
 
 ## Playgrounds and Snippets
