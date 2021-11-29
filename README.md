@@ -144,6 +144,11 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
 * [Using Appwrite Locale Service in your Next Project](https://dev.to/drishtipeshwani/using-appwrite-locale-service-in-your-next-project-3pcm)
 * [Introduction to Appwrite's Avatar API](https://drishtip.hashnode.dev/introduction-to-appwrites-avatar-api)
+* [Dart in Appwrite](https://dev.to/oshi36/dart-in-appwrite-47e)
+* [Integrate Appwrite Storage API with React](https://dev.to/harisarang/integrate-appwrite-storage-api-with-react-5dg3)
+* [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
+* [Appwrite + Zapier = Magic](https://dev.to/ruthlessruler/appwrite-zapier-magic-12gk)
+* [How To Generate and Store Map Previews in Ruby with Appwrite](https://dev.to/oliverpham/how-to-generate-and-store-map-previews-in-ruby-with-appwrite-43ha)
 ## Videos
 
 * [Appwrite - Secure, Open-Source Backend Server - #techWebinarNepal](https://www.youtube.com/watch?v=OPkHCyq7nlw)
@@ -242,6 +247,8 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
+* **Appwrite + NextJs  Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
+
 * **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
 
 * **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
@@ -282,6 +289,10 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
 
 * **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
+
+* **Chatwrite** -- A simple, no-login chat app made with Appwrite and React. [Source Code](https://github.com/DarthFloopy/Chatwrite)
+
+* **Appwrite System Health** - A simple demo app to build an express nodejs rest api to monitor health on appwrite app. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)  [Blog Post](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
 
 Share your apps here! send a pull request!
 
