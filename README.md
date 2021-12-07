@@ -170,63 +170,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrites Account Service](https://dev.to/finnkr/appwrites-account-service-2hhd)
 * [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
 
-## Videos
-
-* [Appwrite - Secure, Open-Source Backend Server - #techWebinarNepal](https://www.youtube.com/watch?v=OPkHCyq7nlw)
-* [Introducing Appwrite for Flutter](https://www.youtube.com/watch?v=KNQzncq10CI) (online meetup with [@eldadfux](https://github.com/eldadfux))
-* [Appwrite - Services](https://youtu.be/if8f_Bf-Hlw)
-* [Overview and installation on Windows](https://youtu.be/cJonzmJkPlQ)
-* [Appwrite + Flutter EP00: Series Introduction](https://www.youtube.com/watch?v=eYXb_xbUjio)
-* [Appwrite + Flutter EP01: Setup Appwrite](https://www.youtube.com/watch?v=teUUt4ZqIvI)
-* [Appwrite + Flutter EP02: Wireframing](https://www.youtube.com/watch?v=RjE0tmyBdow)
-* [Appwrite + Flutter EP03: New Flutter project, UI designs](https://www.youtube.com/watch?v=HvcemJhSeE8)
-* [Appwrite + Flutter EP04: Let's Authenticate Users](https://www.youtube.com/watch?v=WcGQDmuwGMM)
-* [Appwrite + Flutter EP4.1: Quick fix for Permission Error](https://www.youtube.com/watch?v=EBevk7dfTjY)
-* [Appwrite + Flutter EP05: Proper State management & Routing and navigation setup](https://www.youtube.com/watch?v=kYpwnYY9Gf8)
-* [Appwrite + Flutter EP06: Routing, profile, logout](https://www.youtube.com/watch?v=4ZSX0VSg4bM)
-* [Appwrite + Flutter EP07: Querying and Listing Transactions](https://www.youtube.com/watch?v=X9vw4PGDbGc)
-* [Appwrite + Flutter EP08: Create, Read, Update, Delete Operations](https://www.youtube.com/watch?v=1HodtTldSdA)
-* [Appwrite + Flutter EP09: Searching, ordering and filtering documents](https://www.youtube.com/watch?v=bcG7G-1QBOk)
-* [Appwrite + Flutter EP10: Deploying Appwrite Server in VPS + Tips for Appwrite in Production](https://www.youtube.com/watch?v=WzHdvLItrEc)
-* [Appwrite + Flutter EP11: User preferences and Locale API](https://www.youtube.com/watch?v=qKkgXy3H7Mw)
-* [Appwrite + Flutter EP12: Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
-* [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
-* [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=16&t=14s)
-* [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=17&t=142s)
-* [Flutter + Appwrite Starter Application Template (Part 1)](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
-* [Flutter + Appwrite Starter Application Template (Part 2)](https://www.youtube.com/watch?v=W_PH5tHbhhM)
-* [Flutter + Appwrite Starter Application Template (Part 3)](https://youtu.be/UZw4VVpt_ZI)
-* [Flutter + Appwrite Starter Application Template (Part 4)](https://www.youtube.com/watch?v=h3D40BQ4a2E&list=PLUiueC0kTFqLub-jXD3MK4Dy7tjUIQkIh&index=3)
-* [Flutter + Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
-* [#30DaysofAppwrite​ Video Series](https://www.youtube.com/playlist?list=PLUiueC0kTFqITusEntt8bjhm20hv30Fsa)
-* [Appwrite with Web.​ Video Series](https://www.youtube.com/playlist?list=PLUr_dKgYaKJbxDEf_SchTwukxb0FlHOFf)
-* [Using Appwrite with Flutter: A tutorial with examples](https://blog.logrocket.com/appwrite-flutter-tutorial-with-examples/) [Source Code](https://github.com/pinkeshdarji/appwrite)
-* [Using good-first-issues to contribute to Appwrite](https://youtu.be/k3l_rurKOXg)
-* [Setting Up Appwrite on Ubuntu](https://youtu.be/05Ykx-1bF_M)
-* [Appwrite + CloudConvert : How to integrate CloudConvert with Appwrite (with and without CloudConvert SDK)](https://youtu.be/_uSQdU-AVA8)
-
-## Books
-
-* [Appwrite Up and Running by Alejandro Garcia](https://leanpub.com/appwrite-up-and-running/)
-
-## Inspiration
-
-* [We Created Appwrite to Make Software Development Less Painful](https://medium.com/@eldadfux/software-development-is-harder-than-ever-so-we-created-an-open-source-backend-to-make-it-less-533f3e3b1461?source=friends_link&sk=fe1c6ddf391ecc1af5e0dc3c20c881be)
-* [How We Integrated Our Docs and SDKs as First-Class Citizens of Our Coding Process](https://medium.com/appwrite-io/how-we-integrated-our-docs-and-sdks-as-first-class-citizens-of-our-coding-process-8e343def0e9?source=friends_link&sk=6f99e56da66d9ddd79867a8974389a24)
-* [How We Use Snyk to Protect Appwrite's Open-Source Projects from *Evil* Dependencies](https://medium.com/@eldadfux/this-is-how-we-use-snyk-to-protect-our-open-source-projects-from-evil-dependencies-6ee258ca5815?source=friends_link&sk=6b024f64a1ed3caae9d72bccdaeed647)
-* [Scheduled Tasks: The Good Way (or: Why You Should Stop Using Crontab)
-](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
-* [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
-* [Appwrite Setup and Email / Password Authentication](https://justinnoel.dev/2020/06/27/appwrite-setup-and-email-password-authentication/)
-* [Building Blocks for a Simplicity Driven Engineering Culture](https://medium.com/geekculture/building-blocks-for-a-simplicity-driven-engineering-culture-6725f07381c2)
-* [Appwrite and Open-Source](https://dev.to/sanketmathur/appwrite-and-open-source-5e7)
-* [Hacktoberfest (for Noobies) Guide](https://medium.com/@macallreevessmith/hacktoberfest-for-noobies-guide-f5e70b25c2e1)
-* [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
-* [My Hacktoberfest journey with Appwrite](https://dev.to/jhrcook/my-hacktoberfest-journey-of-with-appwrite-1k52)
-* [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
-* [Hacktoberfest 2021 with AppWrite](https://dev.to/pretty19/hacktoberfest-2021-with-appwrite-3978)
-* [Brief introduction to Appwrite and it's features](https://dev.to/froostycodes/appwrite-must-try-obb)
-* [Hacktoberfest- What I learned by creating a Appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
 
 ## Showcase (Built with Appwrite 📣)
 Share your apps here! Submit a pull request!
@@ -326,6 +269,63 @@ Share your apps here! Submit a pull request!
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
 
 
+## Videos
+
+* [Appwrite - Secure, Open-Source Backend Server - #techWebinarNepal](https://www.youtube.com/watch?v=OPkHCyq7nlw)
+* [Introducing Appwrite for Flutter](https://www.youtube.com/watch?v=KNQzncq10CI) (online meetup with [@eldadfux](https://github.com/eldadfux))
+* [Appwrite - Services](https://youtu.be/if8f_Bf-Hlw)
+* [Overview and installation on Windows](https://youtu.be/cJonzmJkPlQ)
+* [Appwrite + Flutter EP00: Series Introduction](https://www.youtube.com/watch?v=eYXb_xbUjio)
+* [Appwrite + Flutter EP01: Setup Appwrite](https://www.youtube.com/watch?v=teUUt4ZqIvI)
+* [Appwrite + Flutter EP02: Wireframing](https://www.youtube.com/watch?v=RjE0tmyBdow)
+* [Appwrite + Flutter EP03: New Flutter project, UI designs](https://www.youtube.com/watch?v=HvcemJhSeE8)
+* [Appwrite + Flutter EP04: Let's Authenticate Users](https://www.youtube.com/watch?v=WcGQDmuwGMM)
+* [Appwrite + Flutter EP4.1: Quick fix for Permission Error](https://www.youtube.com/watch?v=EBevk7dfTjY)
+* [Appwrite + Flutter EP05: Proper State management & Routing and navigation setup](https://www.youtube.com/watch?v=kYpwnYY9Gf8)
+* [Appwrite + Flutter EP06: Routing, profile, logout](https://www.youtube.com/watch?v=4ZSX0VSg4bM)
+* [Appwrite + Flutter EP07: Querying and Listing Transactions](https://www.youtube.com/watch?v=X9vw4PGDbGc)
+* [Appwrite + Flutter EP08: Create, Read, Update, Delete Operations](https://www.youtube.com/watch?v=1HodtTldSdA)
+* [Appwrite + Flutter EP09: Searching, ordering and filtering documents](https://www.youtube.com/watch?v=bcG7G-1QBOk)
+* [Appwrite + Flutter EP10: Deploying Appwrite Server in VPS + Tips for Appwrite in Production](https://www.youtube.com/watch?v=WzHdvLItrEc)
+* [Appwrite + Flutter EP11: User preferences and Locale API](https://www.youtube.com/watch?v=qKkgXy3H7Mw)
+* [Appwrite + Flutter EP12: Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
+* [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
+* [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=16&t=14s)
+* [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=17&t=142s)
+* [Flutter + Appwrite Starter Application Template (Part 1)](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
+* [Flutter + Appwrite Starter Application Template (Part 2)](https://www.youtube.com/watch?v=W_PH5tHbhhM)
+* [Flutter + Appwrite Starter Application Template (Part 3)](https://youtu.be/UZw4VVpt_ZI)
+* [Flutter + Appwrite Starter Application Template (Part 4)](https://www.youtube.com/watch?v=h3D40BQ4a2E&list=PLUiueC0kTFqLub-jXD3MK4Dy7tjUIQkIh&index=3)
+* [Flutter + Appwrite Gotchas - Common Issues We Might Run Into and Their Solutions](https://www.youtube.com/watch?v=bx8ifcXfMqA)
+* [#30DaysofAppwrite​ Video Series](https://www.youtube.com/playlist?list=PLUiueC0kTFqITusEntt8bjhm20hv30Fsa)
+* [Appwrite with Web.​ Video Series](https://www.youtube.com/playlist?list=PLUr_dKgYaKJbxDEf_SchTwukxb0FlHOFf)
+* [Using Appwrite with Flutter: A tutorial with examples](https://blog.logrocket.com/appwrite-flutter-tutorial-with-examples/) [Source Code](https://github.com/pinkeshdarji/appwrite)
+* [Using good-first-issues to contribute to Appwrite](https://youtu.be/k3l_rurKOXg)
+* [Setting Up Appwrite on Ubuntu](https://youtu.be/05Ykx-1bF_M)
+* [Appwrite + CloudConvert : How to integrate CloudConvert with Appwrite (with and without CloudConvert SDK)](https://youtu.be/_uSQdU-AVA8)
+
+## Books
+
+* [Appwrite Up and Running by Alejandro Garcia](https://leanpub.com/appwrite-up-and-running/)
+
+## Inspiration
+
+* [We Created Appwrite to Make Software Development Less Painful](https://medium.com/@eldadfux/software-development-is-harder-than-ever-so-we-created-an-open-source-backend-to-make-it-less-533f3e3b1461?source=friends_link&sk=fe1c6ddf391ecc1af5e0dc3c20c881be)
+* [How We Integrated Our Docs and SDKs as First-Class Citizens of Our Coding Process](https://medium.com/appwrite-io/how-we-integrated-our-docs-and-sdks-as-first-class-citizens-of-our-coding-process-8e343def0e9?source=friends_link&sk=6f99e56da66d9ddd79867a8974389a24)
+* [How We Use Snyk to Protect Appwrite's Open-Source Projects from *Evil* Dependencies](https://medium.com/@eldadfux/this-is-how-we-use-snyk-to-protect-our-open-source-projects-from-evil-dependencies-6ee258ca5815?source=friends_link&sk=6b024f64a1ed3caae9d72bccdaeed647)
+* [Scheduled Tasks: The Good Way (or: Why You Should Stop Using Crontab)
+](https://medium.com/@eldadfux/background-tasks-the-good-way-or-why-you-should-stop-using-crontab-4d0e50b9781e?source=friends_link&sk=e7df29ade74b9be2b574acc770cd084e&fbclid=IwAR1ZTWexks_4y03uwG8rRTrFXg6hDm4jdCC0V2eBE_y4aHvqAXPWRF680Xk)
+* [Why I moved from BaaS to Appwrite (self-hosted Backend)](https://dev.to/torstendittmann/why-i-moved-from-baas-to-appwrite-self-hosted-backend-1e6b)
+* [Appwrite Setup and Email / Password Authentication](https://justinnoel.dev/2020/06/27/appwrite-setup-and-email-password-authentication/)
+* [Building Blocks for a Simplicity Driven Engineering Culture](https://medium.com/geekculture/building-blocks-for-a-simplicity-driven-engineering-culture-6725f07381c2)
+* [Appwrite and Open-Source](https://dev.to/sanketmathur/appwrite-and-open-source-5e7)
+* [Hacktoberfest (for Noobies) Guide](https://medium.com/@macallreevessmith/hacktoberfest-for-noobies-guide-f5e70b25c2e1)
+* [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
+* [My Hacktoberfest journey with Appwrite](https://dev.to/jhrcook/my-hacktoberfest-journey-of-with-appwrite-1k52)
+* [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
+* [Hacktoberfest 2021 with AppWrite](https://dev.to/pretty19/hacktoberfest-2021-with-appwrite-3978)
+* [Brief introduction to Appwrite and it's features](https://dev.to/froostycodes/appwrite-must-try-obb)
+* [Hacktoberfest- What I learned by creating a Appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
 
 ## Playgrounds and Snippets
 
