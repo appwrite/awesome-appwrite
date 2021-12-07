@@ -12,6 +12,15 @@
     - [Security and authorization](#security-and-authorization)
     - [Appwrite services](#security-and-authorization)
   - [Showcase (Source Code)](#showcase-built-with-appwrite-)
+    - [Angular](#angular)
+    - [Express](#express)
+    - [Flutter](#flutter)
+    - [Godot](#godot)
+    - [golang](#golang)
+    - [Python](#python)
+    - [React](#react)
+    - [Svelte](#svelte)
+    - [Vue](#vue)
   - [Videos](#videos)
   - [Books](#books)
   - [Inspiration](#inspiration)
@@ -67,7 +76,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [KnowYourFood](https://github.com/LeBraveLittleToaster/KnowYourFood)
 * [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
 
-## Hacktoberfest content
+## Hacktoberfest 2021
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
 
