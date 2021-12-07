@@ -229,26 +229,27 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Hacktoberfest- What I learned by creating a Appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
 
 ## Showcase (Built with Appwrite 📣)
+Share your apps here! Submit a pull request!
+### Angular
+* **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
 
+* **Appwrite + Angular - Simple Blog** - A simple blog example using Angular as the frontend and Appwrite as the backend! [Source Code](https://github.com/NeonSpork/appwrite-blog-example)
+
+* **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
+
+### Express
+* **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener)
+
+* **Appwrite + ExpressJS** - A simple API made using Appwrite and ExpressJS. [Source Code](https://github.com/PyroCandy/pokemon-api-appwrite) [Blog Post](https://medium.com/@rushilshekhar1_/making-a-simple-api-using-appwrite-a7ceb096bf8f)
+
+* **Appwrite System Health** - A simple demo app to build an express nodejs rest api to monitor health on appwrite app. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)  [Blog Post](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
+
+### Flutter
 - **Artistry** - Artistry is a demo app built with flutter and Appwrite backend that demonstrates how to perform crud operation,searching, authentication with touch of cool animations. [Source Code](https://github.com/dvmjoshi/artistry_appwrite)
-
-- **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
-
-- **Shuttery** - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. [Source Code](https://github.com/muKaustav/Appwrite-DemoApp-Hacktoberfest-2021)
-
-- **Taskwrite** -Taskwrite is a demo web app built with React JS and Appwrite backend for Hacktoberfest 2021, that demonstrates how to create a To-Do list, that lets users add, edit, and delete tasks. It demonstrates the use of Google OAuth and Database Management. [Source Code](https://github.com/muKaustav/Taskwrite-Appwrite-Hacktoberfest-2021)
-
-* **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
-
-* **OAuth Provider Tester** - A Simple Appwrite OAuth Tester App built to make new oauth provider testing easy. [Source Code](https://github.com/AmreshSinha/OAuth-Tester-Appwrite)
-
-* **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
-
-* **AppNote** - Flutter notes app using Appwrite as a backend for storing documents. [Source Code](https://github.com/netfirms/appnote), [Blog Post](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
 
 * **Flutter TODO App** - A TODO app with Flutter and Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
 
-* **Login Page using Appwrite + Svelte** - A login/register page to showcase Appwrite's JS API with Svelte. [Source Code](https://github.com/PineappleIOnic/appwrite-svelte)
+* **AppNote** - Flutter notes app using Appwrite as a backend for storing documents. [Source Code](https://github.com/netfirms/appnote), [Blog Post](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
 
 * **Flutter Appwrite Quiz App** A simple Quiz App built with Flutter and Appwrite [Source Code](https://github.com/appwrite/quiz-with-flutter)
 
@@ -256,9 +257,35 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Flutter Appwrite Social App** A Social App playground for testing the features of Appwrite. [Source Code](https://github.com/alistairholmes/flutter-appwrite-social-app)
 
-* **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
+* Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
-* **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
+* **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/generalxhd/Gradely2)
+
+* **Fitness Challenge App with Appwrite** -  Create fitness challenges, invite friends, sync your health data from Apple Health/Google Fit and see who's winning. [Source Code](https://github.com/gireeshp/fitness_challenge) [Blog Post](https://medium.com/@gireeshputhumana/building-the-fitness-challenge-app-with-appwrite-367286790f64)
+
+* **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth  [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1) 
+
+### Godot
+* **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
+
+### golang
+* **GoRest** A demo app to showcase integrating appwrite apis with golang. Using database endpoints and examples [Source Code](https://github.com/maliaga-pantoja/golang-appwrite-demo)
+
+### Python
+* **Database interactions with the Python SDK demo** - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. [Source Code](https://github.com/jhrcook/coffee-counter-appwrite-demo)
+
+* **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
+
+### React
+- **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
+
+- **Shuttery** - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. [Source Code](https://github.com/muKaustav/Appwrite-DemoApp-Hacktoberfest-2021)
+
+- **Taskwrite** -Taskwrite is a demo web app built with React JS and Appwrite backend for Hacktoberfest 2021, that demonstrates how to create a To-Do list, that lets users add, edit, and delete tasks. It demonstrates the use of Google OAuth and Database Management. [Source Code](https://github.com/muKaustav/Taskwrite-Appwrite-Hacktoberfest-2021)
+
+* **OAuth Provider Tester** - A Simple Appwrite OAuth Tester App built to make new oauth provider testing easy. [Source Code](https://github.com/AmreshSinha/OAuth-Tester-Appwrite)
+
+* **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -270,52 +297,35 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + NextJs  Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
 
-* **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
-
-* **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
-
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
 
-* **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
-
-* **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/generalxhd/Gradely2)
-* **GoRest** A demo app to showcase integrating appwrite apis with golang. Using database endpoints and examples [Source Code](https://github.com/maliaga-pantoja/golang-appwrite-demo)
-
 * **Quiz App (ReactJS and Appwrite)** - A demo web application built using React and integrated with Appwrite. [Source Code](https://github.com/shreyventure/quiz_app_write)
-
-* Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
-
-* **Database interactions with the Python SDK demo** - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. [Source Code](https://github.com/jhrcook/coffee-counter-appwrite-demo)
-
-* **Appwrite + Angular - Simple Blog** - A simple blog example using Angular as the frontend and Appwrite as the backend! [Source Code](https://github.com/NeonSpork/appwrite-blog-example)
 
 * **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite) 
 
 * **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
 
-* **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener)
-
 * **Infinite Scrolling with React + Appwrite** - A simple project to demonstrate infinite scroll paging. [Source Code](https://github.com/SakshiUppoor/infinite-scroll-demo) 
-
-* **Appwrite + ExpressJS** - A simple API made using Appwrite and ExpressJS. [Source Code](https://github.com/PyroCandy/pokemon-api-appwrite) [Blog Post](https://medium.com/@rushilshekhar1_/making-a-simple-api-using-appwrite-a7ceb096bf8f)
 
 * **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
 
-* **Fitness Challenge App with Appwrite** -  Create fitness challenges, invite friends, sync your health data from Apple Health/Google Fit and see who's winning. [Source Code](https://github.com/gireeshp/fitness_challenge) [Blog Post](https://medium.com/@gireeshputhumana/building-the-fitness-challenge-app-with-appwrite-367286790f64)
-
-* **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth  [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1) 
-
 * **Pastebin Clone built with Appwrite** -  A simple pastebin clone built in React with Appwrite using Google OAuth for Authentication [Source Code](https://github.com/dro-1/appwrite-pastebin-clone)
-
-* **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
-
-* **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
 
 * **Chatwrite** -- A simple, no-login chat app made with Appwrite and React. [Source Code](https://github.com/DarthFloopy/Chatwrite)
 
-* **Appwrite System Health** - A simple demo app to build an express nodejs rest api to monitor health on appwrite app. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)  [Blog Post](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
+### Svelte
+* **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
 
-Share your apps here! send a pull request!
+* **Login Page using Appwrite + Svelte** - A login/register page to showcase Appwrite's JS API with Svelte. [Source Code](https://github.com/PineappleIOnic/appwrite-svelte)
+
+* **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
+
+### Vue
+* **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
+
+* **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
+
+
 
 ## Playgrounds and Snippets
 
