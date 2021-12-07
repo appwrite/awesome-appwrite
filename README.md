@@ -3,12 +3,18 @@
 ![logo](images/logo.png "Logo")
 
 ## Table of Contents:
-
-  - [Tutorials](#tutorials)
+  - [Announcements and official blog posts](#announcements-and-official-blog-posts)
+  - [Learning resources](#learning-resources)
+    - [Getting started](#getting-started)
+    - [Setup, customization and deploying](#setup,-customization-and-deploying)
+    - [Web development](#web-development)
+    - [Mobile development](#mobile-development)
+    - [Security and authorization](#security-and-authorization)
+    - [Appwrite services](#security-and-authorization)
+  - [Showcase (Source Code)](#showcase-built-with-appwrite-)
   - [Videos](#videos)
   - [Books](#books)
   - [Inspiration](#inspiration)
-  - [Showcase (Source Code)](#showcase-built-with-appwrite-)
   - [Playgrounds and Snippets](#playgrounds-and-snippets)
   - [SDK](#SDK)
   - [Tools](#Tools)
@@ -61,51 +67,108 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [KnowYourFood](https://github.com/LeBraveLittleToaster/KnowYourFood)
 * [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
 
-## Tutorials 
-* [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
-* [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
-* [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
+## Hacktoberfest content
+* [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
+* [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
+
+## Announcements and official blog posts
+* [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
+* [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
 * [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
 * [Sending a Custom Welcome Email Using Appwrite Functions and Mailgun](https://dev.to/appwrite/sending-a-custom-welcome-email-using-appwrite-functions-and-mailgun-225a) (Official)
 * [Create an Appwrite File Backup Function Using the Dropbox API](https://dev.to/appwrite/create-an-appwrite-file-backup-function-using-the-dropbox-api-2pfo) (Official)
 * [Learn How to Create and Run Appwrite Functions With Dart](https://dev.to/appwrite/learn-how-to-create-and-run-appwrite-functions-with-dart-5668) (Official)
-* [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
-* [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
 * [Learn How to Disable ClamAV in Your Appwrite Stack and Reduce Memory Usage](https://dev.to/appwrite/learn-how-to-disable-clamav-in-your-appwrite-stack-and-reduce-memory-usage-2e37) (Official)
 * [Appwrite Releases a Native Svelte SDK for Its Open-Source BaaS](https://dev.to/appwrite/appwrite-releases-a-native-svelte-sdk-for-its-open-source-baas-5g0g) (Official)
+## Learning resources 
+### Getting started
+* [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
+* [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
+* [Getting Started for Android](https://appwrite.io/docs/getting-started-for-android) (Official)
+* [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
 * [Appwrite Introduction](https://medium.com/@eldadfux/introducing-appwrite-an-open-source-backend-server-for-mobile-web-developers-4be70731575d?source=friends_link&sk=b6a2be384aafd1fa5b1b6ff12906082c)
-* [How to get started with Appwrite](https://medium.com/@devanshkajve123/appwrite-what-is-appwrite-how-to-get-started-with-it-contribution-guide-and-more-68ccffb1a2d3)
+* [Introduction to AppWrite (in Portuguese)](https://medium.com/@fernandayukarikawasaki/uma-introdu%C3%A7%C3%A3o-ao-appwrite-ad90a127d7fa)
 * [Exploring Appwrite](https://dev.to/asmit2952/exploring-appwrite-1nh5)
-* [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
-* [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
-* [Image Resizing and Cropping with Appwrite](https://medium.com/appwrite-io/how-to-use-appwrite-open-source-platform-as-your-image-cropping-optimisation-service-2c5efab4edcb?source=friends_link&sk=11c8c6d50c2c24d0084f20f98a90a0bd)
-* [Tips for running Appwrite in Production](https://appwrite.io/docs/production)
-* [Run Your Appwrite Backend Server With Any SMTP Provider for Max Email Deliverability](https://medium.com/@eldadfux/learn-how-to-run-your-appwrite-backend-server-with-any-smtp-provider-for-max-email-deliverability-c6ab2c3efec8?source=friends_link&sk=c4ad7bffb3952547cfb89137da581310)
-* [Host Appwrite Backend with DigitalOcean Droplet](https://medium.com/@vaytrex/host-your-appwrite-backend-with-digitalocean-droplet-f3d248c60815)
-* [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
-* [Appwrite secure open-source backend server for Flutter example app](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
-* [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
-* [How setup Appwrite for Android with Retrofit ( Direct HTTP Request )](https://medium.com/@developersm13/how-to-setup-appwrite-io-for-android-with-retrofit-e6271d770cad)
-* [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
-*  [Tutorial on how to use an SMTP provider to manage Appwrite end servers to enhance email delivery](https://knowlegdeninja.blogspot.com/2021/10/tutorial-on-how-to-use-smtp-provider-to.html)
-* [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
+* [How to get started with Appwrite](https://medium.com/@devanshkajve123/appwrite-what-is-appwrite-how-to-get-started-with-it-contribution-guide-and-more-68ccffb1a2d3)
 * [What is Appwrite and what are its key feature?](https://knowlegdeninja.blogspot.com/2021/10/what-is-appwrite-and-what-are-its-key.html)(blog)
-* [Using database api (Contenido en español) ](https://medium.com/@devildeveloper/implementando-un-backend-en-menos-de-cinco-minutos-con-appwrite-7c6d6262cc87)
-* [AppWrite Services](https://koulurunandakishorereddy.tech/appwrite-services)
-* [Leveraging Power of Appwrite to Build Scheduling Applications](https://medium.com/@ujjwal26599/leveraging-power-of-appwrite-to-build-scheduling-applications-40615fa7e7f7)
-* [Newsletter Form Application with Appwrite and React](https://thebeginner86.medium.com/newsletter-form-application-with-appwrite-and-react-2791bd38a457)
-* [Appwrite: All you need to know](https://krishguptadev.hashnode.dev/appwrite-all-you-need-to-know)
 * [Getting started with Appwrite](https://dev.to/asmit2952/getting-started-with-appwrite-3oic)
-* [Deploy Appwrite to AWS using Terraform and Ansible](https://dev.to/rizkyrajitha/deploy-appwrite-to-aws-using-terraform-and-ansible-4af)
-* [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
 * [Introduction To Appwrite: The Open-Source Firebase Alternative That Is Easy to Self-Host 🚀](https://muthuannamalai.tech/introduction-to-appwrite-the-open-source-firebase-alternative-that-is-easy-to-self-host)
 * [What is Appwrite and How to use it Efficiently](https://dev.to/noviicee/what-is-appwrite-and-how-to-use-it-efficiently-3o1m)
-* [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
-* [How to setup Appwrite on Ubuntu](https://dev.to/noviicee/how-to-setup-appwrite-on-ubuntu-3j67)
-* [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
+* [What's new in Appwrite 0.7](https://ajith75.hashnode.dev/whats-new-in-appwrite-07)
+* [How to setup Appwrite in Windows?](https://dev.to/goheljay/why-i-used-appwrite-how-to-setup-appwrite-in-windows-o2l)
+* [Appwrite - macOS Installation and Debugging Guide](https://dev.to/kritikash18/appwrite-macos-installation-and-debugging-guide-28fm)
+* [Appwrite: All you need to know](https://krishguptadev.hashnode.dev/appwrite-all-you-need-to-know)
 * [Set up the backend for your first app in the no-code way using Appwrite!](https://medium.com/@vidushig2020/set-up-the-backend-for-your-first-app-in-the-no-code-way-6052b348d045)
+* [How to setup Appwrite on Ubuntu](https://dev.to/noviicee/how-to-setup-appwrite-on-ubuntu-3j67)
+* [Open Source Backend Server - Appwrite](https://dev.to/hardikchopra242/open-source-backend-server-appwrite-48b9)
+* [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 
+### Setup, customization and deploying
+* [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
+* [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
+* [Host Appwrite Backend with DigitalOcean Droplet](https://medium.com/@vaytrex/host-your-appwrite-backend-with-digitalocean-droplet-f3d248c60815)
+* [Setting up Appwrite on DigitalOcean](https://joshuacook.netlify.app/post/appwrite-digital-ocean/)
+* [Tips for running Appwrite in Production](https://appwrite.io/docs/production)
+* [Run Your Appwrite Backend Server With Any SMTP Provider for Max Email Deliverability](https://medium.com/@eldadfux/learn-how-to-run-your-appwrite-backend-server-with-any-smtp-provider-for-max-email-deliverability-c6ab2c3efec8?source=friends_link&sk=c4ad7bffb3952547cfb89137da581310)
+* [Tutorial on how to use an SMTP provider to manage Appwrite end servers to enhance email delivery](https://knowlegdeninja.blogspot.com/2021/10/tutorial-on-how-to-use-smtp-provider-to.html)
+* [Deploy Appwrite to AWS using Terraform and Ansible](https://dev.to/rizkyrajitha/deploy-appwrite-to-aws-using-terraform-and-ansible-4af)
+* [Setup Appwrite on Linode](https://imknight.com/setup-appwrite-on-linode/)
+* [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/)
+* [Appwrite + Zapier = Magic](https://dev.to/ruthlessruler/appwrite-zapier-magic-12gk)
+* [Import sample data to Appwrite through Integromat](https://imknight.com/import-data-to-appwrite-through-integromat/)
+* [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 
+### Web development
+* [Node.JS in Appwrite](https://dev.to/finnkr/nodejs-in-appwrite-21kk)
+* [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
+* [Newsletter Form Application with Appwrite and React](https://thebeginner86.medium.com/newsletter-form-application-with-appwrite-and-react-2791bd38a457)
+* [Deno in Appwrite](https://dev.to/asiancat54x/deno-appwrite-5271/)
+* [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-1)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-1-536l)
+* [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-2)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-2-4fgd)
+* [Appwrite + React](https://anjalirohira.hashnode.dev/integrate-appwrite-inside-react-projects)
+* [Building A URL Shortener using Appwrite and Express](https://dev.to/dro1/building-a-url-shortener-using-appwrite-and-express-128i)
+* [Appwrite + React = 🔥](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
+* [Building a Web App with ReactJS and Appwrite](https://dev.to/drishtipeshwani/building-a-web-app-with-reactjs-and-appwrite-4cno)
+* [Build a Web app using Next.js and Appwrite](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
+* [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
+* [Integrate Appwrite Storage API with React](https://dev.to/harisarang/integrate-appwrite-storage-api-with-react-5dg3)
+* [How To Generate and Store Map Previews in Ruby with Appwrite](https://dev.to/oliverpham/how-to-generate-and-store-map-previews-in-ruby-with-appwrite-43ha)
+
+### Mobile development
+* [Appwrite the best backend for mobile apps and its features](https://qr.ae/pGxRuF)
+* [Appwrite secure open-source backend server for Flutter example app](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
+* [How setup Appwrite for Android with Retrofit ( Direct HTTP Request )](https://medium.com/@developersm13/how-to-setup-appwrite-io-for-android-with-retrofit-e6271d770cad)
+* [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
+* [Introduction to Appwrite Cloud Functions with Android and Kotlin](https://hardiksachan.hashnode.dev/introduction-to-appwrite-cloud-functions-with-android-and-kotlin)
+* [Dart in Appwrite](https://dev.to/oshi36/dart-in-appwrite-47e)
+* [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
+
+### Security and authentication
+* [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
+* [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
+* [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
+* [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
+* [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
+
+### Appwrite services
+* [AppWrite Services](https://koulurunandakishorereddy.tech/appwrite-services)
+* [Image Resizing and Cropping with Appwrite](https://medium.com/appwrite-io/how-to-use-appwrite-open-source-platform-as-your-image-cropping-optimisation-service-2c5efab4edcb?source=friends_link&sk=11c8c6d50c2c24d0084f20f98a90a0bd)
+* [Cropping and Optimizing images with Appwrite](https://medium.com/@anand26shweta/cropping-and-optimizing-images-with-appwrite-1e3662c37eaa)
+* [Cloud Functions with Dart and Appwrite](https://dev.to/nehanshj/cloud-functions-with-dart-and-appwrite-2nob)
+* [Using database api (Contenido en español) ](https://medium.com/@devildeveloper/implementando-un-backend-en-menos-de-cinco-minutos-con-appwrite-7c6d6262cc87)
+* [Leveraging Power of Appwrite to Build Scheduling Applications](https://medium.com/@ujjwal26599/leveraging-power-of-appwrite-to-build-scheduling-applications-40615fa7e7f7)
+* [Avatar API support in Appwrite](https://dev.to/pretty19/avatar-api-support-in-appwrite-fc1)
+* [Appwrites Avatars service](https://dev.to/ashish4arora/appwrites-avatars-service-4gae)
+* [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
+* [Introduction to Appwrite's Avatar API](https://drishtip.hashnode.dev/introduction-to-appwrites-avatar-api)
+* [All you need to know about APPWRITE Team service](https://dev.to/devgossips/all-you-need-to-know-about-appwrite-team-service-client-side-1g1b) 
+* [Send Messages With Telegram Using Appwrite Functions](https://rizkyrajitha.hashnode.dev/send-messages-with-telegram-using-appwrite-functions)
+* [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
+* [Appwrites database service](https://mbosnjak.hashnode.dev/appwrites-database-service)
+* [Appwrites' Storage Services](https://dev.to/kaid00/appwrite-storage-service-39pc)
+* [Using Appwrite Locale Service in your Next Project](https://dev.to/drishtipeshwani/using-appwrite-locale-service-in-your-next-project-3pcm)
+* [Appwrites Account Service](https://dev.to/finnkr/appwrites-account-service-2hhd)
+* [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
 
 ## Videos
 
@@ -138,6 +201,9 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [#30DaysofAppwrite​ Video Series](https://www.youtube.com/playlist?list=PLUiueC0kTFqITusEntt8bjhm20hv30Fsa)
 * [Appwrite with Web.​ Video Series](https://www.youtube.com/playlist?list=PLUr_dKgYaKJbxDEf_SchTwukxb0FlHOFf)
 * [Using Appwrite with Flutter: A tutorial with examples](https://blog.logrocket.com/appwrite-flutter-tutorial-with-examples/) [Source Code](https://github.com/pinkeshdarji/appwrite)
+* [Using good-first-issues to contribute to Appwrite](https://youtu.be/k3l_rurKOXg)
+* [Setting Up Appwrite on Ubuntu](https://youtu.be/05Ykx-1bF_M)
+* [Appwrite + CloudConvert : How to integrate CloudConvert with Appwrite (with and without CloudConvert SDK)](https://youtu.be/_uSQdU-AVA8)
 
 ## Books
 
@@ -156,10 +222,25 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite and Open-Source](https://dev.to/sanketmathur/appwrite-and-open-source-5e7)
 * [Hacktoberfest (for Noobies) Guide](https://medium.com/@macallreevessmith/hacktoberfest-for-noobies-guide-f5e70b25c2e1)
 * [Appwrite and How It’s Changing the Mobile Application Development Industry – lofts.sh](https://lofts.sh/appwrite-and-how-its-changing-the-mobile-application-development-industry/)
+* [My Hacktoberfest journey with Appwrite](https://dev.to/jhrcook/my-hacktoberfest-journey-of-with-appwrite-1k52)
+* [The Best Open-Source Alternative to Firebase – Appwrite](https://instacodeblog.com/the-best-open-source-alternative-to-firebase-appwrite/)
+* [Hacktoberfest 2021 with AppWrite](https://dev.to/pretty19/hacktoberfest-2021-with-appwrite-3978)
+* [Brief introduction to Appwrite and it's features](https://dev.to/froostycodes/appwrite-must-try-obb)
+* [Hacktoberfest- What I learned by creating a Appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
 
 ## Showcase (Built with Appwrite 📣)
 
+- **Artistry** - Artistry is a demo app built with flutter and Appwrite backend that demonstrates how to perform crud operation,searching, authentication with touch of cool animations. [Source Code](https://github.com/dvmjoshi/artistry_appwrite)
+
+- **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
+
+- **Shuttery** - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. [Source Code](https://github.com/muKaustav/Appwrite-DemoApp-Hacktoberfest-2021)
+
+- **Taskwrite** -Taskwrite is a demo web app built with React JS and Appwrite backend for Hacktoberfest 2021, that demonstrates how to create a To-Do list, that lets users add, edit, and delete tasks. It demonstrates the use of Google OAuth and Database Management. [Source Code](https://github.com/muKaustav/Taskwrite-Appwrite-Hacktoberfest-2021)
+
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
+
+* **OAuth Provider Tester** - A Simple Appwrite OAuth Tester App built to make new oauth provider testing easy. [Source Code](https://github.com/AmreshSinha/OAuth-Tester-Appwrite)
 
 * **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 
@@ -183,7 +264,11 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * **Appwrite + NextJs Todo** A simple login app built with Appwrite and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-todo-with-nextjs)
 
+* **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/) [Tutorial](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
+
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
+
+* **Appwrite + NextJs  Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
 
 * **Appwrite + Angular Todo MVC** A simple todo app built with Appwrite and Angular. [Source Code](https://github.com/appwrite/todo-with-angular) [Demo](https://appwrite-todo-with-angular.vercel.app/)
 
@@ -200,6 +285,35 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 
 * Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
+* **Database interactions with the Python SDK demo** - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. [Source Code](https://github.com/jhrcook/coffee-counter-appwrite-demo)
+
+* **Appwrite + Angular - Simple Blog** - A simple blog example using Angular as the frontend and Appwrite as the backend! [Source Code](https://github.com/NeonSpork/appwrite-blog-example)
+
+* **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite) 
+
+* **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
+
+* **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener)
+
+* **Infinite Scrolling with React + Appwrite** - A simple project to demonstrate infinite scroll paging. [Source Code](https://github.com/SakshiUppoor/infinite-scroll-demo) 
+
+* **Appwrite + ExpressJS** - A simple API made using Appwrite and ExpressJS. [Source Code](https://github.com/PyroCandy/pokemon-api-appwrite) [Blog Post](https://medium.com/@rushilshekhar1_/making-a-simple-api-using-appwrite-a7ceb096bf8f)
+
+* **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
+
+* **Fitness Challenge App with Appwrite** -  Create fitness challenges, invite friends, sync your health data from Apple Health/Google Fit and see who's winning. [Source Code](https://github.com/gireeshp/fitness_challenge) [Blog Post](https://medium.com/@gireeshputhumana/building-the-fitness-challenge-app-with-appwrite-367286790f64)
+
+* **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth  [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1) 
+
+* **Pastebin Clone built with Appwrite** -  A simple pastebin clone built in React with Appwrite using Google OAuth for Authentication [Source Code](https://github.com/dro-1/appwrite-pastebin-clone)
+
+* **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
+
+* **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
+
+* **Chatwrite** -- A simple, no-login chat app made with Appwrite and React. [Source Code](https://github.com/DarthFloopy/Chatwrite)
+
+* **Appwrite System Health** - A simple demo app to build an express nodejs rest api to monitor health on appwrite app. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)  [Blog Post](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
 
 Share your apps here! send a pull request!
 
@@ -218,6 +332,7 @@ Share your apps here! send a pull request!
 ## SDK
 
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-js)
+* [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android)
 * [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) (beta)
 * [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php)
 * [Appwrite Svelte SDK](https://github.com/appwrite/sdk-for-svelte)
@@ -227,14 +342,21 @@ Share your apps here! send a pull request!
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) (beta)
 * [Appwrite Appcelerator Titanium SDK](https://github.com/m1ga/ti.appwrite)
 * [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) (beta)
+* [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart)
+* [Appwrite Go SDK](https://github.com/appwrite/sdk-for-go)
+* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet)
 * [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple)
+* [Unoffical Appwrite Minecraft SDK](https://github.com/nCodesDotEU/Appwrite-Minecraft-Database)
+* [Unofficial Appwrite Godot Engine SDK](https://github.com/GodotNuts/appwrite-sdk)
 
 ## Tools
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
 * [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) interact with your Appwrite server side APIs from your terminal.
 * [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit)
 * [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) explore different aspects of an Appwrite project from the front end
+* [Deploy Appwrite function](https://github.com/marketplace/actions/deploy-appwrite-function) a GitHub action to deploy your function to Appwrite
+* [Appwrite Starter](https://www.npmjs.com/package/create-appwrite) start building faster with this initializer for web frameworks
 
 ## Communities 
 
