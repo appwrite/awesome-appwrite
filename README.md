@@ -220,7 +220,7 @@ Share your apps here! Submit a pull request!
 ### Godot
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
-### golang
+### Golang
 * **GoRest** A demo app to showcase integrating appwrite apis with golang. Using database endpoints and examples [Source Code](https://github.com/maliaga-pantoja/golang-appwrite-demo)
 
 ### Python
