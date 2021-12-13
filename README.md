@@ -112,7 +112,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Open Source Backend Server - Appwrite](https://dev.to/hardikchopra242/open-source-backend-server-appwrite-48b9)
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 
-### Setup, customization and deploying
+### Setup, Customization and Deployment
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
 * [Host Appwrite Backend with DigitalOcean Droplet](https://medium.com/@vaytrex/host-your-appwrite-backend-with-digitalocean-droplet-f3d248c60815)
