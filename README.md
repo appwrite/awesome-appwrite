@@ -127,7 +127,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Import sample data to Appwrite through Integromat](https://imknight.com/import-data-to-appwrite-through-integromat/)
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 
-### Web development
+### Web Development
 * [Node.JS in Appwrite](https://dev.to/finnkr/nodejs-in-appwrite-21kk)
 * [Integrating with Appwrite HTTP API Using no-SDK](https://medium.com/appwrite-io/how-to-connect-with-the-appwrite-backend-server-directly-using-only-the-appwrite-http-api-1e720b567395?source=friends_link&sk=1568e3606160605b28274050618cd68f)
 * [Newsletter Form Application with Appwrite and React](https://thebeginner86.medium.com/newsletter-form-application-with-appwrite-and-react-2791bd38a457)
