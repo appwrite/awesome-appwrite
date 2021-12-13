@@ -159,7 +159,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
 
-### Appwrite services
+### Appwrite Services
 * [AppWrite Services](https://koulurunandakishorereddy.tech/appwrite-services)
 * [Image Resizing and Cropping with Appwrite](https://medium.com/appwrite-io/how-to-use-appwrite-open-source-platform-as-your-image-cropping-optimisation-service-2c5efab4edcb?source=friends_link&sk=11c8c6d50c2c24d0084f20f98a90a0bd)
 * [Cropping and Optimizing images with Appwrite](https://medium.com/@anand26shweta/cropping-and-optimizing-images-with-appwrite-1e3662c37eaa)
