@@ -152,7 +152,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Dart in Appwrite](https://dev.to/oshi36/dart-in-appwrite-47e)
 * [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
 
-### Security and authentication
+### Security and Authentication
 * [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
 * [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 * [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
