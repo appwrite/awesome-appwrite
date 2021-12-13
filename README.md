@@ -90,7 +90,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Learn How to Disable ClamAV in Your Appwrite Stack and Reduce Memory Usage](https://dev.to/appwrite/learn-how-to-disable-clamav-in-your-appwrite-stack-and-reduce-memory-usage-2e37) (Official)
 * [Appwrite Releases a Native Svelte SDK for Its Open-Source BaaS](https://dev.to/appwrite/appwrite-releases-a-native-svelte-sdk-for-its-open-source-baas-5g0g) (Official)
 ## Learning Resources 
-### Getting started
+### Getting Started
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
 * [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
 * [Getting Started for Android](https://appwrite.io/docs/getting-started-for-android) (Official)
