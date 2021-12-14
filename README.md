@@ -10,7 +10,7 @@
     - [Web Development](#web-development)
     - [Mobile Development](#mobile-development)
     - [Security and Authorization](#security-and-authorization)
-    - [Appwrite Services](#security-and-authorization)
+    - [Appwrite Services](#appwrite-services)
   - [Showcase (Source Code)](#showcase-built-with-appwrite-)
     - [Angular](#angular)
     - [Express](#express)
