@@ -9,7 +9,7 @@
     - [Setup, Customization and Deployment](#setup-customization-and-deployment)
     - [Web Development](#web-development)
     - [Mobile Development](#mobile-development)
-    - [Security and Authorization](#security-and-authorization)
+    - [Security and Authentication](#security-and-authentication)
     - [Appwrite Services](#appwrite-services)
   - [Showcase (Source Code)](#showcase-built-with-appwrite-)
     - [Angular](#angular)
