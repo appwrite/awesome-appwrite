@@ -6,7 +6,7 @@
   - [Announcements and Official Blog Posts](#announcements-and-official-blog-posts)
   - [Learning Resources](#learning-resources)
     - [Getting Started](#getting-started)
-    - [Setup, Customization and Deploying](#setup,-customization-and-deploying)
+    - [Setup, Customization and Deployment](#setup-customization-and-deployment)
     - [Web Development](#web-development)
     - [Mobile Development](#mobile-development)
     - [Security and Authorization](#security-and-authorization)
