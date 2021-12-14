@@ -4,6 +4,8 @@
 
 ## Table of Contents:
   - [Announcements and Official Blog Posts](#announcements-and-official-blog-posts)
+  - [30 Days of Appwrite](#30-days-of-appwrite-)
+  - [Hacktoberfest 2021](#hacktoberfest-2021) 
   - [Learning Resources](#learning-resources)
     - [Getting Started](#getting-started)
     - [Setup, Customization and Deployment](#setup-customization-and-deployment)
@@ -29,7 +31,17 @@
   - [Tools](#Tools)
   - [Communities](#communities)
 
-## 30 Days of Appwrite ✨
+## Announcements and Official Blog Posts
+* [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
+* [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
+* [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
+* [Sending a Custom Welcome Email Using Appwrite Functions and Mailgun](https://dev.to/appwrite/sending-a-custom-welcome-email-using-appwrite-functions-and-mailgun-225a) (Official)
+* [Create an Appwrite File Backup Function Using the Dropbox API](https://dev.to/appwrite/create-an-appwrite-file-backup-function-using-the-dropbox-api-2pfo) (Official)
+* [Learn How to Create and Run Appwrite Functions With Dart](https://dev.to/appwrite/learn-how-to-create-and-run-appwrite-functions-with-dart-5668) (Official)
+* [Learn How to Disable ClamAV in Your Appwrite Stack and Reduce Memory Usage](https://dev.to/appwrite/learn-how-to-disable-clamav-in-your-appwrite-stack-and-reduce-memory-usage-2e37) (Official)
+* [Appwrite Releases a Native Svelte SDK for Its Open-Source BaaS](https://dev.to/appwrite/appwrite-releases-a-native-svelte-sdk-for-its-open-source-baas-5g0g) (Official)
+
+### 30 Days of Appwrite ✨
 * [Day 1 - Pilot](https://dev.to/appwrite/30daysofappwrite-4hh)
 * [Day 2 - Installation](https://dev.to/appwrite/installing-appwrite-366o)
 * [Day 3 - Appwrite’s building blocks](https://dev.to/appwrite/30daysofappwrite-appwrite-s-building-blocks-1936)
@@ -62,8 +74,6 @@
 
 
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
-Submit your projects and win some Awesome Appwrite Swag 🤩 
-<!-- Raise a PR and add a link to your project under this section. -->
 * [Dart Online Compiler](https://github.com/aadarshadhakalg/BLoC-Appwrite)
 * [Ruitoque´s Food](https://ruitoquefood.com/)
 * [Todo With Flutter](https://github.com/SirusCodes/todo_appwrite)
@@ -80,15 +90,6 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
 
-## Announcements and Official Blog Posts
-* [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
-* [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
-* [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
-* [Sending a Custom Welcome Email Using Appwrite Functions and Mailgun](https://dev.to/appwrite/sending-a-custom-welcome-email-using-appwrite-functions-and-mailgun-225a) (Official)
-* [Create an Appwrite File Backup Function Using the Dropbox API](https://dev.to/appwrite/create-an-appwrite-file-backup-function-using-the-dropbox-api-2pfo) (Official)
-* [Learn How to Create and Run Appwrite Functions With Dart](https://dev.to/appwrite/learn-how-to-create-and-run-appwrite-functions-with-dart-5668) (Official)
-* [Learn How to Disable ClamAV in Your Appwrite Stack and Reduce Memory Usage](https://dev.to/appwrite/learn-how-to-disable-clamav-in-your-appwrite-stack-and-reduce-memory-usage-2e37) (Official)
-* [Appwrite Releases a Native Svelte SDK for Its Open-Source BaaS](https://dev.to/appwrite/appwrite-releases-a-native-svelte-sdk-for-its-open-source-baas-5g0g) (Official)
 ## Learning Resources 
 ### Getting Started
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
