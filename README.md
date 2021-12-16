@@ -381,8 +381,8 @@ Share your apps here! Submit a pull request!
 ## Communities 
 
 * [Appwrite Blog](https://medium.com/appwrite-io) (Official, global)
-* [Discord Server](https://discord.gg/GSeTUeA) (Official, global)
-* [Twitter](https://twitter.com/appwrite_io) (Official, global)
+* [Discord Server](https://appwrite.io/discord) (Official, global)
+* [Twitter](https://twitter.com/appwrite) (Official, global)
 * [Facebook](https://www.facebook.com/appwrite.io/) (Official, global)
 * [Appwrite Developers on Facebook](https://www.facebook.com/groups/appwrite.developers/?source_id=227046654430085) (Official, global)
 * [Gitter](https://gitter.im/appwrite/community) (Legacy, global)
