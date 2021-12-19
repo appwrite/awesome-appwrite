@@ -112,6 +112,7 @@ Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.i
 * [How to setup Appwrite on Ubuntu](https://dev.to/noviicee/how-to-setup-appwrite-on-ubuntu-3j67)
 * [Open Source Backend Server - Appwrite](https://dev.to/hardikchopra242/open-source-backend-server-appwrite-48b9)
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
+* [Appwrite with Dart!](https://dev.to/timothy22000/appwrite-with-dart-3knc)
 
 ### Setup, Customization and Deployment
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
@@ -277,7 +278,6 @@ Share your apps here! Submit a pull request!
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
-
 
 ## Videos
 
