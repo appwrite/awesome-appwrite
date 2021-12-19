@@ -144,6 +144,7 @@ Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.i
 * [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
 * [Integrate Appwrite Storage API with React](https://dev.to/harisarang/integrate-appwrite-storage-api-with-react-5dg3)
 * [How To Generate and Store Map Previews in Ruby with Appwrite](https://dev.to/oliverpham/how-to-generate-and-store-map-previews-in-ruby-with-appwrite-43ha)
+* [What is Appwrite and who i setup in my project?](https://dev.to/jordi5107/what-is-appwrite-and-who-i-setup-in-my-project-3af)
 * [How Appwrite real-time can make your CMS changes instant](https://sakshiuppoor.hashnode.dev/how-appwrite-real-time-can-make-your-cms-changes-instant)
 
 ### Mobile Development
@@ -281,6 +282,7 @@ Share your apps here! Submit a pull request!
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
+
 
 ## Videos
 
