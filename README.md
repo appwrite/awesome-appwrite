@@ -346,7 +346,6 @@ Share your apps here! Submit a pull request!
 * [Brief introduction to Appwrite and it's features](https://dev.to/froostycodes/appwrite-must-try-obb)
 * [Hacktoberfest- What I learned by creating a Appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
 
-
 ## Playgrounds and Snippets
 
 * [Playground for Web](https://github.com/appwrite/playground-for-web)
