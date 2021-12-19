@@ -142,7 +142,6 @@ Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.i
 * [Building a Web App with ReactJS and Appwrite](https://dev.to/drishtipeshwani/building-a-web-app-with-reactjs-and-appwrite-4cno)
 * [Build a Web app using Next.js and Appwrite](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
 * [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
-* [How Appwrite real-time can make your CMS changes instant](https://sakshiuppoor.hashnode.dev/how-appwrite-real-time-can-make-your-cms-changes-instant)
 
 ## Videos
 
