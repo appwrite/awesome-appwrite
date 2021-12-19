@@ -23,6 +23,7 @@
     - [React](#react)
     - [Svelte](#svelte)
     - [Vue](#vue)
+    - [Android](#android)
   - [Videos](#videos)
   - [Books](#books)
   - [Inspiration](#inspiration)
@@ -282,6 +283,9 @@ Share your apps here! Submit a pull request!
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
+
+### Android
+* **Appwrite System Health** - A simple demo app to build an express nodejs rest api to monitor health on appwrite app. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)  [Blog Post](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
 
 
 ## Videos
