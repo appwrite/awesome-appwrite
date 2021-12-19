@@ -149,7 +149,7 @@ Submit your projects and win some Awesome Appwrite Swag 🤩
 * [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
 * [Appwrite + Zapier = Magic](https://dev.to/ruthlessruler/appwrite-zapier-magic-12gk)
 * [How To Generate and Store Map Previews in Ruby with Appwrite](https://dev.to/oliverpham/how-to-generate-and-store-map-previews-in-ruby-with-appwrite-43ha)
-* [What is AppWrite and who i setup in my project?](https://dev.to/jordi5107/what-is-appwrite-and-who-i-setup-in-my-project-3af)
+* [What is Appwrite and who i setup in my project?](https://dev.to/jordi5107/what-is-appwrite-and-who-i-setup-in-my-project-3af)
 
 ## Videos
 
