@@ -23,6 +23,7 @@
     - [React](#react)
     - [Svelte](#svelte)
     - [Vue](#vue)
+    - [Android](#android)
   - [Videos](#videos)
   - [Books](#books)
   - [Inspiration](#inspiration)
@@ -282,6 +283,9 @@ Share your apps here! Submit a pull request!
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
+
+### Android
+* **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
 
 
 ## Videos
