@@ -129,6 +129,7 @@ Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.i
 * [Appwrite + Zapier = Magic](https://dev.to/ruthlessruler/appwrite-zapier-magic-12gk)
 * [Import sample data to Appwrite through Integromat](https://imknight.com/import-data-to-appwrite-through-integromat/)
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
+* [How to install and configure Appwrite on CyberPanel](https://tafadzwa.hashnode.dev/how-to-install-and-configure-appwrite-on-cyberpanel)
 
 ### Web Development
 * [Node.JS in Appwrite](https://dev.to/finnkr/nodejs-in-appwrite-21kk)
@@ -286,6 +287,7 @@ Share your apps here! Submit a pull request!
 
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
+
 
 
 ## Videos
