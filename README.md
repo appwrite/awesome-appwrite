@@ -211,8 +211,6 @@ Share your apps here! Submit a pull request!
 
 * **Flutter Appwrite Quiz App** A simple Quiz App built with Flutter and Appwrite [Source Code](https://github.com/appwrite/quiz-with-flutter)
 
-* **Flutter Appwrite Login Template** A starter template to get you up and running with Appwrite E-mail Authentication. [Source Code](https://github.com/alistairholmes/flutter-appwrite-login)
-
 * **Flutter Appwrite Social App** A Social App playground for testing the features of Appwrite. [Source Code](https://github.com/alistairholmes/flutter-appwrite-social-app)
 
 * Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1 - Blog Post](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975) [Source Code](https://github.com/2002Bishwajeet/no_signal)
