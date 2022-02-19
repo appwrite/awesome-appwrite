@@ -114,6 +114,7 @@ Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.i
 * [Open Source Backend Server - Appwrite](https://dev.to/hardikchopra242/open-source-backend-server-appwrite-48b9)
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Appwrite with Dart!](https://dev.to/timothy22000/appwrite-with-dart-3knc)
+* [Appwrite Frequently Asked Questions](https://medium.com/geekculture/appwrite-frequently-asked-questions-374ce81513fe)
 
 ### Setup, Customization and Deployment
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
