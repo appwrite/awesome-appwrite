@@ -87,6 +87,15 @@ Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.i
 * [KnowYourFood](https://github.com/LeBraveLittleToaster/KnowYourFood)
 * [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
 
+### Almost Netflix 🎬
+
+The Almost Netflix series is a tutorial for building a Netflix clone with Appwrite version 0.12.0 and above.
+
+* [Did we just build a Netflix clone with Appwrite?](https://dev.to/appwrite/did-we-just-build-a-netflix-clone-with-appwrite-28ok)
+* [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
+* [Almost Netflix: A Netflix clone built with Flutter + Appwrite](https://dev.to/appwrite/almost-netflix-a-netflix-clone-built-with-flutter-appwrite-4d8p)
+* [Almost Netflix: An iOS Netflix Clone built with Appwrite](https://dev.to/appwrite/almost-netflix-an-ios-netflix-clone-built-with-appwrite-5b7)
+
 ## Hacktoberfest 2021
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
