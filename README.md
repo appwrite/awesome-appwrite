@@ -4,7 +4,8 @@
 
 ## Table of Contents:
   - [Announcements and Official Blog Posts](#announcements-and-official-blog-posts)
-  - [30 Days of Appwrite](#30-days-of-appwrite-)
+    - [30 Days of Appwrite](#30-days-of-appwrite-)
+    - [Almost Netflix](#almost-netflix-)
   - [Hacktoberfest 2021](#hacktoberfest-2021) 
   - [Learning Resources](#learning-resources)
     - [Getting Started](#getting-started)
