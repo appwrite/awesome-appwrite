@@ -34,6 +34,7 @@
   - [Communities](#communities)
 
 ## Announcements and Official Blog Posts
+* [Announcing Appwrite 0.14 with 11 Cloud Function Runtimes! 🥳](https://dev.to/appwrite/announcing-appwrite-014-with-11-cloud-function-runtimes-36f5)
 * [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
 * [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
 * [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
