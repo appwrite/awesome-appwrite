@@ -106,6 +106,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 ### Getting Started
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
 * [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
+* [Getting Started for Apple](https://appwrite.io/docs/getting-started-for-apple) (Official)
 * [Getting Started for Android](https://appwrite.io/docs/getting-started-for-android) (Official)
 * [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
 * [Appwrite Introduction](https://medium.com/@eldadfux/introducing-appwrite-an-open-source-backend-server-for-mobile-web-developers-4be70731575d?source=friends_link&sk=b6a2be384aafd1fa5b1b6ff12906082c)
