@@ -34,6 +34,7 @@
   - [Communities](#communities)
 
 ## Announcements and Official Blog Posts
+* [Announcing Appwrite 0.14 with 11 Cloud Function Runtimes! 🥳](https://dev.to/appwrite/announcing-appwrite-014-with-11-cloud-function-runtimes-36f5)
 * [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
 * [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
 * [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
@@ -286,6 +287,9 @@ Share your apps here! Submit a pull request!
 
 * **useMindmap** - useMindmap is a mind mapping tool for individuals and teams to put their ideas or projects or whatever else a mind map can be used for. Built with React and Appwrite. [Source Code](https://github.com/benweier/use-mind-map)
 
+* **Taskly - better way to manage your tasks** - An app to better manage tasks across all of the different task/todo/issue/project applications. Connect all of your 3party task providers, save time and focus on actually doing your job. [Website](https://taskly.kickass.website/), [Blog post](https://dev.to/capjavert/taskly-better-way-to-manage-your-tasks-2d2m), [Source Code](https://github.com/kickassCoderz/taskly) 
+
+
 ### Svelte
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
 
@@ -293,10 +297,14 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
 
+* **TMStats** A medal tracker for game Trackmania made with Appwrite and Svelte Kit. [Source Code](https://github.com/meldiron/tmstats) [Demo](https://www.tmstats.eu/)
+
 ### Vue
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
+
+* **Tailwinder** This an open-source complete community website project created for Appwrite hackathon. [Source Code](https://github.com/MooseSaeed/Tailwinder) [Demo](https://dev.to/moose_said/introducing-tailwinder-home-for-tailwind-fans-powered-with-appwrite-4c0o) [Video Demo](https://vimeo.com/manage/videos/709162501)
 
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
