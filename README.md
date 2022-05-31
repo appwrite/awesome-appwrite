@@ -287,6 +287,8 @@ Share your apps here! Submit a pull request!
 
 * **Taskly - better way to manage your tasks** - An app to better manage tasks across all of the different task/todo/issue/project applications. Connect all of your 3party task providers, save time and focus on actually doing your job. [Website](https://taskly.kickass.website/), [Blog post](https://dev.to/capjavert/taskly-better-way-to-manage-your-tasks-2d2m), [Source Code](https://github.com/kickassCoderz/taskly) 
 
+* **Places** - A showcase of how to use Appwrite to build a location-based app with related Collections, Appwrite Functions to ensure data integrity, and Realtime subscriptions to fetch asynchronously. [Blog Post](https://levelup.gitconnected.com/building-a-location-based-app-with-appwrite-48a2e2b6d4c2) | [Demo](https://places.pages.dev/) | [Source Code](https://github.com/stnguyen90/places)
+
 ### Svelte
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
 
