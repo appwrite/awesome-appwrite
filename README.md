@@ -6,7 +6,7 @@
   - [Announcements and Official Blog Posts](#announcements-and-official-blog-posts)
     - [30 Days of Appwrite](#30-days-of-appwrite-)
     - [Almost Netflix](#almost-netflix-)
-  - [Hacktoberfest 2021](#hacktoberfest-2021) 
+  - [Hacktoberfest 2021](#hacktoberfest-2021)
   - [Learning Resources](#learning-resources)
     - [Getting Started](#getting-started)
     - [Setup, Customization and Deployment](#setup-customization-and-deployment)
@@ -76,7 +76,7 @@
 * [Day 29 - Grafana Integration](https://dev.to/appwrite/grafana-integration-50p9)
 
 
-Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!! 
+Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!!
 * [Dart Online Compiler](https://github.com/aadarshadhakalg/BLoC-Appwrite)
 * [Ruitoque´s Food](https://ruitoquefood.com/)
 * [Todo With Flutter](https://github.com/SirusCodes/todo_appwrite)
@@ -102,7 +102,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
 
-## Learning Resources 
+## Learning Resources
 ### Getting Started
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
 * [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
@@ -191,7 +191,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Appwrites Avatars service](https://dev.to/ashish4arora/appwrites-avatars-service-4gae)
 * [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
 * [Introduction to Appwrite's Avatar API](https://drishtip.hashnode.dev/introduction-to-appwrites-avatar-api)
-* [All you need to know about APPWRITE Team service](https://dev.to/devgossips/all-you-need-to-know-about-appwrite-team-service-client-side-1g1b) 
+* [All you need to know about APPWRITE Team service](https://dev.to/devgossips/all-you-need-to-know-about-appwrite-team-service-client-side-1g1b)
 * [Send Messages With Telegram Using Appwrite Functions](https://rizkyrajitha.hashnode.dev/send-messages-with-telegram-using-appwrite-functions)
 * [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
 * [Appwrites database service](https://mbosnjak.hashnode.dev/appwrites-database-service)
@@ -234,7 +234,7 @@ Share your apps here! Submit a pull request!
 
 * **Fitness Challenge App with Appwrite** -  Create fitness challenges, invite friends, sync your health data from Apple Health/Google Fit and see who's winning. [Source Code](https://github.com/gireeshp/fitness_challenge) [Blog Post](https://medium.com/@gireeshputhumana/building-the-fitness-challenge-app-with-appwrite-367286790f64)
 
-* **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth  [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1) 
+* **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth  [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1)
 
 ### Godot
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
@@ -272,11 +272,11 @@ Share your apps here! Submit a pull request!
 
 * **Quiz App (ReactJS and Appwrite)** - A demo web application built using React and integrated with Appwrite. [Source Code](https://github.com/shreyventure/quiz_app_write)
 
-* **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite) 
+* **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite)
 
 * **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
 
-* **Infinite Scrolling with React + Appwrite** - A simple project to demonstrate infinite scroll paging. [Source Code](https://github.com/SakshiUppoor/infinite-scroll-demo) 
+* **Infinite Scrolling with React + Appwrite** - A simple project to demonstrate infinite scroll paging. [Source Code](https://github.com/SakshiUppoor/infinite-scroll-demo)
 
 * **Login Page App with React and Appwrite** -  Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
 
@@ -285,6 +285,8 @@ Share your apps here! Submit a pull request!
 * **Chatwrite** -- A simple, no-login chat app made with Appwrite and React. [Source Code](https://github.com/DarthFloopy/Chatwrite)
 
 * **Real-Time CMS using React + Appwrite Real-Time API** - A blogging app to demonstrate how Appwrite's Real-time Service can be used to make CMS changes instant [Source Code](https://bitbucket.org/generic-team-name-23/real-time-cms/src/master/)
+
+* **useMindmap** - useMindmap is a mind mapping tool for individuals and teams to put their ideas or projects or whatever else a mind map can be used for. Built with React and Appwrite. [Source Code](https://github.com/benweier/use-mind-map)
 
 * **Taskly - better way to manage your tasks** - An app to better manage tasks across all of the different task/todo/issue/project applications. Connect all of your 3party task providers, save time and focus on actually doing your job. [Website](https://taskly.kickass.website/), [Blog post](https://dev.to/capjavert/taskly-better-way-to-manage-your-tasks-2d2m), [Source Code](https://github.com/kickassCoderz/taskly) 
 
@@ -411,7 +413,7 @@ Share your apps here! Submit a pull request!
 * [Appwrite Starter](https://www.npmjs.com/package/create-appwrite) start building faster with this initializer for web frameworks
 * [Appwrite React Admin Data Provider](https://www.npmjs.com/package/ra-appwrite) Data and Auth Providers to integrate [React Admin](https://marmelab.com/react-admin/) with Appwrite
 
-## Communities 
+## Communities
 
 * [Appwrite Blog](https://medium.com/appwrite-io) (Official, global)
 * [Discord Server](https://appwrite.io/discord) (Official, global)
