@@ -199,6 +199,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Using Appwrite Locale Service in your Next Project](https://dev.to/drishtipeshwani/using-appwrite-locale-service-in-your-next-project-3pcm)
 * [Appwrites Account Service](https://dev.to/finnkr/appwrites-account-service-2hhd)
 * [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
+* [Rick Roll Your Friends Using Appwrite, Twilio, and .NET](https://dev.to/adityaoberai/rick-roll-your-friends-using-appwrite-twilio-and-net-4180)
 
 
 ## Showcase (Built with Appwrite 📣)
