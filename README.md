@@ -231,7 +231,7 @@ Share your apps here! Submit a pull request!
 
 * Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975)| [Part 2](https://bishwajeet-parhi.medium.com/building-no-signal-using-flutter-and-appwrite-part-2-565c5eb3b484) | [Part 3](https://bishwajeet-parhi.medium.com/building-no-signal-using-flutter-and-appwrite-part-3-90b08db16ec) | [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
-* **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/generalxhd/Gradely2)
+* **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter.  [Source Code](https://github.com/stonith404/Gradely2)
 
 * **Fitness Challenge App with Appwrite** -  Create fitness challenges, invite friends, sync your health data from Apple Health/Google Fit and see who's winning. [Source Code](https://github.com/gireeshp/fitness_challenge) [Blog Post](https://medium.com/@gireeshputhumana/building-the-fitness-challenge-app-with-appwrite-367286790f64)
 
@@ -294,6 +294,8 @@ Share your apps here! Submit a pull request!
 * **Places** - A showcase of how to use Appwrite to build a location-based app with related Collections, Appwrite Functions to ensure data integrity, and Realtime subscriptions to fetch asynchronously. [Blog Post](https://levelup.gitconnected.com/building-a-location-based-app-with-appwrite-48a2e2b6d4c2) | [Demo](https://places.pages.dev/) | [Source Code](https://github.com/stnguyen90/places)
 
 * **Snake Arcade** - A retro themed snake game with a live highscore board built in React using Appwrite Database and Realtime feature. [Blog Post](https://dev.to/anomic30/retro-themed-snake-game-with-live-highscore-board-2lei) | [Demo](https://snake-arcade-bck7y.ondigitalocean.app/) | [Source Code](https://github.com/anomic30/Snake-arcade)
+
+* **Pingvin Share** - A self-hosted file sharing platform built with Appwrite and NextJS [Blog Post](https://dev.to/stonith404/pingvin-share-a-selfhosted-file-sharing-platform-2mb0) | [Source Code & Demo](https://github.com/stonith404/pingvin-share)
 
 ### Svelte
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
