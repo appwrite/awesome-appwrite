@@ -295,6 +295,8 @@ Share your apps here! Submit a pull request!
 
 * **Snake Arcade** - A retro themed snake game with a live highscore board built in React using Appwrite Database and Realtime feature. [Blog Post](https://dev.to/anomic30/retro-themed-snake-game-with-live-highscore-board-2lei) | [Demo](https://snake-arcade-bck7y.ondigitalocean.app/) | [Source Code](https://github.com/anomic30/Snake-arcade)
 
+* **Pingvin Share** - A self-hosted file sharing platform built with Appwrite and NextJS [Blog Post](https://dev.to/stonith404/pingvin-share-a-selfhosted-file-sharing-platform-2mb0) | [Source Code & Demo](https://github.com/stonith404/pingvin-share)
+
 ### Svelte
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
 
