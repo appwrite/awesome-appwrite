@@ -373,6 +373,7 @@ Share your apps here! Submit a pull request!
 * [Hacktoberfest 2021 with AppWrite](https://dev.to/pretty19/hacktoberfest-2021-with-appwrite-3978)
 * [Brief introduction to Appwrite and it's features](https://dev.to/froostycodes/appwrite-must-try-obb)
 * [Hacktoberfest- What I learned by creating a Appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
+* [Contributing to Appwrite using Gitpod](https://bishwajeet-parhi.medium.com/how-i-used-gitpod-to-make-an-open-source-contribution-in-appwrite-9bc1f74ef155)
 
 ## Playgrounds and Snippets
 
@@ -415,6 +416,7 @@ Share your apps here! Submit a pull request!
 * [Deploy Appwrite function](https://github.com/marketplace/actions/deploy-appwrite-function) a GitHub action to deploy your function to Appwrite
 * [Appwrite Starter](https://www.npmjs.com/package/create-appwrite) start building faster with this initializer for web frameworks
 * [Appwrite React Admin Data Provider](https://www.npmjs.com/package/ra-appwrite) Data and Auth Providers to integrate [React Admin](https://marmelab.com/react-admin/) with Appwrite
+* [Awesome Appwrite snippets](https://marketplace.visualstudio.com/items?itemName=Biswa.awesome-appwrite-snippets) that adds Live Templates to your IDE saving time writing the boilerplate in Appwrite.
 
 ## Communities
 
