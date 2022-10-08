@@ -162,6 +162,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [How To Generate and Store Map Previews in Ruby with Appwrite](https://dev.to/oliverpham/how-to-generate-and-store-map-previews-in-ruby-with-appwrite-43ha)
 * [What is Appwrite and who i setup in my project?](https://dev.to/jordi5107/what-is-appwrite-and-who-i-setup-in-my-project-3af)
 * [How Appwrite real-time can make your CMS changes instant](https://sakshiuppoor.hashnode.dev/how-appwrite-real-time-can-make-your-cms-changes-instant)
+* [Discord crypto price alert bot powered by Appwrite](https://github.com/RizkyRajitha/appwritediscorddemo)
 
 ### Mobile Development
 * [Appwrite the best backend for mobile apps and its features](https://qr.ae/pGxRuF)
