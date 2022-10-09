@@ -307,6 +307,9 @@ Share your apps here! Submit a pull request!
 * **TMStats** A medal tracker for game Trackmania made with Appwrite and Svelte Kit. [Source Code](https://github.com/meldiron/tmstats) [Demo](https://www.tmstats.eu/)
 
 ### Vue
+
+* **Appwrite + VueJS Whatsapp Clone** - A WhatsApp Web clone using Appwrite and VueJS. [Source Code](https://github.com/yaakov123/whatsapp-clone)
+
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
