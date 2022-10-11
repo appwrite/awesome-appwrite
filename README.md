@@ -179,6 +179,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
 * [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
+* [How to migrate Wordpress users to Appwrite](https://dev.to/joysankar2001/migrate-wordpress-users-to-appwrite-63j)
 
 ### Appwrite Services
 * [AppWrite Services](https://koulurunandakishorereddy.tech/appwrite-services)
