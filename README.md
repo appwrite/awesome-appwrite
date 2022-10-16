@@ -313,6 +313,8 @@ Share your apps here! Submit a pull request!
 
 * **Tailwinder** This an open-source complete community website project created for Appwrite hackathon. [Source Code](https://github.com/MooseSaeed/Tailwinder) [Demo](https://dev.to/moose_said/introducing-tailwinder-home-for-tailwind-fans-powered-with-appwrite-4c0o) [Video Demo](https://vimeo.com/manage/videos/709162501)
 
+* **App-ly** App-ly is an open-source URL shortener made using Svelte and Appwrite. It is a web app that allows you to shorten long URLs, share them, and generate QR Codes for them. [Source Code](https://github.com/Arpan-206/app-ly)
+
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
 
