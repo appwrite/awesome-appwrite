@@ -237,6 +237,8 @@ Share your apps here! Submit a pull request!
 
 * **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth  [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1)
 
+* A simple example App that calls an **Appwrite Cloud Function** - [Article Free and easy Cloud Functions in Dart with Appwrite — Part 1](https://medium.com/@aschilken/free-and-easy-cloud-functions-in-dart-with-appwrite-part-1-190faa3dc7bf) | [Source Code](https://github.com/schilken/appwrite_cloud_functions)
+
 ### Godot
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
