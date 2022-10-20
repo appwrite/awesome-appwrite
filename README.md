@@ -297,6 +297,8 @@ Share your apps here! Submit a pull request!
 
 * **ScheduMate** - A web application that allows you to easily see the classes that you have in common with your friends. Friends make classes so much better!  [Website](https://schedumate.study) | [Source Code](https://github.com/The-Powerpuff-Boys/schedu-mate) 
 
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite)
+
 ### Svelte
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
 
