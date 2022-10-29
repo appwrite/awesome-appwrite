@@ -163,6 +163,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [What is Appwrite and who i setup in my project?](https://dev.to/jordi5107/what-is-appwrite-and-who-i-setup-in-my-project-3af)
 * [How Appwrite real-time can make your CMS changes instant](https://sakshiuppoor.hashnode.dev/how-appwrite-real-time-can-make-your-cms-changes-instant)
 
+
 ### Mobile Development
 * [Appwrite the best backend for mobile apps and its features](https://qr.ae/pGxRuF)
 * [Appwrite secure open-source backend server for Flutter example app](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
@@ -266,6 +267,7 @@ Share your apps here! Submit a pull request!
 * **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/) [Tutorial](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
 
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
+* **Building with Appwrite and Netlify** [Blog](https://medium.com/p/dcffb85ddcf8) 
 
 * **Appwrite + NextJs  Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
 
