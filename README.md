@@ -75,7 +75,6 @@
 * [Day 28 - Docker Swarm Integration](https://dev.to/appwrite/30daysofappwrite-docker-swarm-integration-2io9)
 * [Day 29 - Grafana Integration](https://dev.to/appwrite/grafana-integration-50p9)
 
-
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!!
 * [Dart Online Compiler](https://github.com/aadarshadhakalg/BLoC-Appwrite)
 * [Ruitoque´s Food](https://ruitoquefood.com/)
@@ -103,7 +102,6 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
 
 ## Hacktoberfest 2022
-* [Appwrite, Hacktoberfest, and how to contribute, including AMA with viewers](https://www.twitch.tv/videos/1634653922)
 * [Featured on the GitHub Blog](https://github.blog/release-radar-sept-2022)
 
 ## Learning Resources
