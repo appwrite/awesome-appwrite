@@ -213,6 +213,8 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Angular Transcript This** - A simple app to trascript Youtube videos from link. [Source Code](https://github.com/ffex/Transcript-This-Demo)
 
+* **Appwrite + Angular PodBook** - A simple app to trascript podcasts from RSS feed. [Source Code](https://github.com/ffex/PodBook) 
+
 ### Express
 * **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener)
 
