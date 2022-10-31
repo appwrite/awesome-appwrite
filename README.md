@@ -211,6 +211,9 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
 
+* **Appwrite + Angular VideoTopics** - A simple app to search topic about a Youtube video. [Source Code](https://github.com/ffex/VideoTopics) 
+
+
 ### Express
 * **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener)
 
