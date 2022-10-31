@@ -144,7 +144,6 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 * [How to install and configure Appwrite on CyberPanel](https://tafadzwa.hashnode.dev/how-to-install-and-configure-appwrite-on-cyberpanel)
 * [How to install Appwrite on Amazon EC2 instance](https://awstip.com/installing-appwrite-on-amazon-ec2-instance-13f6744f2b48)
-* [How to install Appwrite on a Hetzner cloud server](https://dev.to/gregordavies/how-to-install-appwrite-on-a-hetzner-cloud-server-in-8-steps-1lan)
 * [How to install Appwrite on a Linode cloud server](https://dev.to/gregordavies/how-to-install-appwrite-on-a-linode-cloud-server-2235)
 
 ### Web Development
