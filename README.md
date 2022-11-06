@@ -313,6 +313,8 @@ Share your apps here! Submit a pull request!
 
 * **Tailwinder** This an open-source complete community website project created for Appwrite hackathon. [Source Code](https://github.com/MooseSaeed/Tailwinder) [Demo](https://dev.to/moose_said/introducing-tailwinder-home-for-tailwind-fans-powered-with-appwrite-4c0o) [Video Demo](https://vimeo.com/manage/videos/709162501)
 
+* **Appwrite + Vue Podcast Transcript** A simple Podcast Transcript app built with Appwrite, Deepgram and Vue. [Source Code](https://github.com/timothee-durand/appwrite-transcript)
+
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
 
