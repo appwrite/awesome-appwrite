@@ -306,6 +306,9 @@ Share your apps here! Submit a pull request!
 
 * **TMStats** A medal tracker for game Trackmania made with Appwrite and Svelte Kit. [Source Code](https://github.com/meldiron/tmstats) [Demo](https://www.tmstats.eu/)
 
+### Unity
+* **Unofficial Appwrite Unity Plugin** Features include: login, register, send verification mails and request JWT's. [Source Code](https://github.com/AlexMeesters/unity-appwrite-plugin)
+
 ### Vue
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
