@@ -23,14 +23,15 @@
     - [Python](#python)
     - [React](#react)
     - [Svelte](#svelte)
+    - [Unity](#unity)
     - [Vue](#vue)
     - [Android](#android)
   - [Videos](#videos)
   - [Books](#books)
   - [Inspiration](#inspiration)
   - [Playgrounds and Snippets](#playgrounds-and-snippets)
-  - [SDK](#SDK)
-  - [Tools](#Tools)
+  - [SDK](#sdk)
+  - [Tools](#tools)
   - [Communities](#communities)
 
 ## Announcements and Official Blog Posts
