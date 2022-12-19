@@ -76,7 +76,6 @@
 * [Day 28 - Docker Swarm Integration](https://dev.to/appwrite/30daysofappwrite-docker-swarm-integration-2io9)
 * [Day 29 - Grafana Integration](https://dev.to/appwrite/grafana-integration-50p9)
 
-
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!!
 * [Dart Online Compiler](https://github.com/aadarshadhakalg/BLoC-Appwrite)
 * [Ruitoque´s Food](https://ruitoquefood.com/)
@@ -103,6 +102,9 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
 
+## Hacktoberfest 2022
+* [Featured on the GitHub Blog](https://github.blog/release-radar-sept-2022)
+
 ## Learning Resources
 ### Getting Started
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
@@ -128,6 +130,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Appwrite with Dart!](https://dev.to/timothy22000/appwrite-with-dart-3knc)
 * [Appwrite Frequently Asked Questions](https://medium.com/geekculture/appwrite-frequently-asked-questions-374ce81513fe)
+* [What is Appwrite? Featured in GitHub Blog](https://github.blog/release-radar-sept-2022)
 
 ### Setup, Customization and Deployment
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
@@ -205,7 +208,6 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Appwrites Account Service](https://dev.to/finnkr/appwrites-account-service-2hhd)
 * [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
 * [Rick Roll Your Friends Using Appwrite, Twilio, and .NET](https://dev.to/adityaoberai/rick-roll-your-friends-using-appwrite-twilio-and-net-4180)
-
 
 ## Showcase (Built with Appwrite 📣)
 Share your apps here! Submit a pull request!
@@ -328,8 +330,6 @@ Share your apps here! Submit a pull request!
 
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
-
-
 
 ## Videos
 
