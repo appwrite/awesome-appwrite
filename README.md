@@ -16,6 +16,7 @@
     - [Appwrite Services](#appwrite-services)
   - [Showcase (Source Code)](#showcase-built-with-appwrite-)
     - [Angular](#angular)
+    - [Cordova](#cordova)
     - [Express](#express)
     - [Flutter](#flutter)
     - [Godot](#godot)
@@ -212,6 +213,9 @@ Share your apps here! Submit a pull request!
 * **Appwrite + Angular - Simple Blog** - A simple blog example using Angular as the frontend and Appwrite as the backend! [Source Code](https://github.com/NeonSpork/appwrite-blog-example)
 
 * **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
+
+### Cordova
+* **Appwrite + Cordova + React** - A simple instagram clone built with Appwrite, Cordova and React (with vite). [Source Code](https://github.com/arnu515/instagram-clone-with-cordova-appwrite)
 
 ### Express
 * **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener)
