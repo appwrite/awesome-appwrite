@@ -176,6 +176,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Dart in Appwrite](https://dev.to/oshi36/dart-in-appwrite-47e)
 * [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
 * [Write Unit Tests for Appwrite SDK on Flutter With Mockito](https://betterprogramming.pub/write-unit-test-for-appwrite-sdk-on-flutter-with-mockito-e0c3b403199e)
+* [Integrate Retool Mobile with Appwrite](https://imknight.com/integrate-retool-mobile-with-appwrite)
 
 ### Security and Authentication
 * [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
