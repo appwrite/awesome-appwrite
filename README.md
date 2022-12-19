@@ -249,6 +249,8 @@ Share your apps here! Submit a pull request!
 
 * **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth  [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1)
 
+* **Almost Instagram with Flutter and Appwrite** - A functional clone of Instagram social media platform  [Source Code](https://github.com/letsintegreat/Almost-Instagram)
+
 ### Godot
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
