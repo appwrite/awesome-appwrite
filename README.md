@@ -16,6 +16,7 @@
     - [Appwrite Services](#appwrite-services)
   - [Showcase (Source Code)](#showcase-built-with-appwrite-)
     - [Angular](#angular)
+    - [Cordova](#cordova)
     - [Express](#express)
     - [Flutter](#flutter)
     - [Godot](#godot)
@@ -144,6 +145,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 * [How to install and configure Appwrite on CyberPanel](https://tafadzwa.hashnode.dev/how-to-install-and-configure-appwrite-on-cyberpanel)
 * [How to install Appwrite on Amazon EC2 instance](https://awstip.com/installing-appwrite-on-amazon-ec2-instance-13f6744f2b48)
+* [How to install Appwrite on a Linode cloud server](https://dev.to/gregordavies/how-to-install-appwrite-on-a-linode-cloud-server-2235)
 
 ### Web Development
 * [Node.JS in Appwrite](https://dev.to/finnkr/nodejs-in-appwrite-21kk)
@@ -163,6 +165,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [What is Appwrite and who i setup in my project?](https://dev.to/jordi5107/what-is-appwrite-and-who-i-setup-in-my-project-3af)
 * [How Appwrite real-time can make your CMS changes instant](https://sakshiuppoor.hashnode.dev/how-appwrite-real-time-can-make-your-cms-changes-instant)
 * [How to import Ghost Blog Users to Appwrite](https://dev.to/joysankar2001/importing-ghost-blog-users-to-appwrite-1hag)
+* [Appwrite + JQuery](https://dev.to/leonyangela/build-your-app-with-appwrite-jquery-55ij)
 
 ### Mobile Development
 * [Appwrite the best backend for mobile apps and its features](https://qr.ae/pGxRuF)
@@ -212,6 +215,9 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
 
+### Cordova
+* **Appwrite + Cordova + React** - A simple instagram clone built with Appwrite, Cordova and React (with vite). [Source Code](https://github.com/arnu515/instagram-clone-with-cordova-appwrite)
+
 ### Express
 * **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener)
 
@@ -244,6 +250,9 @@ Share your apps here! Submit a pull request!
 ### Golang
 * **GoRest** A demo app to showcase integrating appwrite apis with golang. Using database endpoints and examples [Source Code](https://github.com/maliaga-pantoja/golang-appwrite-demo)
 
+### Preact
+- **Blog App** - A simple blog app built with Appwrite and Preact. [Source Code](https://github.com/Sooraj-s-98/Preact-appwrite-blog)
+
 ### Python
 * **Database interactions with the Python SDK demo** - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. [Source Code](https://github.com/jhrcook/coffee-counter-appwrite-demo)
 
@@ -269,6 +278,8 @@ Share your apps here! Submit a pull request!
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
 * **Appwrite + NextJs  Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
+
+* **Appwrite + NextJs Social Media App** A Social Media App built with Appwrite and Nextjs. [Source Code](https://github.com/SanjayDevTech/appwrite-nextjs-demo)
 
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
 
