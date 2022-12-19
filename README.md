@@ -249,6 +249,9 @@ Share your apps here! Submit a pull request!
 ### Golang
 * **GoRest** A demo app to showcase integrating appwrite apis with golang. Using database endpoints and examples [Source Code](https://github.com/maliaga-pantoja/golang-appwrite-demo)
 
+### Preact
+- **Blog App** - A simple blog app built with Appwrite and Preact. [Source Code](https://github.com/Sooraj-s-98/Preact-appwrite-blog)
+
 ### Python
 * **Database interactions with the Python SDK demo** - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. [Source Code](https://github.com/jhrcook/coffee-counter-appwrite-demo)
 
