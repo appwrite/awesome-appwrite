@@ -225,6 +225,8 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
 
+* **Appwrite + Angular PodBook** - A simple app to trascript podcasts from RSS feed. [Source Code](https://github.com/ffex/PodBook) 
+
 ### Cordova
 * **Appwrite + Cordova + React** - A simple instagram clone built with Appwrite, Cordova and React (with vite). [Source Code](https://github.com/arnu515/instagram-clone-with-cordova-appwrite)
 
