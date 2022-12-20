@@ -338,6 +338,9 @@ Share your apps here! Submit a pull request!
 * **To You** - Another to-do app, where completing tasks lead to great rewards. Leverages SvelteKit progressive enhancement features to enable a zero-JS experience.  [Source Code](https://github.com/tglide/to-you), [Demo](https://to-you-tgl.vercel.app/)
 
 ### Vue
+
+* **Appwrite + VueJS Whatsapp Clone** - A WhatsApp Web clone using Appwrite and VueJS. [Source Code](https://github.com/yaakov123/whatsapp-clone)
+
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
