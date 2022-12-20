@@ -131,6 +131,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Appwrite with Dart!](https://dev.to/timothy22000/appwrite-with-dart-3knc)
 * [Appwrite Frequently Asked Questions](https://medium.com/geekculture/appwrite-frequently-asked-questions-374ce81513fe)
+* [Everything you need to know to get Appwrite Functions works on PHP runtime](https://imknight.com/everything-you-need-to-know-to-get-appwrite-functions-works-on-php-runtime)
 * [My First Appwrite Function](https://imknight.com/my-first-appwrite-function)
 * [What is Appwrite? Featured in GitHub Blog](https://github.blog/release-radar-sept-2022)
 
