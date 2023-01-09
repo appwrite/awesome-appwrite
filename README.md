@@ -225,6 +225,8 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
 
+* **Appwrite + Angular VideoTopics** - A simple app to search topic about a Youtube video. [Source Code](https://github.com/ffex/VideoTopics) 
+
 * **Appwrite + Angular PodBook** - A simple app to trascript podcasts from RSS feed. [Source Code](https://github.com/ffex/PodBook) 
 
 ### Cordova
