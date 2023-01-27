@@ -216,6 +216,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Appwrites Account Service](https://dev.to/finnkr/appwrites-account-service-2hhd)
 * [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
 * [Rick Roll Your Friends Using Appwrite, Twilio, and .NET](https://dev.to/adityaoberai/rick-roll-your-friends-using-appwrite-twilio-and-net-4180)
+* [Six ways to test and call Dart Appwrite Cloud Functions](https://medium.com/@aschilken/free-and-easy-cloud-functions-in-dart-with-appwrite-part-1-190faa3dc7bf) | [Source Code of Flutter example App](https://github.com/schilken/appwrite_cloud_functions)
 
 ## Showcase (Built with Appwrite 📣)
 Share your apps here! Submit a pull request!
