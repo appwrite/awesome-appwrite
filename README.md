@@ -277,6 +277,8 @@ Share your apps here! Submit a pull request!
 
 * **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
 
+* **Discordly** A Discord-bot to readily and easily shorten links from Discord itself, made possible by Appwrite. [Source Code](https://github.com/Arpan-206/discordly)
+
 ### React
 - **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
 
@@ -342,6 +344,8 @@ Share your apps here! Submit a pull request!
 * **Appwrite + Svelte Todo MVC** A simple todo app built with Appwrite and Svelte. [Source Code](https://github.com/appwrite/todo-with-svelte) [Demo](https://appwrite-todo-with-svelte.vercel.app/)
 
 * **TMStats** A medal tracker for game Trackmania made with Appwrite and Svelte Kit. [Source Code](https://github.com/meldiron/tmstats) [Demo](https://www.tmstats.eu/)
+
+* **App-ly** App-ly is an open-source URL shortener made using Svelte and Appwrite. It is a web app that allows you to shorten long URLs, share them, and generate QR Codes for them. [Source Code](https://github.com/Arpan-206/app-ly)
 
 * **To You** - Another to-do app, where completing tasks lead to great rewards. Leverages SvelteKit progressive enhancement features to enable a zero-JS experience.  [Source Code](https://github.com/tglide/to-you), [Demo](https://to-you-tgl.vercel.app/)
 
