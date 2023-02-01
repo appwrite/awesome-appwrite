@@ -24,6 +24,7 @@
     - [Python](#python)
     - [React](#react)
     - [Svelte](#svelte)
+    - [Unity](#unity)
     - [Vue](#vue)
     - [Nuxt](#nuxt)
     - [Android](#android)
@@ -31,8 +32,8 @@
   - [Books](#books)
   - [Inspiration](#inspiration)
   - [Playgrounds and Snippets](#playgrounds-and-snippets)
-  - [SDK](#SDK)
-  - [Tools](#Tools)
+  - [SDK](#sdk)
+  - [Tools](#tools)
   - [Communities](#communities)
 
 ## Announcements and Official Blog Posts
@@ -361,6 +362,9 @@ Share your apps here! Submit a pull request!
 
 ### Nuxt
 * **Appwrite + Nuxt 3 Workout-Buddy** This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! [Source Code](https://github.com/EshaanAgg/workout-buddy)
+
+### Unity
+* **Unofficial Appwrite Unity Plugin** Features include: login, register, send verification mails and request JWT's. [Source Code](https://github.com/AlexMeesters/unity-appwrite-plugin)
 
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
