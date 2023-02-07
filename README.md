@@ -3,10 +3,13 @@
 ![logo](images/logo.png "Logo")
 
 ## Table of Contents:
+- [Awesome Appwrite ](#awesome-appwrite-)
+  - [Table of Contents:](#table-of-contents)
   - [Announcements and Official Blog Posts](#announcements-and-official-blog-posts)
-    - [30 Days of Appwrite](#30-days-of-appwrite-)
-    - [Almost Netflix](#almost-netflix-)
+    - [30 Days of Appwrite ✨](#30-days-of-appwrite-)
+    - [Almost Netflix 🎬](#almost-netflix-)
   - [Hacktoberfest 2021](#hacktoberfest-2021)
+  - [Hacktoberfest 2022](#hacktoberfest-2022)
   - [Learning Resources](#learning-resources)
     - [Getting Started](#getting-started)
     - [Setup, Customization and Deployment](#setup-customization-and-deployment)
@@ -14,19 +17,21 @@
     - [Mobile Development](#mobile-development)
     - [Security and Authentication](#security-and-authentication)
     - [Appwrite Services](#appwrite-services)
-  - [Showcase (Source Code)](#showcase-built-with-appwrite-)
+  - [Showcase (Built with Appwrite 📣)](#showcase-built-with-appwrite-)
     - [Angular](#angular)
     - [Cordova](#cordova)
     - [Express](#express)
     - [Flutter](#flutter)
     - [Godot](#godot)
     - [Golang](#golang)
+    - [Preact](#preact)
     - [Python](#python)
     - [React](#react)
+    - [React Native](#react-native)
     - [Svelte](#svelte)
-    - [Unity](#unity)
     - [Vue](#vue)
     - [Nuxt](#nuxt)
+    - [Unity](#unity)
     - [Android](#android)
   - [Videos](#videos)
   - [Books](#books)
@@ -284,6 +289,8 @@ Share your apps here! Submit a pull request!
 * **Discordly** A Discord-bot to readily and easily shorten links from Discord itself, made possible by Appwrite. [Source Code](https://github.com/Arpan-206/discordly)
 
 ### React
+- **Idea Xchange** - Idea Exchange is a platform for people who have trouble finding ideas for their side projects or are finding a buisness problem to solve and build their startup. Alternatively, people can post their ideas/problem statements and let other users to interact with the idea in form of comments, upvotes and if they would like to pay for the product around that problem/idea statement. [Source Code](https://github.com/apoorvdwi/Idea-Xchange)
+
 - **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
 
 - **Shuttery** - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. [Source Code](https://github.com/muKaustav/Appwrite-DemoApp-Hacktoberfest-2021)
