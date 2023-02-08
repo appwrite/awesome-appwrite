@@ -30,7 +30,6 @@
     - [React Native](#react-native)
     - [Svelte](#svelte)
     - [Vue](#vue)
-    - [Nuxt](#nuxt)
     - [Unity](#unity)
     - [Android](#android)
   - [Videos](#videos)
