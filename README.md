@@ -16,6 +16,7 @@
     - [Appwrite Services](#appwrite-services)
   - [Showcase (Source Code)](#showcase-built-with-appwrite-)
     - [Angular](#angular)
+    - [Cordova](#cordova)
     - [Express](#express)
     - [Flutter](#flutter)
     - [Godot](#godot)
@@ -23,14 +24,16 @@
     - [Python](#python)
     - [React](#react)
     - [Svelte](#svelte)
+    - [Unity](#unity)
     - [Vue](#vue)
+    - [Nuxt](#nuxt)
     - [Android](#android)
   - [Videos](#videos)
   - [Books](#books)
   - [Inspiration](#inspiration)
   - [Playgrounds and Snippets](#playgrounds-and-snippets)
-  - [SDK](#SDK)
-  - [Tools](#Tools)
+  - [SDK](#sdk)
+  - [Tools](#tools)
   - [Communities](#communities)
 
 ## Announcements and Official Blog Posts
@@ -75,7 +78,6 @@
 * [Day 28 - Docker Swarm Integration](https://dev.to/appwrite/30daysofappwrite-docker-swarm-integration-2io9)
 * [Day 29 - Grafana Integration](https://dev.to/appwrite/grafana-integration-50p9)
 
-
 Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.io/)!!
 * [Dart Online Compiler](https://github.com/aadarshadhakalg/BLoC-Appwrite)
 * [Ruitoque´s Food](https://ruitoquefood.com/)
@@ -102,6 +104,9 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [What is Appwrite and how to contribute for Hacktoberfest](https://dev.to/mishmanners/four-projects-to-contribute-to-this-hacktoberfest-pep)
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
 
+## Hacktoberfest 2022
+* [Featured on the GitHub Blog](https://github.blog/release-radar-sept-2022)
+
 ## Learning Resources
 ### Getting Started
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
@@ -127,6 +132,9 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Appwrite with Dart!](https://dev.to/timothy22000/appwrite-with-dart-3knc)
 * [Appwrite Frequently Asked Questions](https://medium.com/geekculture/appwrite-frequently-asked-questions-374ce81513fe)
+* [Everything you need to know to get Appwrite Functions works on PHP runtime](https://imknight.com/everything-you-need-to-know-to-get-appwrite-functions-works-on-php-runtime)
+* [My First Appwrite Function](https://imknight.com/my-first-appwrite-function)
+* [What is Appwrite? Featured in GitHub Blog](https://github.blog/release-radar-sept-2022)
 
 ### Setup, Customization and Deployment
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
@@ -144,6 +152,11 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Integrate Adalo with Appwrite](https://imknight.com/integrate-adalo-with-appwrite/)
 * [How to install and configure Appwrite on CyberPanel](https://tafadzwa.hashnode.dev/how-to-install-and-configure-appwrite-on-cyberpanel)
 * [How to install Appwrite on Amazon EC2 instance](https://awstip.com/installing-appwrite-on-amazon-ec2-instance-13f6744f2b48)
+* [Deploy Appwrite on Google Cloud](https://blog.wilfredalmeida.com/appwrite-on-google-cloud)
+* [Introduction to AWS (+run Appwrite)](https://rizkyrajitha.hashnode.dev/introduction-to-aws-run-appwrite)
+* [How to integrate Appwrite with Google Cloud](https://medium.com/@shahneel2409/integrating-appwrite-with-google-cloud-for-beginners-e62d2239c59)
+* [How to install Appwrite on a Linode cloud server](https://dev.to/gregordavies/how-to-install-appwrite-on-a-linode-cloud-server-2235)
+* [Things to do after Setup Appwrite on Digital Ocean](https://imknight.com/things-to-do-after-setup-appwrite-on-digital-ocean)
 
 ### Web Development
 * [Node.JS in Appwrite](https://dev.to/finnkr/nodejs-in-appwrite-21kk)
@@ -162,6 +175,9 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [How To Generate and Store Map Previews in Ruby with Appwrite](https://dev.to/oliverpham/how-to-generate-and-store-map-previews-in-ruby-with-appwrite-43ha)
 * [What is Appwrite and who i setup in my project?](https://dev.to/jordi5107/what-is-appwrite-and-who-i-setup-in-my-project-3af)
 * [How Appwrite real-time can make your CMS changes instant](https://sakshiuppoor.hashnode.dev/how-appwrite-real-time-can-make-your-cms-changes-instant)
+* [Build a Chat app with Appwrite and Nextjs](https://3dweb.hashnode.dev/build-a-chat-app-with-appwrite-and-nextjs)
+* [How to import Ghost Blog Users to Appwrite](https://dev.to/joysankar2001/importing-ghost-blog-users-to-appwrite-1hag)
+* [Appwrite + JQuery](https://dev.to/leonyangela/build-your-app-with-appwrite-jquery-55ij)
 
 ### Mobile Development
 * [Appwrite the best backend for mobile apps and its features](https://qr.ae/pGxRuF)
@@ -172,6 +188,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Dart in Appwrite](https://dev.to/oshi36/dart-in-appwrite-47e)
 * [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
 * [Write Unit Tests for Appwrite SDK on Flutter With Mockito](https://betterprogramming.pub/write-unit-test-for-appwrite-sdk-on-flutter-with-mockito-e0c3b403199e)
+* [Integrate Retool Mobile with Appwrite](https://imknight.com/integrate-retool-mobile-with-appwrite)
 
 ### Security and Authentication
 * [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
@@ -179,6 +196,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
 * [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
+* [How to migrate Wordpress users to Appwrite](https://dev.to/joysankar2001/migrate-wordpress-users-to-appwrite-63j)
 
 ### Appwrite Services
 * [AppWrite Services](https://koulurunandakishorereddy.tech/appwrite-services)
@@ -200,7 +218,8 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Appwrites Account Service](https://dev.to/finnkr/appwrites-account-service-2hhd)
 * [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
 * [Rick Roll Your Friends Using Appwrite, Twilio, and .NET](https://dev.to/adityaoberai/rick-roll-your-friends-using-appwrite-twilio-and-net-4180)
-
+* [Discord crypto price alert bot powered by Appwrite](https://github.com/RizkyRajitha/appwritediscorddemo)
+* [Six ways to test and call Dart Appwrite Cloud Functions](https://medium.com/@aschilken/free-and-easy-cloud-functions-in-dart-with-appwrite-part-1-190faa3dc7bf) | [Source Code of Flutter example App](https://github.com/schilken/appwrite_cloud_functions)
 
 ## Showcase (Built with Appwrite 📣)
 Share your apps here! Submit a pull request!
@@ -210,6 +229,15 @@ Share your apps here! Submit a pull request!
 * **Appwrite + Angular - Simple Blog** - A simple blog example using Angular as the frontend and Appwrite as the backend! [Source Code](https://github.com/NeonSpork/appwrite-blog-example)
 
 * **Appwrite + Angular SimpleGrocery** - A simple app to create fast shopping-list. [Source Code](https://github.com/ffex/simple-grocery-demo)
+
+* **Appwrite + Angular Transcript This** - A simple app to transcribe Youtube videos from their links. [Source Code](https://github.com/ffex/Transcript-This-Demo)
+
+* **Appwrite + Angular VideoTopics** - A simple app to search topic about a Youtube video. [Source Code](https://github.com/ffex/VideoTopics) 
+
+* **Appwrite + Angular PodBook** - A simple app to trascript podcasts from RSS feed. [Source Code](https://github.com/ffex/PodBook) 
+
+### Cordova
+* **Appwrite + Cordova + React** - A simple instagram clone built with Appwrite, Cordova and React (with vite). [Source Code](https://github.com/arnu515/instagram-clone-with-cordova-appwrite)
 
 ### Express
 * **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener)
@@ -237,16 +265,23 @@ Share your apps here! Submit a pull request!
 
 * **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth  [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1)
 
+* **Almost Instagram with Flutter and Appwrite** - A functional clone of Instagram social media platform  [Source Code](https://github.com/letsintegreat/Almost-Instagram)
+
 ### Godot
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
 ### Golang
 * **GoRest** A demo app to showcase integrating appwrite apis with golang. Using database endpoints and examples [Source Code](https://github.com/maliaga-pantoja/golang-appwrite-demo)
 
+### Preact
+- **Blog App** - A simple blog app built with Appwrite and Preact. [Source Code](https://github.com/Sooraj-s-98/Preact-appwrite-blog)
+
 ### Python
 * **Database interactions with the Python SDK demo** - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. [Source Code](https://github.com/jhrcook/coffee-counter-appwrite-demo)
 
 * **Anime list app with Appwrite and python-telegram-bot** - Created a telegram bot with python that handles searching and taking note of your anime watchlist.   [Source Code](https://github.com/RobiMez/Better_anime_list)
+
+* **Discordly** A Discord-bot to readily and easily shorten links from Discord itself, made possible by Appwrite. [Source Code](https://github.com/Arpan-206/discordly)
 
 ### React
 - **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
@@ -267,7 +302,11 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
+* **Building with Appwrite and Netlify** [Blog](https://medium.com/p/dcffb85ddcf8) 
+
 * **Appwrite + NextJs  Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
+
+* **Appwrite + NextJs Social Media App** A Social Media App built with Appwrite and Nextjs. [Source Code](https://github.com/SanjayDevTech/appwrite-nextjs-demo)
 
 * **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
 
@@ -297,6 +336,11 @@ Share your apps here! Submit a pull request!
 
 * **ScheduMate** - A web application that allows you to easily see the classes that you have in common with your friends. Friends make classes so much better!  [Website](https://schedumate.study) | [Source Code](https://github.com/The-Powerpuff-Boys/schedu-mate) 
 
+* **Next Appwrite Users** - App that showcases how to use Next.js with Appwrite as its backend. Uses Appwrite for Auth both on the frontend and on API routes. [Source code](https://github.com/RobRuizR/next-appwrite-users) 
+
+### React Native
+* **Listr**  - A react native mobile application that allows for simple task management using lists | [Source Code](https://github.com/HelixHEX/listr)
+
 ### Svelte
 * **OmniaWrite** - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. [Source Code](https://github.com/TorstenDittmann/OmniaWrite), [Blog Post](https://omniawrite.com/posts/update-1-0-0)
 
@@ -306,19 +350,32 @@ Share your apps here! Submit a pull request!
 
 * **TMStats** A medal tracker for game Trackmania made with Appwrite and Svelte Kit. [Source Code](https://github.com/meldiron/tmstats) [Demo](https://www.tmstats.eu/)
 
+* **App-ly** App-ly is an open-source URL shortener made using Svelte and Appwrite. It is a web app that allows you to shorten long URLs, share them, and generate QR Codes for them. [Source Code](https://github.com/Arpan-206/app-ly)
+
+* **To You** - Another to-do app, where completing tasks lead to great rewards. Leverages SvelteKit progressive enhancement features to enable a zero-JS experience.  [Source Code](https://github.com/tglide/to-you), [Demo](https://to-you-tgl.vercel.app/)
+
 ### Vue
+
+* **Appwrite + VueJS Whatsapp Clone** - A WhatsApp Web clone using Appwrite and VueJS. [Source Code](https://github.com/yaakov123/whatsapp-clone)
+
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
 
 * **Appwrite + Vue Todo MVC** A simple todo app built with Appwrite and Vue. [Source Code](https://github.com/appwrite/todo-with-vue) [Demo](https://appwrite-todo-with-vue.vercel.app/)
 
 * **Tailwinder** This an open-source complete community website project created for Appwrite hackathon. [Source Code](https://github.com/MooseSaeed/Tailwinder) [Demo](https://dev.to/moose_said/introducing-tailwinder-home-for-tailwind-fans-powered-with-appwrite-4c0o) [Video Demo](https://vimeo.com/manage/videos/709162501)
 
+* **Appwrite + Nuxt 3 Workout-Buddy** This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! [Source Code](https://github.com/EshaanAgg/workout-buddy)
+
 * **(Appwrite + Nuxt) DeUrl** A simple URL Shortener app made with appwrite and NuxtJs. [Source Code](https://github.com/AVDiv/appwrite_nuxtjs_url_shortner)
 
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
 
+### Unity
+* **Unofficial Appwrite Unity Plugin** Features include: login, register, send verification mails and request JWT's. [Source Code](https://github.com/AlexMeesters/unity-appwrite-plugin)
 
+### Android
+* **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
 
 ## Videos
 
