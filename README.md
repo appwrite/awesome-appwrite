@@ -368,6 +368,8 @@ Share your apps here! Submit a pull request!
 
 * **(Appwrite + Nuxt) DeUrl** A simple URL Shortener app made with appwrite and NuxtJs. [Source Code](https://github.com/AVDiv/appwrite_nuxtjs_url_shortner)
 
+* **Appwrite + Vue Podcast Transcript** A simple Podcast Transcript app built with Appwrite, Deepgram and Vue. [Source Code](https://github.com/timothee-durand/appwrite-transcript)
+
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
 
