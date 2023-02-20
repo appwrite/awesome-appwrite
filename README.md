@@ -366,7 +366,7 @@ Share your apps here! Submit a pull request!
 * **Appwrite + Vue Podcast Transcript** A simple Podcast Transcript app built with Appwrite, Deepgram and Vue. [Source Code](https://github.com/timothee-durand/appwrite-transcript)
 
 ### Nuxt
-* **[nuxt3-appwrite package](https://github.com/YsarocK/nuxt-appwrite)** A package to simply implement Appwrite in your Nuxt 3 project. Composable, Routes guards & no config needed. [Documentation](https://nuxt-appwrite.etiennemoureton.fr)
+* **nuxt3-appwrite package** A package to simply implement Appwrite in your Nuxt 3 project. Composable, Routes guards & no config needed. [Source Code](https://github.com/YsarocK/nuxt-appwrite), [Documentation](https://nuxt-appwrite.etiennemoureton.fr)
 
 * **Appwrite + Nuxt 3 Workout-Buddy** This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! [Source Code](https://github.com/EshaanAgg/workout-buddy)
 
