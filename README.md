@@ -371,6 +371,8 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Vue Podcast Transcript** A simple Podcast Transcript app built with Appwrite, Deepgram and Vue. [Source Code](https://github.com/timothee-durand/appwrite-transcript)
 
+* **nuxt3-appwrite package** A package to simply implement Appwrite in your Nuxt 3 project. Composable, Routes guards & no config needed. [Source Code](https://github.com/YsarocK/nuxt-appwrite), [Documentation](https://nuxt-appwrite.etiennemoureton.fr)
+
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
 
