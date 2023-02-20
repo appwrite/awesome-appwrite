@@ -285,6 +285,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 - **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
+- **Store your meds** - Is a mobile app that let's you organize your medicines at one place. Built using React Native, Expo and Appwrite. [Source Code](https://github.com/Neeleshrj/store-your-meds.git)
 
 - **Shuttery** - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. [Source Code](https://github.com/muKaustav/Appwrite-DemoApp-Hacktoberfest-2021)
 
@@ -355,6 +356,7 @@ Share your apps here! Submit a pull request!
 * **To You** - Another to-do app, where completing tasks lead to great rewards. Leverages SvelteKit progressive enhancement features to enable a zero-JS experience.  [Source Code](https://github.com/tglide/to-you), [Demo](https://to-you-tgl.vercel.app/)
 
 ### Vue
+
 * **Appwrite + VueJS Whatsapp Clone** - A WhatsApp Web clone using Appwrite and VueJS. [Source Code](https://github.com/yaakov123/whatsapp-clone)
 
 * **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue)
@@ -363,14 +365,13 @@ Share your apps here! Submit a pull request!
 
 * **Tailwinder** This an open-source complete community website project created for Appwrite hackathon. [Source Code](https://github.com/MooseSaeed/Tailwinder) [Demo](https://dev.to/moose_said/introducing-tailwinder-home-for-tailwind-fans-powered-with-appwrite-4c0o) [Video Demo](https://vimeo.com/manage/videos/709162501)
 
-* **Appwrite + Vue Podcast Transcript** A simple Podcast Transcript app built with Appwrite, Deepgram and Vue. [Source Code](https://github.com/timothee-durand/appwrite-transcript)
-
-### Nuxt
-* **[nuxt3-appwrite package](https://github.com/YsarocK/nuxt-appwrite)** A package to simply implement Appwrite in your Nuxt 3 project. Composable, Routes guards & no config needed. [Documentation](https://nuxt-appwrite.etiennemoureton.fr)
-
 * **Appwrite + Nuxt 3 Workout-Buddy** This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! [Source Code](https://github.com/EshaanAgg/workout-buddy)
 
 * **(Appwrite + Nuxt) DeUrl** A simple URL Shortener app made with appwrite and NuxtJs. [Source Code](https://github.com/AVDiv/appwrite_nuxtjs_url_shortner)
+
+* **Appwrite + Vue Podcast Transcript** A simple Podcast Transcript app built with Appwrite, Deepgram and Vue. [Source Code](https://github.com/timothee-durand/appwrite-transcript)
+
+* **nuxt3-appwrite package** A package to simply implement Appwrite in your Nuxt 3 project. Composable, Routes guards & no config needed. [Source Code](https://github.com/YsarocK/nuxt-appwrite), [Documentation](https://nuxt-appwrite.etiennemoureton.fr)
 
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
@@ -380,6 +381,10 @@ Share your apps here! Submit a pull request!
 
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
+
+### .NET
+
+* **SOS App** - A cross-platform mobile app built with .NET MAUI that allows the user to send an SOS message with their location to a saved phone number in times of distress using an Appwrite Function, Radar, and Twilio. [Source Code](https://github.com/adityaoberai/SOS-MAUI)
 
 ## Videos
 
