@@ -283,7 +283,6 @@ Share your apps here! Submit a pull request!
 
 * **Discordly** A Discord-bot to readily and easily shorten links from Discord itself, made possible by Appwrite. [Source Code](https://github.com/Arpan-206/discordly)
 
-### Django
 * **Authenticate Appwrite User in Django** - A Django middleware to authenticate users with Appwrite. [Source Code](https://github.com/khashashin/django-appwrite)
 
 ### React
