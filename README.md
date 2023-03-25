@@ -487,6 +487,7 @@ Share your apps here! Submit a pull request!
 * [Appwrite Starter](https://www.npmjs.com/package/create-appwrite) start building faster with this initializer for web frameworks
 * [Appwrite React Admin Data Provider](https://www.npmjs.com/package/ra-appwrite) Data and Auth Providers to integrate [React Admin](https://marmelab.com/react-admin/) with Appwrite
 * [Awesome Appwrite snippets](https://marketplace.visualstudio.com/items?itemName=Biswa.awesome-appwrite-snippets) that adds Live Templates to your IDE saving time writing the boilerplate in Appwrite.
+* [Appwrite Helm chart](https://github.com/fpoussin/appwrite-helm) to deploy all components on Kubernetes.
 
 ## Communities
 
