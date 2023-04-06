@@ -337,6 +337,8 @@ Share your apps here! Submit a pull request!
 
 * **ScheduMate** - A web application that allows you to easily see the classes that you have in common with your friends. Friends make classes so much better!  [Website](https://schedumate.study) | [Source Code](https://github.com/The-Powerpuff-Boys/schedu-mate) 
 
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite)
+
 * **Next Appwrite Users** - App that showcases how to use Next.js with Appwrite as its backend. Uses Appwrite for Auth both on the frontend and on API routes. [Source code](https://github.com/RobRuizR/next-appwrite-users) 
 
 ### React Native
