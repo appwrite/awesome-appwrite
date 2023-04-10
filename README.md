@@ -26,8 +26,8 @@
     - [Svelte](#svelte)
     - [Unity](#unity)
     - [Vue](#vue)
-    - [Nuxt](#nuxt)
     - [Android](#android)
+    - [.NET](#net)
   - [Videos](#videos)
   - [Books](#books)
   - [Inspiration](#inspiration)
@@ -463,22 +463,24 @@ Share your apps here! Submit a pull request!
 
 ## SDK
 
-* [Appwrite Web SDK](https://github.com/appwrite/sdk-for-js)
+### Official Appwrite SDKs
+
+* [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web)
 * [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android)
-* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) (beta)
+* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter)
 * [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php)
-* [Appwrite Svelte SDK](https://github.com/appwrite/sdk-for-svelte)
 * [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node)
-* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) (beta)
-* [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) (beta)
-* [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) (beta)
-* [Appwrite Appcelerator Titanium SDK](https://github.com/m1ga/ti.appwrite)
-* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) (beta)
+* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python)
+* [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby)
+* [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno)
+* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin)
 * [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart)
-* [Appwrite Go SDK](https://github.com/appwrite/sdk-for-go)
-* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet)
 * [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple)
+
+### Community-Built SDKs
+
+* [Appwrite Appcelerator Titanium SDK](https://github.com/m1ga/ti.appwrite)
 * [Unoffical Appwrite Minecraft SDK](https://github.com/nCodesDotEU/Appwrite-Minecraft-Database)
 * [Unofficial Appwrite Godot Engine SDK](https://github.com/GodotNuts/appwrite-sdk)
 
