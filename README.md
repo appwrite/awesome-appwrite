@@ -343,6 +343,8 @@ Share your apps here! Submit a pull request!
 
 * **Next Appwrite Users** - App that showcases how to use Next.js with Appwrite as its backend. Uses Appwrite for Auth both on the frontend and on API routes. [Source code](https://github.com/RobRuizR/next-appwrite-users) 
 
+* **Voting App Admin** - Admin panel built with Next.js to control conference polls. [Source Code](https://github.com/mirea-ninja/voting-app-admin) | [Example Conference](https://vk.com/wall-78724646_1219)
+
 ### React Native
 * **Listr**  - A react native mobile application that allows for simple task management using lists | [Source Code](https://github.com/HelixHEX/listr)
 
