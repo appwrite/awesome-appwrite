@@ -485,6 +485,7 @@ Share your apps here! Submit a pull request!
 * [Appwrite Appcelerator Titanium SDK](https://github.com/m1ga/ti.appwrite)
 * [Unoffical Appwrite Minecraft SDK](https://github.com/nCodesDotEU/Appwrite-Minecraft-Database)
 * [Unofficial Appwrite Godot Engine SDK](https://github.com/GodotNuts/appwrite-sdk)
+* [Unofficial Appwrite Qt Framework SDK](https://github.com/pro-tone/QAppWrite)
 
 ## Tools
 * [Appwrite extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Streamlux.vscode-appwrite) proudly built by [@alexweininger](https://github.com/alexweininger) and the [@streamlux](https://github.com/streamlux) team.
