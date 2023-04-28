@@ -267,6 +267,8 @@ Share your apps here! Submit a pull request!
 
 * **Almost Instagram with Flutter and Appwrite** - A functional clone of Instagram social media platform  [Source Code](https://github.com/letsintegreat/Almost-Instagram)
 
+* **Simple Notes App** - A productivity mobile application to create notes [Source Code](https://github.com/davidnwaneri/simple_notes_app)
+
 ### Godot
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
