@@ -37,6 +37,13 @@
   - [Communities](#communities)
 
 ## Announcements and Official Blog Posts
+
+* [Join Celebrations! Appwrite 1.3 Ships Relationships](https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc)
+* [Announcing Pink Design](https://medium.com/appwrite-io/announcing-pink-design-30652e2a2be3?source=friends_link&sk=83281fe822e9e71c984347906d4a44b2)
+* [Querying All Appwrite Developers - GraphQL Has Arrived](https://dev.to/appwrite/querying-all-appwrite-developers-graphql-has-arrived-3o3c)
+* [Announcing Console 2.0](https://medium.com/appwrite-io/announcing-console-2-0-2e0e96891cb0?source=friends_link&sk=7a82b4069778e3adc165dc026e960fe1)
+* [Everything New in Appwrite 1.0](https://dev.to/appwrite/everything-new-in-appwrite-10-43o6)
+* [Announcing Appwrite 0.15 with Phone Authentication & More!](https://dev.to/appwrite/announcing-appwrite-015-with-phone-authentication-more-5cjj)
 * [Announcing Appwrite 0.14 with 11 Cloud Function Runtimes! 🥳](https://dev.to/appwrite/announcing-appwrite-014-with-11-cloud-function-runtimes-36f5)
 * [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
 * [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
@@ -45,7 +52,6 @@
 * [Create an Appwrite File Backup Function Using the Dropbox API](https://dev.to/appwrite/create-an-appwrite-file-backup-function-using-the-dropbox-api-2pfo) (Official)
 * [Learn How to Create and Run Appwrite Functions With Dart](https://dev.to/appwrite/learn-how-to-create-and-run-appwrite-functions-with-dart-5668) (Official)
 * [Learn How to Disable ClamAV in Your Appwrite Stack and Reduce Memory Usage](https://dev.to/appwrite/learn-how-to-disable-clamav-in-your-appwrite-stack-and-reduce-memory-usage-2e37) (Official)
-* [Appwrite Releases a Native Svelte SDK for Its Open-Source BaaS](https://dev.to/appwrite/appwrite-releases-a-native-svelte-sdk-for-its-open-source-baas-5g0g) (Official)
 
 ### 30 Days of Appwrite ✨
 * [Day 1 - Pilot](https://dev.to/appwrite/30daysofappwrite-4hh)

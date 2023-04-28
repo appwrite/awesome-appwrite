@@ -2,6 +2,9 @@
 
 ---
 
+## Announcements and Official Blog Posts
+* [Appwrite Releases a Native Svelte SDK for Its Open-Source BaaS](https://dev.to/appwrite/appwrite-releases-a-native-svelte-sdk-for-its-open-source-baas-5g0g) (Official)
+
 ## Learning Resources
 ### Getting Started
 * [Introduction to AppWrite (in Portuguese)](https://medium.com/@fernandayukarikawasaki/uma-introdu%C3%A7%C3%A3o-ao-appwrite-ad90a127d7fa)
