@@ -53,3 +53,14 @@
 ### Security and Authentication
 * [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 * [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
+
+### Appwrite Services
+* [Cropping and Optimizing images with Appwrite](https://medium.com/@anand26shweta/cropping-and-optimizing-images-with-appwrite-1e3662c37eaa)
+* [Cloud Functions with Dart and Appwrite](https://dev.to/nehanshj/cloud-functions-with-dart-and-appwrite-2nob)
+* [Leveraging Power of Appwrite to Build Scheduling Applications](https://medium.com/@ujjwal26599/leveraging-power-of-appwrite-to-build-scheduling-applications-40615fa7e7f7)
+* [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
+* [Send Messages With Telegram Using Appwrite Functions](https://rizkyrajitha.hashnode.dev/send-messages-with-telegram-using-appwrite-functions)
+* [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
+* [Appwrites database service](https://mbosnjak.hashnode.dev/appwrites-database-service)
+* [Appwrites Account Service](https://dev.to/finnkr/appwrites-account-service-2hhd)
+* [Appwrites' Storage Services](https://dev.to/kaid00/appwrite-storage-service-39pc)

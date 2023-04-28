@@ -158,26 +158,15 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
 
 ### Appwrite Services
-* [AppWrite Services](https://koulurunandakishorereddy.tech/appwrite-services)
 * [Image Resizing and Cropping with Appwrite](https://medium.com/appwrite-io/how-to-use-appwrite-open-source-platform-as-your-image-cropping-optimisation-service-2c5efab4edcb?source=friends_link&sk=11c8c6d50c2c24d0084f20f98a90a0bd)
-* [Cropping and Optimizing images with Appwrite](https://medium.com/@anand26shweta/cropping-and-optimizing-images-with-appwrite-1e3662c37eaa)
-* [Cloud Functions with Dart and Appwrite](https://dev.to/nehanshj/cloud-functions-with-dart-and-appwrite-2nob)
 * [Using database api (Contenido en español) ](https://medium.com/@devildeveloper/implementando-un-backend-en-menos-de-cinco-minutos-con-appwrite-7c6d6262cc87)
-* [Leveraging Power of Appwrite to Build Scheduling Applications](https://medium.com/@ujjwal26599/leveraging-power-of-appwrite-to-build-scheduling-applications-40615fa7e7f7)
 * [Avatar API support in Appwrite](https://dev.to/pretty19/avatar-api-support-in-appwrite-fc1)
 * [Appwrites Avatars service](https://dev.to/ashish4arora/appwrites-avatars-service-4gae)
-* [Appwrite User Services](https://dev.to/asiancat54x/appwrite-users-services-4ohk)
 * [Introduction to Appwrite's Avatar API](https://drishtip.hashnode.dev/introduction-to-appwrites-avatar-api)
 * [All you need to know about APPWRITE Team service](https://dev.to/devgossips/all-you-need-to-know-about-appwrite-team-service-client-side-1g1b)
-* [Send Messages With Telegram Using Appwrite Functions](https://rizkyrajitha.hashnode.dev/send-messages-with-telegram-using-appwrite-functions)
-* [Use Twilio with Appwrite Java Cloud Functions](https://dev.to/kkhitesh/use-twilio-with-appwrite-java-cloud-functions-123p)
-* [Appwrites database service](https://mbosnjak.hashnode.dev/appwrites-database-service)
-* [Appwrites' Storage Services](https://dev.to/kaid00/appwrite-storage-service-39pc)
 * [Using Appwrite Locale Service in your Next Project](https://dev.to/drishtipeshwani/using-appwrite-locale-service-in-your-next-project-3pcm)
-* [Appwrites Account Service](https://dev.to/finnkr/appwrites-account-service-2hhd)
 * [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
 * [Rick Roll Your Friends Using Appwrite, Twilio, and .NET](https://dev.to/adityaoberai/rick-roll-your-friends-using-appwrite-twilio-and-net-4180)
-* [Discord crypto price alert bot powered by Appwrite](https://github.com/RizkyRajitha/appwritediscorddemo)
 * [Six ways to test and call Dart Appwrite Cloud Functions](https://medium.com/@aschilken/free-and-easy-cloud-functions-in-dart-with-appwrite-part-1-190faa3dc7bf) | [Source Code of Flutter example App](https://github.com/schilken/appwrite_cloud_functions)
 
 ## Showcase (Built with Appwrite 📣)
@@ -204,6 +193,8 @@ Share your apps here! Submit a pull request!
 * **Appwrite + ExpressJS** - A simple API made using Appwrite and ExpressJS. [Source Code](https://github.com/PyroCandy/pokemon-api-appwrite) [Blog Post](https://medium.com/@rushilshekhar1_/making-a-simple-api-using-appwrite-a7ceb096bf8f)
 
 * **Appwrite System Health** - A simple demo app to build an express nodejs rest api to monitor health on appwrite app. [Source Code](https://github.com/fernandoamz/node-express-server-rest-api)  [Blog Post](https://dev.to/fernandoamz/appwrites-health-service-3lh7)
+
+* **Discord crypto price alert bot powered by Appwrite** - A Discord bot that sends scheduled crypto price alerts to a Discord channel. [Source Code](https://github.com/RizkyRajitha/appwritediscorddemo)
 
 ### Flutter
 - **Artistry** - Artistry is a demo app built with flutter and Appwrite backend that demonstrates how to perform crud operation,searching, authentication with touch of cool animations. [Source Code](https://github.com/dvmjoshi/artistry_appwrite)
