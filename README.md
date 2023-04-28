@@ -345,6 +345,7 @@ Share your apps here! Submit a pull request!
 ## Books
 
 * [Appwrite Up and Running by Alejandro Garcia](https://leanpub.com/appwrite-up-and-running/)
+* [Taking Flutter to the Web by Damodar Lohani](https://www.packtpub.com/product/taking-flutter-to-the-web/9781801817714)
 
 ## Inspiration
 
