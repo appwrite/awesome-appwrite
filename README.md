@@ -147,15 +147,10 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Appwrite + JQuery](https://dev.to/leonyangela/build-your-app-with-appwrite-jquery-55ij)
 
 ### Mobile Development
-* [Appwrite the best backend for mobile apps and its features](https://qr.ae/pGxRuF)
-* [Appwrite secure open-source backend server for Flutter example app](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
-* [How setup Appwrite for Android with Retrofit ( Direct HTTP Request )](https://medium.com/@developersm13/how-to-setup-appwrite-io-for-android-with-retrofit-e6271d770cad)
-* [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
-* [Introduction to Appwrite Cloud Functions with Android and Kotlin](https://hardiksachan.hashnode.dev/introduction-to-appwrite-cloud-functions-with-android-and-kotlin)
-* [Dart in Appwrite](https://dev.to/oshi36/dart-in-appwrite-47e)
 * [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
 * [Write Unit Tests for Appwrite SDK on Flutter With Mockito](https://betterprogramming.pub/write-unit-test-for-appwrite-sdk-on-flutter-with-mockito-e0c3b403199e)
 * [Integrate Retool Mobile with Appwrite](https://imknight.com/integrate-retool-mobile-with-appwrite)
+* [Build a Twitter Clone with Appwrite and Riverpod | FreeCodeCamp](https://youtu.be/njLEDvoDjtk)
 
 ### Security and Authentication
 * [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)

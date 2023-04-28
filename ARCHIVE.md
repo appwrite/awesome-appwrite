@@ -41,3 +41,11 @@
 * [Integrate Appwrite Storage API with React](https://dev.to/harisarang/integrate-appwrite-storage-api-with-react-5dg3)
 * [How To Generate and Store Map Previews in Ruby with Appwrite](https://dev.to/oliverpham/how-to-generate-and-store-map-previews-in-ruby-with-appwrite-43ha)
 * [What is Appwrite and who i setup in my project?](https://dev.to/jordi5107/what-is-appwrite-and-who-i-setup-in-my-project-3af)
+
+### Mobile Development
+* [Appwrite the best backend for mobile apps and its features](https://qr.ae/pGxRuF)
+* [Appwrite secure open-source backend server for Flutter example app](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
+* [How setup Appwrite for Android with Retrofit ( Direct HTTP Request )](https://medium.com/@developersm13/how-to-setup-appwrite-io-for-android-with-retrofit-e6271d770cad)
+* [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
+* [Introduction to Appwrite Cloud Functions with Android and Kotlin](https://hardiksachan.hashnode.dev/introduction-to-appwrite-cloud-functions-with-android-and-kotlin)
+* [Dart in Appwrite](https://dev.to/oshi36/dart-in-appwrite-47e)
