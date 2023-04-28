@@ -145,6 +145,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Build a Chat app with Appwrite and Nextjs](https://3dweb.hashnode.dev/build-a-chat-app-with-appwrite-and-nextjs)
 * [How to import Ghost Blog Users to Appwrite](https://dev.to/joysankar2001/importing-ghost-blog-users-to-appwrite-1hag)
 * [Appwrite + JQuery](https://dev.to/leonyangela/build-your-app-with-appwrite-jquery-55ij)
+* [How to migrate Wordpress users to Appwrite](https://dev.to/joysankar2001/migrate-wordpress-users-to-appwrite-63j)
 
 ### Mobile Development
 * [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
@@ -154,11 +155,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 
 ### Security and Authentication
 * [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
-* [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 * [Full List of Appwrite Environment Variables](https://appwrite.io/docs/environment-variables)
-* [How to Use Magic URL Login with Appwrite](https://muthuannamalai.tech/how-to-use-magic-url-login-with-appwrite)
-* [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
-* [How to migrate Wordpress users to Appwrite](https://dev.to/joysankar2001/migrate-wordpress-users-to-appwrite-63j)
 
 ### Appwrite Services
 * [AppWrite Services](https://koulurunandakishorereddy.tech/appwrite-services)

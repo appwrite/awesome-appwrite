@@ -49,3 +49,7 @@
 * [How to use Appwrite's Flutter SDK](https://dev.to/yashp1210/appwrite-for-flutter-58kb)
 * [Introduction to Appwrite Cloud Functions with Android and Kotlin](https://hardiksachan.hashnode.dev/introduction-to-appwrite-cloud-functions-with-android-and-kotlin)
 * [Dart in Appwrite](https://dev.to/oshi36/dart-in-appwrite-47e)
+
+### Security and Authentication
+* [User authentication with React.js and Appwrite](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
+* [How to use Appwrite on React Native](https://dev.to/fernandoamz/appwrite-react-native-48cn)
