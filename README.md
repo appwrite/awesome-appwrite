@@ -421,6 +421,7 @@ Share your apps here! Submit a pull request!
 * [Appwrite React Admin Data Provider](https://www.npmjs.com/package/ra-appwrite) Data and Auth Providers to integrate [React Admin](https://marmelab.com/react-admin/) with Appwrite
 * [Awesome Appwrite snippets](https://marketplace.visualstudio.com/items?itemName=Biswa.awesome-appwrite-snippets) that adds Live Templates to your IDE saving time writing the boilerplate in Appwrite.
 * [Fetch Appwrite Types](https://github.com/YsarocK/fetch-appwrite-types) generate Typescript Interfaces from Appwrite DB
+* [AdminWrite](https://github.com/singhbhaskar/AdminWrite) helper tool for Appwrite to perform bulk operations during development for Database and Users.
 
 ## Communities
 
