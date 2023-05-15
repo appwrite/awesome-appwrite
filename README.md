@@ -244,6 +244,8 @@ Share your apps here! Submit a pull request!
 * **Authenticate Appwrite User in Django** - A Django middleware to authenticate users with Appwrite. [Source Code](https://github.com/khashashin/django-appwrite)
 
 ### React
+- **Idea Xchange** - Idea Exchange is a platform for people who have trouble finding ideas for their side projects or are finding a buisness problem to solve and build their startup. Alternatively, people can post their ideas/problem statements and let other users to interact with the idea in form of comments, upvotes and if they would like to pay for the product around that problem/idea statement. [Source Code](https://github.com/apoorvdwi/Idea-Xchange)
+
 - **Tourpal** - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. [Source Code](https://github.com/drishtipeshwani/Tourpal)
 - **Store your meds** - Is a mobile app that let's you organize your medicines at one place. Built using React Native, Expo and Appwrite. [Source Code](https://github.com/Neeleshrj/store-your-meds.git)
 
