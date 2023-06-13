@@ -424,6 +424,7 @@ Share your apps here! Submit a pull request!
 * [Awesome Appwrite snippets](https://marketplace.visualstudio.com/items?itemName=Biswa.awesome-appwrite-snippets) that adds Live Templates to your IDE saving time writing the boilerplate in Appwrite.
 * [Fetch Appwrite Types](https://github.com/YsarocK/fetch-appwrite-types) generate Typescript Interfaces from Appwrite DB
 * [AdminWrite](https://github.com/singhbhaskar/AdminWrite) helper tool for Appwrite to perform bulk operations during development for Database and Users.
+* [Appwrite Funcover](https://github.com/BoolCode/appwrite-funcover) "Cover" your Appwrite G3 functions with a dedicated endpoint, for static pages, direct execution and more.
 
 ## Communities
 
