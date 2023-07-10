@@ -225,6 +225,8 @@ Share your apps here! Submit a pull request!
 
 * **Simple Notes App** - A productivity mobile application to create notes [Source Code](https://github.com/davidnwaneri/simple_notes_app)
 
+* **Real-time Voting App** - The app of face-to-face voting at conferences with access control. Includes a Bloc state manager, dependency injection, and more  [Source Code](https://github.com/mirea-ninja/voting-app) | [Example Conference](https://vk.com/wall-78724646_1219)
+
 ### Godot
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
