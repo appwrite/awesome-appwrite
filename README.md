@@ -145,6 +145,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [How to install Appwrite on a Linode cloud server](https://dev.to/gregordavies/how-to-install-appwrite-on-a-linode-cloud-server-2235)
 * [Things to do after Setup Appwrite on Digital Ocean](https://imknight.com/things-to-do-after-setup-appwrite-on-digital-ocean)
 * [GitHub repo containing Docker & Ansible file for deploying Appwrite in Docker Swarm mode](https://github.com/byawitz/scaling-appwrite)
+* [Appread book - A DevOps guide for self-hosting Appwrite](https://book.appread.io/)
 
 ### Web Development
 * [Integrating with Appwrite HTTP API Using no-SDK](https://appwrite.io/docs/rest)
