@@ -29,6 +29,7 @@
     - [Android](#android)
     - [.NET](#net)
   - [Videos](#videos)
+  - [Blogs](#blogs)
   - [Books](#books)
   - [Inspiration](#inspiration)
   - [Playgrounds and Snippets](#playgrounds-and-snippets)
@@ -355,6 +356,12 @@ Share your apps here! Submit a pull request!
 ### .NET
 
 * **SOS App** - A cross-platform mobile app built with .NET MAUI that allows the user to send an SOS message with their location to a saved phone number in times of distress using an Appwrite Function, Radar, and Twilio. [Source Code](https://github.com/adityaoberai/SOS-MAUI)
+
+## Videos
+* [YouTube Video Series - chipIn App Tutorial | Event Planning & Management with Flutter & Appwrite](https://www.youtube.com/playlist?list=PLVxKaz1qsM-k4jD0PZBhhrvZmiUmPMEhe)
+
+## Blogs
+* [Blog Series - Appwrite & Flutter: Event App Tutorial](https://kylebcg.hashnode.dev/)
 
 ## Books
 
