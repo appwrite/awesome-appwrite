@@ -309,6 +309,8 @@ Share your apps here! Submit a pull request!
 
 * **Voting App Admin** - Admin panel built with Next.js to control conference polls. [Source Code](https://github.com/mirea-ninja/voting-app-admin) | [Example Conference](https://vk.com/wall-78724646_1219)
 
+* **Event-Ally** - Event-Ally is an event management application where organizing and executing unforgettable events becomes effortless. [Source Code](https://github.com/Rohit-RA-2020/Task-Management) | [Blog Post](https://rohitranjan.hashnode.dev/event-ally-build-an-event-planning-platform-using-nextjs-appwrite) | [Video](https://youtu.be/CuI3aE7zN5Q)
+
 ### React Native
 * **Listr**  - A react native mobile application that allows for simple task management using lists | [Source Code](https://github.com/HelixHEX/listr)
 
