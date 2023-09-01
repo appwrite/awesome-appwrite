@@ -229,6 +229,8 @@ Share your apps here! Submit a pull request!
 
 * **Real-time Voting App** - The app of face-to-face voting at conferences with access control. Includes a Bloc state manager, dependency injection, and more  [Source Code](https://github.com/mirea-ninja/voting-app) | [Example Conference](https://vk.com/wall-78724646_1219)
 
+* **Online Store with Flutter and Appwrite** - An online store platform that connects users with nearby shops and small businesses. Includes realtime store details, in app notifications, inventory management and more [Blog Post](https://asutosh.hashnode.dev/building-an-online-store-platform-using-appwrite-and-flutter-localease) | [Tutorial](https://youtu.be/APp9dHVvmPg) | [Source Code](https://github.com/asutoshranjan/local-ease)
+
 ### Godot
 * **Godot + Appwrite** - A demo app to showcase Godot's integration with Appwrite. [Source Code](https://github.com/lohanidamodar/godot-appwrite)
 
