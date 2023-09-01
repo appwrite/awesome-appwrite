@@ -257,6 +257,8 @@ Share your apps here! Submit a pull request!
 
 - **Taskwrite** -Taskwrite is a demo web app built with React JS and Appwrite backend for Hacktoberfest 2021, that demonstrates how to create a To-Do list, that lets users add, edit, and delete tasks. It demonstrates the use of Google OAuth and Database Management. [Source Code](https://github.com/muKaustav/Taskwrite-Appwrite-Hacktoberfest-2021)
 
+- **Jobwrite** - Jobwrite is a React JS app that lets users find jobs that best match their GitHub profile. It uses NLP technique to analyse and match users with job openings, scrapped from the internet. Loaded with features like GitHub OAuth, filter jobs and feedback options all possible with Appwrite. [Source Code](https://github.com/Dksie09/JobwriteYT) [Blog post](https://duckshie.notion.site/Building-Jobwrite-A-Smart-Job-Search-Platform-using-React-and-Appwrite-21f98b37c7054af3917df6ef1ff1c522?pvs=4) [Video tutorial](https://youtu.be/9z_Rz-13Hm0)
+
 * **OAuth Provider Tester** - A Simple Appwrite OAuth Tester App built to make new oauth provider testing easy. [Source Code](https://github.com/AmreshSinha/OAuth-Tester-Appwrite)
 
 * **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
