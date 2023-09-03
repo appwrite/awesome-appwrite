@@ -161,6 +161,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Write Unit Tests for Appwrite SDK on Flutter With Mockito](https://betterprogramming.pub/write-unit-test-for-appwrite-sdk-on-flutter-with-mockito-e0c3b403199e)
 * [Integrate Retool Mobile with Appwrite](https://imknight.com/integrate-retool-mobile-with-appwrite)
 * [Build a Twitter Clone with Appwrite and Riverpod | FreeCodeCamp](https://youtu.be/njLEDvoDjtk)
+* [Blog Series - Appwrite & Flutter: Event App Tutorial](https://kylebcg.hashnode.dev/)
 
 ### Security and Authentication
 * [Restricting Access to Your Appwrite Console](https://medium.com/appwrite-io/you-can-now-restrict-access-to-your-appwrite-console-b8b447885289?source=friends_link&sk=95b78cf75ff633e0f32b8a76ea619b08)
@@ -359,9 +360,6 @@ Share your apps here! Submit a pull request!
 
 ## Videos
 * [YouTube Video Series - chipIn App Tutorial | Event Planning & Management with Flutter & Appwrite](https://www.youtube.com/playlist?list=PLVxKaz1qsM-k4jD0PZBhhrvZmiUmPMEhe)
-
-## Blogs
-* [Blog Series - Appwrite & Flutter: Event App Tutorial](https://kylebcg.hashnode.dev/)
 
 ## Books
 
