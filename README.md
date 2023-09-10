@@ -29,7 +29,6 @@
     - [Android](#android)
     - [.NET](#net)
   - [Videos](#videos)
-  - [Blogs](#blogs)
   - [Books](#books)
   - [Inspiration](#inspiration)
   - [Playgrounds and Snippets](#playgrounds-and-snippets)
