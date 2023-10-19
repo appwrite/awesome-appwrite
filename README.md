@@ -1,12 +1,9 @@
 # Awesome Appwrite [![Awesome](images/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![logo](images/logo.png "Logo")
-
 ## Table of Contents:
   - [Announcements and Official Blog Posts](#announcements-and-official-blog-posts)
     - [30 Days of Appwrite](#30-days-of-appwrite-)
     - [Almost Netflix](#almost-netflix-)
-  - [Hacktoberfest 2021](#hacktoberfest-2021)
   - [Learning Resources](#learning-resources)
     - [Getting Started](#getting-started)
     - [Setup, Customization and Deployment](#setup-customization-and-deployment)
@@ -38,6 +35,7 @@
 
 ## Announcements and Official Blog Posts
 
+* [Appwrite 1.4 Brings Command Center, AI, One-Click Migrations, and Upgraded Functions](https://dev.to/appwrite/appwrite-14-brings-command-center-ai-one-click-migrations-and-upgraded-functions-1ch2)
 * [Join Celebrations! Appwrite 1.3 Ships Relationships](https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc)
 * [Announcing Pink Design](https://medium.com/appwrite-io/announcing-pink-design-30652e2a2be3?source=friends_link&sk=83281fe822e9e71c984347906d4a44b2)
 * [Querying All Appwrite Developers - GraphQL Has Arrived](https://dev.to/appwrite/querying-all-appwrite-developers-graphql-has-arrived-3o3c)
@@ -119,8 +117,9 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 
 ## Learning Resources
 ### Getting Started
+* [Appwrite Tutorials](https://appwrite.io/docs/tutorials) (Official)
+* [Appwrite Quick-starts](https://appwrite.io/docs/quick-starts) (Official)
 * [Getting Started for Flutter](https://appwrite.io/docs/getting-started-for-flutter) (Official)
-* [Getting Started for Server](https://appwrite.io/docs/getting-started-for-server) (Official)
 * [Getting Started for Apple](https://appwrite.io/docs/getting-started-for-apple) (Official)
 * [Getting Started for Android](https://appwrite.io/docs/getting-started-for-android) (Official)
 * [Getting Started for Web](https://appwrite.io/docs/getting-started-for-web) (Official)
@@ -405,7 +404,6 @@ Share your apps here! Submit a pull request!
 * [Playground for Android with Retrofit](https://github.com/subhav13/Appwrite-Playground-for-Android-with-Retrofit)
 * [Playground for Android](https://github.com/appwrite/playground-for-android)
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
-* [Delete Appwrite Docker containers and volumes](https://gist.github.com/PedroCisnerosSantana/618a088f60a64f227363c6c10e80b366)
 
 ## SDK
 
@@ -423,6 +421,7 @@ Share your apps here! Submit a pull request!
 * [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart)
 * [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple)
+* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) (beta)
 
 ### Community-Built SDKs
 
