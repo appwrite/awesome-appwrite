@@ -111,7 +111,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Appwrite, giving it a shot this Hacktoberfest ‘21](https://medium.com/@anand26shweta/appwrite-giving-it-a-shot-ad1ef79ae44f)
 
 ## Hacktoberfest 2022
-* [Featured on the GitHub Blog](https://github.blog/release-radar-sept-2022)
+* [Featured on the GitHub Blog]([https://github.blog/release-radar-sept-2022](https://github.blog/2022-10-28-release-radar-sept-2022/#appwrite-1-0))
 
 ## Learning Resources
 ### Getting Started
