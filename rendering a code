@@ -1,0 +1,7 @@
+//To create a code block in most programming and markup languages, you can use backticks (`) to enclose the code.
+//In Markdown or many chat interfaces, you can use backticks like this
+
+
+function example() {
+console.log("Hello, World!");
+}
