@@ -20,6 +20,7 @@
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Appwrite with Dart!](https://dev.to/timothy22000/appwrite-with-dart-3knc)
 * [What is Appwrite? Featured in GitHub Blog](https://github.blog/release-radar-sept-2022)
+* [How to contribute for Hacktoberfest](https://dev.to/github/hacktoberfest-has-started-are-you-doing-these-things-748)
 
 ### Setup, Customization and Deployment
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
