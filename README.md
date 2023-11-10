@@ -1,4 +1,4 @@
-# Awesome Appwrite [![Awesome](images/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Appwrite [![Awesome Appwrite image badge](images/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents:
   - [Announcements and Official Blog Posts](#announcements-and-official-blog-posts)
@@ -42,7 +42,7 @@
 * [Announcing Console 2.0](https://medium.com/appwrite-io/announcing-console-2-0-2e0e96891cb0?source=friends_link&sk=7a82b4069778e3adc165dc026e960fe1)
 * [Everything New in Appwrite 1.0](https://dev.to/appwrite/everything-new-in-appwrite-10-43o6)
 * [Announcing Appwrite 0.15 with Phone Authentication & More!](https://dev.to/appwrite/announcing-appwrite-015-with-phone-authentication-more-5cjj)
-* [Announcing Appwrite 0.14 with 11 Cloud Function Runtimes! 🥳](https://dev.to/appwrite/announcing-appwrite-014-with-11-cloud-function-runtimes-36f5)
+* [Announcing Appwrite 0.14 with 11 Cloud Function Runtimes! :partying_face:](https://dev.to/appwrite/announcing-appwrite-014-with-11-cloud-function-runtimes-36f5)
 * [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
 * [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
 * [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
@@ -51,7 +51,7 @@
 * [Learn How to Create and Run Appwrite Functions With Dart](https://dev.to/appwrite/learn-how-to-create-and-run-appwrite-functions-with-dart-5668) (Official)
 * [Learn How to Disable ClamAV in Your Appwrite Stack and Reduce Memory Usage](https://dev.to/appwrite/learn-how-to-disable-clamav-in-your-appwrite-stack-and-reduce-memory-usage-2e37) (Official)
 
-### 30 Days of Appwrite ✨
+### 30 Days of Appwrite :sparkles:
 * [Day 1 - Pilot](https://dev.to/appwrite/30daysofappwrite-4hh)
 * [Day 2 - Installation](https://dev.to/appwrite/installing-appwrite-366o)
 * [Day 3 - Appwrite’s building blocks](https://dev.to/appwrite/30daysofappwrite-appwrite-s-building-blocks-1936)
@@ -67,7 +67,7 @@
 * [Day 13 - Appwrite Teams](https://dev.to/appwrite/30daysofappwrite-appwrite-teams-2fjd)
 * [Day 14 - Using Team Invites](https://dev.to/appwrite/30daysofappwrite-using-team-invites-gk1)
 * [Day 15 - Appwrite Database](https://dev.to/appwrite/30daysofappwrite-appwrite-database-22an)
-* [Day 16 - Database Design 🧐](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
+* [Day 16 - Database Design :monocle_face:](https://dev.to/appwrite/30daysofappwrite-database-design-140a)
 * [Day 17 - Create User Profiles](https://dev.to/appwrite/30daysofappwrite-create-user-profiles-1c3m)
 * [Day 18 - Create Blog Posts](https://dev.to/appwrite/30daysofappwrite-create-blog-posts-31fi)
 * [Day 19 - Appwrite Storage API](https://dev.to/appwrite/30daysofappwrite-appwrite-storage-api-hgm)
@@ -95,7 +95,7 @@ Showcase for projects built during [#30DaysOfAppwrite](https://30days.appwrite.i
 * [KnowYourFood](https://github.com/LeBraveLittleToaster/KnowYourFood)
 * [Budgetist](https://github.com/intel-raja/budgetist_kakeibo#budgetist_kakeibo)
 
-### Almost Netflix 🎬
+### Almost Netflix :clapper:
 
 The Almost Netflix series is a tutorial for building a Netflix clone with Appwrite version 0.12.0 and above.
 

@@ -20,6 +20,7 @@
 * [Python in Appwrite ](https://dev.to/robimez/python-in-appwrite-378h)
 * [Appwrite with Dart!](https://dev.to/timothy22000/appwrite-with-dart-3knc)
 * [What is Appwrite? Featured in GitHub Blog](https://github.blog/release-radar-sept-2022)
+* [How to contribute for Hacktoberfest](https://dev.to/github/hacktoberfest-has-started-are-you-doing-these-things-748)
 
 ### Setup, Customization and Deployment
 * [Appwrite VS Code extension](https://dev.to/streamlux/appwrite-vs-code-extension-1356)
@@ -37,7 +38,7 @@
 * [Getting Started with Appwrite and creating a Login Page with Appwrite and React (Part-2)](https://dev.to/kunals131/getting-started-with-appwrite-and-creating-a-login-page-with-appwrite-and-react-part-2-4fgd)
 * [Appwrite + React](https://anjalirohira.hashnode.dev/integrate-appwrite-inside-react-projects)
 * [Building A URL Shortener using Appwrite and Express](https://dev.to/dro1/building-a-url-shortener-using-appwrite-and-express-128i)
-* [Appwrite + React = 🔥](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
+* [Appwrite + React = :fire:](https://medium.com/@hardikchopra242/react-appwrite-23a34bcc52a9)
 * [Building a Web App with ReactJS and Appwrite](https://dev.to/drishtipeshwani/building-a-web-app-with-reactjs-and-appwrite-4cno)
 * [Build a Web app using Next.js and Appwrite](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
 * [Getting Started with Appwrite in NextJS by Building An App](https://dev.to/qwe123coder/getting-started-with-appwrite-in-nestjs-22gk)
@@ -88,8 +89,8 @@
 * [Appwrite + Flutter EP10: Deploying Appwrite Server in VPS + Tips for Appwrite in Production](https://www.youtube.com/watch?v=WzHdvLItrEc)
 * [Appwrite + Flutter EP11: User preferences and Locale API](https://www.youtube.com/watch?v=qKkgXy3H7Mw)
 * [Appwrite + Flutter EP12: Storage, uploading files, image previews](https://www.youtube.com/watch?v=CNjvNNYWgGU)
-* [Appwrite ❤️ Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
-* [What's new in Appwrite 0.7 🥳 🚀](https://www.youtube.com/watch?v=uuZq3K4Wjrc&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=16&t=14s)
+* [Appwrite :heart: Flutter : A Trivia Application (Quiz Application)](https://www.youtube.com/watch?v=J3XSlYUhdqs)
+* [What's new in Appwrite 0.7 :partying_face: :rocket:](https://www.youtube.com/watch?v=uuZq3K4Wjrc&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=16&t=14s)
 * [Create and Run Appwrite Functions with Dart](https://www.youtube.com/watch?v=WNIeIYz30Bg&list=PLUiueC0kTFqI9WIeUSkKvM-a_3fyaIiuk&index=17&t=142s)
 * [Flutter + Appwrite Starter Application Template (Part 1)](https://www.youtube.com/watch?v=ECtoXQ50Ar0)
 * [Flutter + Appwrite Starter Application Template (Part 2)](https://www.youtube.com/watch?v=W_PH5tHbhhM)

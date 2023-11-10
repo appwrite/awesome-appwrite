@@ -1,6 +1,6 @@
 # Contributing
 
-We would ❤️ for you to contribute to Appwrite and help make it better! We want contributing to Appwrite to be fun, enjoyable, and educational for anyone and everyone. All contributions are welcome, including issues, new docs as well as updates and tweaks, blog posts, workshops, and more.
+We would :heart: for you to contribute to Appwrite and help make it better! We want contributing to Appwrite to be fun, enjoyable, and educational for anyone and everyone. All contributions are welcome, including issues, new docs as well as updates and tweaks, blog posts, workshops, and more.
 
 ## How to Start?
 
@@ -10,7 +10,7 @@ If you are worried or don’t know where to start, check out our next section ex
 
 Help us keep Appwrite open and inclusive. Please read and follow our [Code of Conduct](/CODE_OF_CONDUCT.md).
 
-## Submit a Pull Request 🚀
+## Submit a Pull Request :rocket:
 
 Branch naming convention is as following
 
@@ -64,7 +64,7 @@ $ git push origin [name_of_your_new_branch]
 
 ## Introducing New Features
 
-We would 💖 you to contribute to Appwrite, but we would also like to make sure Appwrite is as great as possible and loyal to its vision and mission statement 🙏.
+We would :sparkling_heart: you to contribute to Appwrite, but we would also like to make sure Appwrite is as great as possible and loyal to its vision and mission statement :pray:.
 
 For us to find the right balance, please open an issue explaining your ideas before introducing a new pull request.
 
