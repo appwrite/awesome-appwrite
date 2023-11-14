@@ -131,6 +131,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Appwrite Frequently Asked Questions](https://medium.com/geekculture/appwrite-frequently-asked-questions-374ce81513fe)
 * [Everything you need to know to get Appwrite Functions works on PHP runtime](https://imknight.com/everything-you-need-to-know-to-get-appwrite-functions-works-on-php-runtime)
 * [My First Appwrite Function](https://imknight.com/my-first-appwrite-function)
+* [Full Stack with React and Appwrite](https://egghead.io/courses/full-stack-with-react-and-appwrite-e1e46f61)
 
 ### Setup, Customization and Deployment
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
