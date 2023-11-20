@@ -320,6 +320,8 @@ Share your apps here! Submit a pull request!
 
 * **Event-Ally** - Event-Ally is an event management application where organizing and executing unforgettable events becomes effortless. [Source Code](https://github.com/Rohit-RA-2020/Task-Management) | [Blog Post](https://rohitranjan.hashnode.dev/event-ally-build-an-event-planning-platform-using-nextjs-appwrite) | [Video](https://youtu.be/CuI3aE7zN5Q)
 
+* **Code-Snippets-Builder** - Drag and drop code snippet builder, effortlessly showcase your code in a visually appealing and professional manner. [Source Code](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder) | [Blog Post](https://blog.sachinchaurasiya.dev//code-snippet-builder-create-stunning-code-snippets)
+
 ### React Native
 * **Listr**  - A react native mobile application that allows for simple task management using lists | [Source Code](https://github.com/HelixHEX/listr)
 
