@@ -356,6 +356,8 @@ Share your apps here! Submit a pull request!
 
 * **nuxt3-appwrite package** A package to simply implement Appwrite in your Nuxt 3 project. Composable, Routes guards & no config needed. [Source Code](https://github.com/YsarocK/nuxt-appwrite), [Documentation](https://nuxt-appwrite.etiennemoureton.fr)
 
+* **Wishlist** An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc [Source Code](https://github.com/JackBailey/Wishlist)
+
 ### Android
 * **Appwrite + Kotlin Android App -> Taleia** - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. [Source Code](https://github.com/und1n3/taleia)
 
