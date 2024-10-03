@@ -35,6 +35,7 @@
 
 ## Announcements and Official Blog Posts
 
+* [Building with Appwrite AI Function templates](https://appwrite.io/blog/post/building-with-ai-function-templates)
 * [Setting up protective routes in React](https://appwrite.io/blog/post/react-protected-routes)
 * [Get started with Appwrite Realtime for Flutter](https://appwrite.io/blog/post/appwrite-realtime-for-flutter)
 * [How to optimize your Appwrite project for cost and performance](https://appwrite.io/blog/post/how-to-optimize-your-appwrite-project)
@@ -49,6 +50,10 @@
 * [How to set up Google authentication in React with Appwrite](https://appwrite.io/blog/post/set-up-google-auth-appwrite-react)
 * [REST vs GraphQL vs WebSockets: which is best for your app?](https://appwrite.io/blog/post/rest-vs-graphql-websockets-which-is-best-for-your-app)
 * [How to handle CORS in Appwrite serverless functions](https://appwrite.io/blog/post/handle-cors-in-serverless-functions)
+* [Introducing Appwrite's React Native SDK in open beta](https://appwrite.io/blog/post/introducing-appwrite-react-native-sdk)
+* [https://appwrite.io/blog/post/building-cross-platform-applications-with-react-native](How to build cross-platform applications with React Native)
+* [Improving user security in your web apps with email OTP auth](https://appwrite.io/blog/post/email-otp-auth-sveltekit)
+* [Streamline receipt scanning with Appwrite Cloud](https://appwrite.io/blog/post/scan-receipts-with-appwrite-functions)
 * [BaaS vs. Custom Backend: making the right choice as a freelancer](https://appwrite.io/blog/post/baas-vs-custom-backend)
 * [12 developer tools to supercharge your Appwrite project](https://appwrite.io/blog/post/developer-tools-appwrite)
 * [Integrate SQL, NoSQL, Vector, Graph, or any database into your Appwrite project](https://appwrite.io/blog/post/integrate-sql-nosql-vector-graph-or-any-database-into-your-appwrite-project)
