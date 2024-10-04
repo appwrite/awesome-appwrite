@@ -4,7 +4,8 @@
 
 - [Awesome Appwrite ](#awesome-appwrite-)
   - [Table of Contents](#table-of-contents)
-  - [Announcements and Official Blog Posts](#announcements-and-official-blog-posts)
+  - [Announcements](#announcements)
+  - [Official Tutorials and Blog Posts](#official-tutorials-and-blog-posts)
     - [30 Days of Appwrite :sparkles:](#30-days-of-appwrite-sparkles)
     - [Almost Netflix :clapper:](#almost-netflix-clapper)
   - [Hacktoberfest 2021](#hacktoberfest-2021)
@@ -44,7 +45,19 @@
   - [Tools](#tools)
   - [Communities](#communities)
 
-## Announcements and Official Blog Posts
+## Announcements
+
+- [Introducing Appwrite's React Native SDK in open beta](https://appwrite.io/blog/post/introducing-appwrite-react-native-sdk)
+- [Appwrite 1.4 Brings Command Center, AI, One-Click Migrations, and Upgraded Functions](https://dev.to/appwrite/appwrite-14-brings-command-center-ai-one-click-migrations-and-upgraded-functions-1ch2)
+- [Join Celebrations! Appwrite 1.3 Ships Relationships](https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc)
+- [Announcing Pink Design](https://medium.com/appwrite-io/announcing-pink-design-30652e2a2be3?source=friends_link&sk=83281fe822e9e71c984347906d4a44b2)
+- [Querying All Appwrite Developers - GraphQL Has Arrived](https://dev.to/appwrite/querying-all-appwrite-developers-graphql-has-arrived-3o3c)
+- [Announcing Console 2.0](https://medium.com/appwrite-io/announcing-console-2-0-2e0e96891cb0?source=friends_link&sk=7a82b4069778e3adc165dc026e960fe1)
+- [Everything New in Appwrite 1.0](https://dev.to/appwrite/everything-new-in-appwrite-10-43o6)
+- [Announcing Appwrite 0.15 with Phone Authentication & More!](https://dev.to/appwrite/announcing-appwrite-015-with-phone-authentication-more-5cjj)
+- [Announcing Appwrite 0.14 with 11 Cloud Function Runtimes! :partying_face:](https://dev.to/appwrite/announcing-appwrite-014-with-11-cloud-function-runtimes-36f5)
+
+## Official Tutorials and Blog Posts
 
 - [Building with Appwrite AI Function templates](https://appwrite.io/blog/post/building-with-ai-function-templates)
 - [Setting up protective routes in React](https://appwrite.io/blog/post/react-protected-routes)
@@ -61,8 +74,7 @@
 - [How to set up Google authentication in React with Appwrite](https://appwrite.io/blog/post/set-up-google-auth-appwrite-react)
 - [REST vs GraphQL vs WebSockets: which is best for your app?](https://appwrite.io/blog/post/rest-vs-graphql-websockets-which-is-best-for-your-app)
 - [How to handle CORS in Appwrite serverless functions](https://appwrite.io/blog/post/handle-cors-in-serverless-functions)
-- [Introducing Appwrite's React Native SDK in open beta](https://appwrite.io/blog/post/introducing-appwrite-react-native-sdk)
-- [https://appwrite.io/blog/post/building-cross-platform-applications-with-react-native](How to build cross-platform applications with React Native)
+- [How to build cross-platform applications with React Native](https://appwrite.io/blog/post/building-cross-platform-applications-with-react-native)
 - [Improving user security in your web apps with email OTP auth](https://appwrite.io/blog/post/email-otp-auth-sveltekit)
 - [Streamline receipt scanning with Appwrite Cloud](https://appwrite.io/blog/post/scan-receipts-with-appwrite-functions)
 - [BaaS vs. Custom Backend: making the right choice as a freelancer](https://appwrite.io/blog/post/baas-vs-custom-backend)
@@ -73,16 +85,8 @@
 - [Get inspired for Hacktoberfest 2024 with these ideas](https://appwrite.io/blog/post/hacktoberfest-ideas-2024)
 - [Building a chat app with Appwrite and Google Gemini](https://appwrite.io/blog/post/build-a-chat-app-with-appwrite-and-gemini)
 - [How to plan and execute database migration successfully with the new Appwrite CLI](https://appwrite.io/blog/post/how-to-execute-database-migration-with-appwrite-cli)
-- [Appwrite 1.4 Brings Command Center, AI, One-Click Migrations, and Upgraded Functions](https://dev.to/appwrite/appwrite-14-brings-command-center-ai-one-click-migrations-and-upgraded-functions-1ch2)
-- [Join Celebrations! Appwrite 1.3 Ships Relationships](https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc)
-- [Announcing Pink Design](https://medium.com/appwrite-io/announcing-pink-design-30652e2a2be3?source=friends_link&sk=83281fe822e9e71c984347906d4a44b2)
-- [Querying All Appwrite Developers - GraphQL Has Arrived](https://dev.to/appwrite/querying-all-appwrite-developers-graphql-has-arrived-3o3c)
-- [Announcing Console 2.0](https://medium.com/appwrite-io/announcing-console-2-0-2e0e96891cb0?source=friends_link&sk=7a82b4069778e3adc165dc026e960fe1)
-- [Everything New in Appwrite 1.0](https://dev.to/appwrite/everything-new-in-appwrite-10-43o6)
-- [Announcing Appwrite 0.15 with Phone Authentication & More!](https://dev.to/appwrite/announcing-appwrite-015-with-phone-authentication-more-5cjj)
-- [Announcing Appwrite 0.14 with 11 Cloud Function Runtimes! :partying_face:](https://dev.to/appwrite/announcing-appwrite-014-with-11-cloud-function-runtimes-36f5)
 - [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
-- [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
+- [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-appwrite-cli-4m68) (Official)
 - [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
 - [Sending a Custom Welcome Email Using Appwrite Functions and Mailgun](https://dev.to/appwrite/sending-a-custom-welcome-email-using-appwrite-functions-and-mailgun-225a) (Official)
 - [Create an Appwrite File Backup Function Using the Dropbox API](https://dev.to/appwrite/create-an-appwrite-file-backup-function-using-the-dropbox-api-2pfo) (Official)
@@ -440,6 +444,19 @@ Share your apps here! Submit a pull request!
 ## Videos
 
 - [YouTube Video Series - chipIn App Tutorial | Event Planning & Management with Flutter & Appwrite](https://www.youtube.com/playlist?list=PLVxKaz1qsM-k4jD0PZBhhrvZmiUmPMEhe)
+- [Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query](https://youtu.be/_W3R2VwRyF4)
+- [React Native Course for Beginners in 2024 | Build a Full Stack React Native App](https://www.youtube.com/watch?v=ZBCUegTZF7M)
+- [Build and Deploy a Banking App with Finance Management Dashboard Using Next.js 14](https://www.youtube.com/watch?v=PuOVqP_cjkE)
+- [Build and Deploy 3 Modern Apps and Get Hired as Full Stack Developer Full 12-Hour Course](https://youtu.be/DwbwuYYiBTk)
+- [Build and Deploy a Patient Management System with Next.js | Twilio, TypeScript, TailwindCSS](https://youtu.be/lEflo_sc82g)
+- [Next.js & Appwrite – Full Stack Course for Beginners](https://youtu.be/ETV17M4SauU)
+- [Appwrite Database Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gXxY0nrh9N4CYHtwnoHjV2)
+- [Let's build Stackoverflow with nextjs and Appwrite](https://youtu.be/arKkpkWlKhc)
+- [Messaging Tutorial - SMS/Email/Push Notifications Full Course](https://youtu.be/bZFj8GCZmq4)
+- [Here's how you do auth with 100% SSR in Next.js](https://youtu.be/ENnG7GusuO4)
+- [Express like routing let's you create REST API's with Appwrite functions](https://youtu.be/_YMw268j2IU)
+- [Get started with Appwrite + React - Fullstack App](https://youtu.be/_JDeJgsU-bI)
+- [Setup Google OAuth sign in 6 minutes](https://youtu.be/tgO_ADSvY1I)
 
 ## Books
 
