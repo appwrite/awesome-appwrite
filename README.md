@@ -56,6 +56,8 @@
 - [Everything New in Appwrite 1.0](https://dev.to/appwrite/everything-new-in-appwrite-10-43o6)
 - [Announcing Appwrite 0.15 with Phone Authentication & More!](https://dev.to/appwrite/announcing-appwrite-015-with-phone-authentication-more-5cjj)
 - [Announcing Appwrite 0.14 with 11 Cloud Function Runtimes! :partying_face:](https://dev.to/appwrite/announcing-appwrite-014-with-11-cloud-function-runtimes-36f5)
+- [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
+- [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-the-appwrite-cli-4m68) (Official)
 
 ## Official Tutorials and Blog Posts
 
@@ -85,8 +87,6 @@
 - [Get inspired for Hacktoberfest 2024 with these ideas](https://appwrite.io/blog/post/hacktoberfest-ideas-2024)
 - [Building a chat app with Appwrite and Google Gemini](https://appwrite.io/blog/post/build-a-chat-app-with-appwrite-and-gemini)
 - [How to plan and execute database migration successfully with the new Appwrite CLI](https://appwrite.io/blog/post/how-to-execute-database-migration-with-appwrite-cli)
-- [Announcing the Appwrite SDK for Dart](https://dev.to/appwrite/announcing-appwrite-sdk-for-dart-3ehc) (Official)
-- [Announcing the Appwrite CLI 🚀](https://dev.to/appwrite/announcing-appwrite-cli-4m68) (Official)
 - [Learn How to Add Object Detection Capabilities to Your Appwrite Storage Using Cloud Functions](https://dev.to/appwrite/learn-how-to-add-object-detection-capabilities-to-your-appwrite-storage-using-cloud-functions-4j6j) (Official)
 - [Sending a Custom Welcome Email Using Appwrite Functions and Mailgun](https://dev.to/appwrite/sending-a-custom-welcome-email-using-appwrite-functions-and-mailgun-225a) (Official)
 - [Create an Appwrite File Backup Function Using the Dropbox API](https://dev.to/appwrite/create-an-appwrite-file-backup-function-using-the-dropbox-api-2pfo) (Official)
