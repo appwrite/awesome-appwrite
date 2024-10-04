@@ -268,29 +268,29 @@ Share your apps here! Submit a pull request!
 
 - **Artistry** - Artistry is a demo app built with flutter and Appwrite backend that demonstrates how to perform crud operation,searching, authentication with touch of cool animations. [Source Code](https://github.com/dvmjoshi/artistry_appwrite)
 
-* **Flutter TODO App** - A TODO app with Flutter and Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
+- **Flutter TODO App** - A TODO app with Flutter and Appwrite as a backend. [Source Code](https://github.com/Dev-Manny/Appwrite-Todo)
 
-* **AppNote** - Flutter notes app using Appwrite as a backend for storing documents. [Source Code](https://github.com/netfirms/appnote), [Blog Post](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
+- **AppNote** - Flutter notes app using Appwrite as a backend for storing documents. [Source Code](https://github.com/netfirms/appnote), [Blog Post](https://dev.to/netfirms/appwrite-and-flutter-example-app-42ce)
 
-* **Flutter Appwrite Quiz App** A simple Quiz App built with Flutter and Appwrite [Source Code](https://github.com/appwrite/quiz-with-flutter)
+- **Flutter Appwrite Quiz App** A simple Quiz App built with Flutter and Appwrite [Source Code](https://github.com/appwrite/quiz-with-flutter)
 
-* **Flutter Appwrite Social App** A Social App playground for testing the features of Appwrite. [Source Code](https://github.com/alistairholmes/flutter-appwrite-social-app)
+- **Flutter Appwrite Social App** A Social App playground for testing the features of Appwrite. [Source Code](https://github.com/alistairholmes/flutter-appwrite-social-app)
 
 * Building **No Signal** - A chatting App using Flutter and Appwrite [Part 1](https://bishwajeet-techmaster.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975)| [Part 2](https://bishwajeet-parhi.medium.com/building-no-signal-using-flutter-and-appwrite-part-2-565c5eb3b484) | [Part 3](https://bishwajeet-parhi.medium.com/building-no-signal-using-flutter-and-appwrite-part-3-90b08db16ec) | [Source Code](https://github.com/2002Bishwajeet/no_signal)
 
-* **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter. [Source Code](https://github.com/generalxhd/Gradely2)
+- **Gradely 2 - Grade Calculator** - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter. [Source Code](https://github.com/generalxhd/Gradely2)
 
-* **Fitness Challenge App with Appwrite** - Create fitness challenges, invite friends, sync your health data from Apple Health/Google Fit and see who's winning. [Source Code](https://github.com/gireeshp/fitness_challenge) [Blog Post](https://medium.com/@gireeshputhumana/building-the-fitness-challenge-app-with-appwrite-367286790f64)
+- **Fitness Challenge App with Appwrite** - Create fitness challenges, invite friends, sync your health data from Apple Health/Google Fit and see who's winning. [Source Code](https://github.com/gireeshp/fitness_challenge) [Blog Post](https://medium.com/@gireeshputhumana/building-the-fitness-challenge-app-with-appwrite-367286790f64)
 
-* **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1)
+- **Quit Smoking App with Flutter and Appwrite** - A simple Counting app with user auth [Source Code](https://github.com/Jonathanvanhaaften/flutter_appwrite_1)
 
-* **Almost Instagram with Flutter and Appwrite** - A functional clone of Instagram social media platform [Source Code](https://github.com/letsintegreat/Almost-Instagram)
+- **Almost Instagram with Flutter and Appwrite** - A functional clone of Instagram social media platform [Source Code](https://github.com/letsintegreat/Almost-Instagram)
 
-* **Simple Notes App** - A productivity mobile application to create notes [Source Code](https://github.com/davidnwaneri/simple_notes_app)
+- **Simple Notes App** - A productivity mobile application to create notes [Source Code](https://github.com/davidnwaneri/simple_notes_app)
 
-* **Real-time Voting App** - The app of face-to-face voting at conferences with access control. Includes a Bloc state manager, dependency injection, and more [Source Code](https://github.com/mirea-ninja/voting-app) | [Example Conference](https://vk.com/wall-78724646_1219)
+- **Real-time Voting App** - The app of face-to-face voting at conferences with access control. Includes a Bloc state manager, dependency injection, and more [Source Code](https://github.com/mirea-ninja/voting-app) | [Example Conference](https://vk.com/wall-78724646_1219)
 
-* **Online Store with Flutter and Appwrite** - An online store platform that connects users with nearby shops and small businesses. Includes realtime store details, in app notifications, inventory management and more [Blog Post](https://asutosh.hashnode.dev/building-an-online-store-platform-using-appwrite-and-flutter-localease) | [Tutorial](https://youtu.be/APp9dHVvmPg) | [Source Code](https://github.com/asutoshranjan/local-ease)
+- **Online Store with Flutter and Appwrite** - An online store platform that connects users with nearby shops and small businesses. Includes realtime store details, in app notifications, inventory management and more [Blog Post](https://asutosh.hashnode.dev/building-an-online-store-platform-using-appwrite-and-flutter-localease) | [Tutorial](https://youtu.be/APp9dHVvmPg) | [Source Code](https://github.com/asutoshranjan/local-ease)
 
 ### Godot
 
@@ -327,61 +327,61 @@ Share your apps here! Submit a pull request!
 
 - **Jobwrite** - Jobwrite is a React JS app that lets users find jobs that best match their GitHub profile. It uses NLP technique to analyse and match users with job openings, scrapped from the internet. Loaded with features like GitHub OAuth, filter jobs and feedback options all possible with Appwrite. [Source Code](https://github.com/Dksie09/JobwriteYT) [Blog post](https://duckshie.notion.site/Building-Jobwrite-A-Smart-Job-Search-Platform-using-React-and-Appwrite-21f98b37c7054af3917df6ef1ff1c522?pvs=4) [Video tutorial](https://youtu.be/9z_Rz-13Hm0)
 
-* **OAuth Provider Tester** - A Simple Appwrite OAuth Tester App built to make new oauth provider testing easy. [Source Code](https://github.com/AmreshSinha/OAuth-Tester-Appwrite)
+- **OAuth Provider Tester** - A Simple Appwrite OAuth Tester App built to make new oauth provider testing easy. [Source Code](https://github.com/AmreshSinha/OAuth-Tester-Appwrite)
 
-* **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
+- **User Auth** - User auth is a simple user authentication for web applications. It was made as a guide for your next application. [Source Code](https://github.com/HelixHEX/reactjs-appwrite_userauth), [Blog Post](https://medium.com/@e.wambugu192/user-authentication-with-react-js-and-appwrite-30c9096e92b2)
 
-* **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) [Demo](https://appwrite-todo-with-react.vercel.app/)
+- **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) [Demo](https://appwrite-todo-with-react.vercel.app/)
 
-* **Appwrite + NextJs Todo** A simple login app built with Appwrite and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-todo-with-nextjs)
+- **Appwrite + NextJs Todo** A simple login app built with Appwrite and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-todo-with-nextjs)
 
-* **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/) [Tutorial](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
+- **Made with Appwrite (Next.js)** This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. [Source Code](https://github.com/harisarang/madewithappwrite) [Demo](https://madewithappwrite.vercel.app/) [Tutorial](https://dev.to/harisarang/build-a-web-app-using-nextjs-and-appwrite-4a0l)
 
-* **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
+- **Appwrite + NextJs +Nodejs Instagram clone** A instagram clone bulit with Appwrite , Nodejs and Nextjs. [Source Code](https://github.com/Sooraj-s-98/appwrite-instagram-clone)
 
-* **Building with Appwrite and Netlify** [Blog](https://medium.com/p/dcffb85ddcf8)
+- **Building with Appwrite and Netlify** [Blog](https://medium.com/p/dcffb85ddcf8)
 
-* **Appwrite + NextJs Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
+- **Appwrite + NextJs Blog App** A Simple Blog App built with Appwrite and Nextjs. [Source Code](https://github.com/alceil/apppwrite-blogapp-with-nextjs)
 
-* **Appwrite + NextJs Social Media App** A Social Media App built with Appwrite and Nextjs. [Source Code](https://github.com/SanjayDevTech/appwrite-nextjs-demo)
+- **Appwrite + NextJs Social Media App** A Social Media App built with Appwrite and Nextjs. [Source Code](https://github.com/SanjayDevTech/appwrite-nextjs-demo)
 
-* **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
+- **React TODO App** - React + Appwrite TODO App Demo by @christyjacob4. [Source Code](https://github.com/christyjacob4/todomvc-react)
 
-* **Quiz App (ReactJS and Appwrite)** - A demo web application built using React and integrated with Appwrite. [Source Code](https://github.com/shreyventure/quiz_app_write)
+- **Quiz App (ReactJS and Appwrite)** - A demo web application built using React and integrated with Appwrite. [Source Code](https://github.com/shreyventure/quiz_app_write)
 
-* **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite)
+- **Notes App with React + Appwrite** - A notes web app demo built with React and Appwrite. [Source Code](https://github.com/kunals131/notes-app-appwrite)
 
-* **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
+- **Appwrite + React Google Drive Clone** - A simple google drive clone build with Appwrite and React. [Source Code](https://github.com/Emiliaaah/appwrite-auth-demo)
 
-* **Infinite Scrolling with React + Appwrite** - A simple project to demonstrate infinite scroll paging. [Source Code](https://github.com/SakshiUppoor/infinite-scroll-demo)
+- **Infinite Scrolling with React + Appwrite** - A simple project to demonstrate infinite scroll paging. [Source Code](https://github.com/SakshiUppoor/infinite-scroll-demo)
 
-* **Login Page App with React and Appwrite** - Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
+- **Login Page App with React and Appwrite** - Created an App with complete tutorial [Source Code](https://github.com/kunals131/Login-App-With-Appwrite)
 
-* **Pastebin Clone built with Appwrite** - A simple pastebin clone built in React with Appwrite using Google OAuth for Authentication [Source Code](https://github.com/dro-1/appwrite-pastebin-clone)
+- **Pastebin Clone built with Appwrite** - A simple pastebin clone built in React with Appwrite using Google OAuth for Authentication [Source Code](https://github.com/dro-1/appwrite-pastebin-clone)
 
-* **Chatwrite** -- A simple, no-login chat app made with Appwrite and React. [Source Code](https://github.com/DarthFloopy/Chatwrite)
+- **Chatwrite** -- A simple, no-login chat app made with Appwrite and React. [Source Code](https://github.com/DarthFloopy/Chatwrite)
 
-* **Real-Time CMS using React + Appwrite Real-Time API** - A blogging app to demonstrate how Appwrite's Real-time Service can be used to make CMS changes instant [Source Code](https://bitbucket.org/generic-team-name-23/real-time-cms/src/master/)
+- **Real-Time CMS using React + Appwrite Real-Time API** - A blogging app to demonstrate how Appwrite's Real-time Service can be used to make CMS changes instant [Source Code](https://bitbucket.org/generic-team-name-23/real-time-cms/src/master/)
 
-* **useMindmap** - useMindmap is a mind mapping tool for individuals and teams to put their ideas or projects or whatever else a mind map can be used for. Built with React and Appwrite. [Source Code](https://github.com/benweier/use-mind-map)
+- **useMindmap** - useMindmap is a mind mapping tool for individuals and teams to put their ideas or projects or whatever else a mind map can be used for. Built with React and Appwrite. [Source Code](https://github.com/benweier/use-mind-map)
 
-* **Taskly - better way to manage your tasks** - An app to better manage tasks across all of the different task/todo/issue/project applications. Connect all of your 3party task providers, save time and focus on actually doing your job. [Website](https://taskly.kickass.website/), [Blog post](https://dev.to/capjavert/taskly-better-way-to-manage-your-tasks-2d2m), [Source Code](https://github.com/kickassCoderz/taskly)
+- **Taskly - better way to manage your tasks** - An app to better manage tasks across all of the different task/todo/issue/project applications. Connect all of your 3party task providers, save time and focus on actually doing your job. [Website](https://taskly.kickass.website/), [Blog post](https://dev.to/capjavert/taskly-better-way-to-manage-your-tasks-2d2m), [Source Code](https://github.com/kickassCoderz/taskly)
 
-* **Places** - A showcase of how to use Appwrite to build a location-based app with related Collections, Appwrite Functions to ensure data integrity, and Realtime subscriptions to fetch asynchronously. [Blog Post](https://levelup.gitconnected.com/building-a-location-based-app-with-appwrite-48a2e2b6d4c2) | [Demo](https://places.pages.dev/) | [Source Code](https://github.com/stnguyen90/places)
+- **Places** - A showcase of how to use Appwrite to build a location-based app with related Collections, Appwrite Functions to ensure data integrity, and Realtime subscriptions to fetch asynchronously. [Blog Post](https://levelup.gitconnected.com/building-a-location-based-app-with-appwrite-48a2e2b6d4c2) | [Demo](https://places.pages.dev/) | [Source Code](https://github.com/stnguyen90/places)
 
-* **Snake Arcade** - A retro themed snake game with a live highscore board built in React using Appwrite Database and Realtime feature. [Blog Post](https://dev.to/anomic30/retro-themed-snake-game-with-live-highscore-board-2lei) | [Demo](https://snake-arcade-bck7y.ondigitalocean.app/) | [Source Code](https://github.com/anomic30/Snake-arcade)
+- **Snake Arcade** - A retro themed snake game with a live highscore board built in React using Appwrite Database and Realtime feature. [Blog Post](https://dev.to/anomic30/retro-themed-snake-game-with-live-highscore-board-2lei) | [Demo](https://snake-arcade-bck7y.ondigitalocean.app/) | [Source Code](https://github.com/anomic30/Snake-arcade)
 
-* **ScheduMate** - A web application that allows you to easily see the classes that you have in common with your friends. Friends make classes so much better! [Website](https://schedumate.study) | [Source Code](https://github.com/The-Powerpuff-Boys/schedu-mate)
+- **ScheduMate** - A web application that allows you to easily see the classes that you have in common with your friends. Friends make classes so much better! [Website](https://schedumate.study) | [Source Code](https://github.com/The-Powerpuff-Boys/schedu-mate)
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite)
+- **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite)
 
-* **Next Appwrite Users** - App that showcases how to use Next.js with Appwrite as its backend. Uses Appwrite for Auth both on the frontend and on API routes. [Source code](https://github.com/RobRuizR/next-appwrite-users)
+- **Next Appwrite Users** - App that showcases how to use Next.js with Appwrite as its backend. Uses Appwrite for Auth both on the frontend and on API routes. [Source code](https://github.com/RobRuizR/next-appwrite-users)
 
-* **Voting App Admin** - Admin panel built with Next.js to control conference polls. [Source Code](https://github.com/mirea-ninja/voting-app-admin) | [Example Conference](https://vk.com/wall-78724646_1219)
+- **Voting App Admin** - Admin panel built with Next.js to control conference polls. [Source Code](https://github.com/mirea-ninja/voting-app-admin) | [Example Conference](https://vk.com/wall-78724646_1219)
 
-* **Event-Ally** - Event-Ally is an event management application where organizing and executing unforgettable events becomes effortless. [Source Code](https://github.com/Rohit-RA-2020/Task-Management) | [Blog Post](https://rohitranjan.hashnode.dev/event-ally-build-an-event-planning-platform-using-nextjs-appwrite) | [Video](https://youtu.be/CuI3aE7zN5Q)
+- **Event-Ally** - Event-Ally is an event management application where organizing and executing unforgettable events becomes effortless. [Source Code](https://github.com/Rohit-RA-2020/Task-Management) | [Blog Post](https://rohitranjan.hashnode.dev/event-ally-build-an-event-planning-platform-using-nextjs-appwrite) | [Video](https://youtu.be/CuI3aE7zN5Q)
 
-* **Code-Snippets-Builder** - Drag and drop code snippet builder, effortlessly showcase your code in a visually appealing and professional manner. [Source Code](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder) | [Blog Post](https://blog.sachinchaurasiya.dev//code-snippet-builder-create-stunning-code-snippets)
+- **Code-Snippets-Builder** - Drag and drop code snippet builder, effortlessly showcase your code in a visually appealing and professional manner. [Source Code](https://github.com/Sachin-chaurasiya/Code-Snippets-Builder) | [Blog Post](https://blog.sachinchaurasiya.dev//code-snippet-builder-create-stunning-code-snippets)
 
 ### React Native
 
