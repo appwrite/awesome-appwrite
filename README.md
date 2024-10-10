@@ -8,6 +8,7 @@
   - [Official Tutorials and Blog Posts](#official-tutorials-and-blog-posts)
     - [30 Days of Appwrite :sparkles:](#30-days-of-appwrite-sparkles)
     - [Almost Netflix :clapper:](#almost-netflix-clapper)
+  - [Videos](#videos)
   - [Hacktoberfest 2021](#hacktoberfest-2021)
   - [Hacktoberfest 2022](#hacktoberfest-2022)
   - [Hacktoberfest 2023](#hacktoberfest-2023)
@@ -35,7 +36,6 @@
     - [Unity](#unity)
     - [Android](#android-1)
     - [.NET](#net)
-  - [Videos](#videos)
   - [Books](#books)
   - [Inspiration](#inspiration)
   - [Playgrounds and Snippets](#playgrounds-and-snippets)
@@ -47,6 +47,8 @@
 
 ## Announcements
 
+- [Announcing Appwrite's new Integration Catalog](https://appwrite.io/blog/post/announcing-appwrite-integration-catalog)
+- [Appwrite joins the OpenJS Foundation](https://appwrite.io/blog/post/announcing-openjsfoundation-silver-membership)
 - [Introducing Appwrite's React Native SDK in open beta](https://appwrite.io/blog/post/introducing-appwrite-react-native-sdk)
 - [Appwrite 1.4 Brings Command Center, AI, One-Click Migrations, and Upgraded Functions](https://dev.to/appwrite/appwrite-14-brings-command-center-ai-one-click-migrations-and-upgraded-functions-1ch2)
 - [Join Celebrations! Appwrite 1.3 Ships Relationships](https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc)
@@ -61,6 +63,8 @@
 
 ## Official Tutorials and Blog Posts
 
+- [How to set up Sign in with Apple](https://appwrite.io/blog/post/how-to-set-up-sign-in-with-apple)
+- [A technical deep dive into image classification](https://appwrite.io/blog/post/image-classification)
 - [Building with Appwrite AI Function templates](https://appwrite.io/blog/post/building-with-ai-function-templates)
 - [Setting up protective routes in React](https://appwrite.io/blog/post/react-protected-routes)
 - [Get started with Appwrite Realtime for Flutter](https://appwrite.io/blog/post/appwrite-realtime-for-flutter)
@@ -147,6 +151,27 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 - [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
 - [Almost Netflix: A Netflix clone built with Flutter + Appwrite](https://dev.to/appwrite/almost-netflix-a-netflix-clone-built-with-flutter-appwrite-4d8p)
 - [Almost Netflix: An iOS Netflix Clone built with Appwrite](https://dev.to/appwrite/almost-netflix-an-ios-netflix-clone-built-with-appwrite-5b7)
+
+## Videos
+
+- [Build a Jira Clone With Nextjs, React, Tailwind, Hono.js | Part 1/2 (2024)](https://youtu.be/Av9C7xlV0fA)
+- [Build a Jira Clone With Nextjs, React, Tailwind, Hono.js | Part 2/2 (2024)](https://youtu.be/37v63U7-iG0)
+- [Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind](https://youtu.be/Z1Zd5Zz-3kA)
+- [YouTube Video Series - chipIn App Tutorial | Event Planning & Management with Flutter & Appwrite](https://www.youtube.com/watch?v=l9zh0pqEHyc)
+- [Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query](https://youtu.be/_W3R2VwRyF4)
+- [React Native Course for Beginners in 2024 | Build a Full Stack React Native App](https://www.youtube.com/watch?v=ZBCUegTZF7M)
+- [Build and Deploy a Banking App with Finance Management Dashboard Using Next.js 14](https://www.youtube.com/watch?v=PuOVqP_cjkE)
+- [Build and Deploy 3 Modern Apps and Get Hired as Full Stack Developer Full 12-Hour Course](https://youtu.be/DwbwuYYiBTk)
+- [Build and Deploy a Patient Management System with Next.js | Twilio, TypeScript, TailwindCSS](https://youtu.be/lEflo_sc82g)
+- [Next.js & Appwrite – Full Stack Course for Beginners](https://youtu.be/ETV17M4SauU)
+- [Appwrite Database Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gXxY0nrh9N4CYHtwnoHjV2)
+- [Let's build Stackoverflow with nextjs and Appwrite](https://youtu.be/arKkpkWlKhc)
+- [Messaging Tutorial - SMS/Email/Push Notifications Full Course](https://youtu.be/bZFj8GCZmq4)
+- [Here's how you do auth with 100% SSR in Next.js](https://youtu.be/ENnG7GusuO4)
+- [Express like routing let's you create REST API's with Appwrite functions](https://youtu.be/_YMw268j2IU)
+- [Get started with Appwrite + React - Fullstack App](https://youtu.be/_JDeJgsU-bI)
+- [Setup Google OAuth sign in 6 minutes](https://youtu.be/tgO_ADSvY1I)
+- [Fullstack Drag & Drop Notes App with React](https://youtu.be/yBThHM2pBbE)
 
 ## Hacktoberfest 2021
 
@@ -440,24 +465,6 @@ Share your apps here! Submit a pull request!
 ### .NET
 
 - **SOS App** - A cross-platform mobile app built with .NET MAUI that allows the user to send an SOS message with their location to a saved phone number in times of distress using an Appwrite Function, Radar, and Twilio. [Source Code](https://github.com/adityaoberai/SOS-MAUI)
-
-## Videos
-
-- [YouTube Video Series - chipIn App Tutorial | Event Planning & Management with Flutter & Appwrite](https://www.youtube.com/playlist?list=PLVxKaz1qsM-k4jD0PZBhhrvZmiUmPMEhe)
-- [Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query](https://youtu.be/_W3R2VwRyF4)
-- [React Native Course for Beginners in 2024 | Build a Full Stack React Native App](https://www.youtube.com/watch?v=ZBCUegTZF7M)
-- [Build and Deploy a Banking App with Finance Management Dashboard Using Next.js 14](https://www.youtube.com/watch?v=PuOVqP_cjkE)
-- [Build and Deploy 3 Modern Apps and Get Hired as Full Stack Developer Full 12-Hour Course](https://youtu.be/DwbwuYYiBTk)
-- [Build and Deploy a Patient Management System with Next.js | Twilio, TypeScript, TailwindCSS](https://youtu.be/lEflo_sc82g)
-- [Next.js & Appwrite – Full Stack Course for Beginners](https://youtu.be/ETV17M4SauU)
-- [Appwrite Database Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gXxY0nrh9N4CYHtwnoHjV2)
-- [Let's build Stackoverflow with nextjs and Appwrite](https://youtu.be/arKkpkWlKhc)
-- [Messaging Tutorial - SMS/Email/Push Notifications Full Course](https://youtu.be/bZFj8GCZmq4)
-- [Here's how you do auth with 100% SSR in Next.js](https://youtu.be/ENnG7GusuO4)
-- [Express like routing let's you create REST API's with Appwrite functions](https://youtu.be/_YMw268j2IU)
-- [Get started with Appwrite + React - Fullstack App](https://youtu.be/_JDeJgsU-bI)
-- [Setup Google OAuth sign in 6 minutes](https://youtu.be/tgO_ADSvY1I)
-- [Fullstack Drag & Drop Notes App with React](https://youtu.be/yBThHM2pBbE)
 
 ## Books
 
